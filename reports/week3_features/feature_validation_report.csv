@@ -1,0 +1,11 @@
+check,value,status,details
+Total rows,48839,PASS,
+Training rows,39158,PASS,
+Open invoice rows,9681,PASS,
+Target missing in training,0,PASS,
+Target missing in open invoices,9681,PASS,
+Negative payment term rows,0,REVIEW,
+Due date anomaly rows,137,REVIEW,
+Customer history count consistency,0,REVIEW,A cleared invoice may have been posted before the current invoice; investigate any positive count.
+Feature columns,18,PASS,
+Original cleaned dataset unchanged,Separate output file used,PASS,

@@ -1,0 +1,21 @@
+2026-11-25 12:42:39,514 - INFO - Week 3 feature engineering started
+2026-11-25 12:42:39,619 - INFO - Dataset loaded: (48839, 21)
+2026-11-25 12:43:17,427 - INFO - All feature rows: 48839
+2026-11-25 12:43:17,427 - INFO - Cleared invoice rows: 39158
+2026-11-25 12:43:17,428 - INFO - Open invoice rows: 9681
+2026-11-25 12:43:17,684 - INFO - Feature datasets saved
+2026-11-25 12:43:17,723 - INFO - Week 3 feature engineering completed successfully
+2026-11-25 12:49:26,815 - INFO - Week 3 feature engineering started
+2026-11-25 12:49:26,907 - INFO - Dataset loaded: (48839, 21)
+2026-11-25 12:49:59,997 - INFO - All feature rows: 48839
+2026-11-25 12:49:59,998 - INFO - Cleared invoice rows: 39158
+2026-11-25 12:49:59,999 - INFO - Open invoice rows: 9681
+2026-11-25 12:50:00,207 - INFO - Feature datasets saved
+2026-11-25 12:50:00,244 - INFO - Week 3 feature engineering completed successfully
+2026-11-25 12:55:22,079 - INFO - Week 3 feature engineering started
+2026-11-25 12:55:22,179 - INFO - Dataset loaded: (48839, 21)
+2026-11-25 12:55:58,741 - INFO - All feature rows: 48839
+2026-11-25 12:55:58,741 - INFO - Cleared invoice rows: 39158
+2026-11-25 12:55:58,741 - INFO - Open invoice rows: 9681
+2026-11-25 12:55:58,945 - INFO - Feature datasets saved
+2026-11-25 12:55:58,979 - INFO - Week 3 feature engineering completed successfully

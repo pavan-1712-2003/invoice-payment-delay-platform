@@ -1,0 +1,20 @@
+feature,description
+business_code,Business entity code
+invoice_currency,Invoice currency
+document_type,Invoice document type
+cust_payment_terms,Customer payment terms code
+total_open_amount,Source amount field; business meaning requires confirmation
+has_customer_payment_history,1 if at least one earlier customer payment was cleared before the current posting date
+invoice_year,Year of invoice posting date
+invoice_month,Month of invoice posting date
+invoice_day,Day of month of invoice posting date
+invoice_day_of_week,"Day of week, Monday=0"
+payment_term_days,Due date minus baseline creation date
+posting_to_due_days,Due date minus posting date
+is_due_date_anomaly,1 when due date is earlier than posting date
+customer_previous_invoice_count,Number of same-customer invoices posted before current posting date
+customer_previous_cleared_count,Number of same-customer payments cleared before current posting date
+customer_previous_late_rate,Historical late-payment rate using only earlier cleared payments
+customer_previous_avg_delay,Historical average payment delay using only earlier cleared payments
+customer_previous_median_delay,Historical median payment delay using only earlier cleared payments
+late_payment,"Target: 1 late, 0 not late; missing for open invoices"
