@@ -1,0 +1,3 @@
+invoice_currency,invoice_count,average_amount,median_amount,minimum_amount,maximum_amount,total_amount
+CAD,3828,56131.2391431557,30934.93,9.22,432154.68,214870383.44
+USD,45011,30293.786799449026,16992.28,0.72,668593.36,1363553637.63

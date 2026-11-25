@@ -1,0 +1,6 @@
+due_status,invoice_count,percentage
+Overdue >30 days,5614,57.99
+Overdue 1-30 days,3567,36.85
+Due in 1-30 days,376,3.88
+Due on snapshot date,106,1.09
+Due in 31-60 days,18,0.19

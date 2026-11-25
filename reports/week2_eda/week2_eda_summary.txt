@@ -1,0 +1,55 @@
+
+WEEK 2 - EXPLORATORY DATA ANALYSIS SUMMARY
+
+DATASET
+-------
+Total invoices: 48839
+Total columns: 21
+Cleared invoices: 39158
+Open invoices: 9681
+
+PAYMENT BEHAVIOR
+----------------
+Early payments: 14469
+On-time payments: 8271
+Late payments: 16418
+
+Late payment percentage among cleared invoices:
+41.93%
+
+PAYMENT DELAY
+-------------
+Average delay: 0.84 days
+Median delay: 0.00 days
+Minimum delay: -89 days
+Maximum delay: 204 days
+
+OPEN INVOICE ANALYSIS
+---------------------
+Assumed snapshot date: 2020-05-22
+Past-due open invoices: 9181
+Not-yet-due open invoices:
+394
+Open invoices due on snapshot date:
+106
+
+DATASET LIMITATIONS
+-------------------
+1. Open invoices are concentrated in the latest dataset period.
+2. The assumed snapshot date requires source confirmation.
+3. total_open_amount meaning is unverified.
+4. Amount comparisons across currencies require conversion.
+5. Payment delay and late_payment are outcome-related variables.
+6. Monthly created and cleared counts are not invoice cohort conversion rates.
+7. Correlation analysis is exploratory, not feature selection.
+8. Outliers and documented date anomalies were retained.
+
+MODELING CAUTION
+----------------
+Do not use clear_date, payment_delay_days, or late_payment
+as invoice-time prediction input features.
+
+Do not use is_open as an invoice-time prediction feature.
+Define the prediction date and available information first.
+
+Week 2 EDA completed.

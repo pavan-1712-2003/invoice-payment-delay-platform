@@ -1,0 +1,10 @@
+Metric,Value
+Total invoices,48839
+Total columns,21
+Cleared invoices,39158
+Open invoices,9681
+Missing invoice IDs,6
+Duplicate rows,0
+Earliest posting date,2018-12-30 00:00:00
+Latest posting date,2020-05-22 00:00:00
+Assumed snapshot date,2020-05-22 00:00:00
