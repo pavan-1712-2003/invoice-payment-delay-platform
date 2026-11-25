@@ -1,0 +1,4 @@
+column,Q1,Q3,IQR,lower_bound,upper_bound,outlier_count,outlier_percentage
+total_open_amount,4912.395,47114.71000000001,42202.315,-58391.0775,110418.18250000001,2460,5.04
+payment_delay_days,-3.0,2.0,5.0,-10.5,9.5,2981,7.61
+days_to_clear,12.0,17.0,5.0,4.5,24.5,4967,12.68

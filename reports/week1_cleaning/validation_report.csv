@@ -1,0 +1,25 @@
+check,count,status
+Missing values - business_code,0,PASS
+Missing values - cust_number,0,PASS
+Missing values - name_customer,0,PASS
+Missing values - clear_date,9681,Expected
+Missing values - business_year,0,PASS
+Missing values - doc_id,0,PASS
+Missing values - posting_date,0,PASS
+Missing values - document_create_date,0,PASS
+Missing values - document_create_date_alt,0,PASS
+Missing values - due_in_date,0,PASS
+Missing values - invoice_currency,0,PASS
+Missing values - document_type,0,PASS
+Missing values - posting_id,0,PASS
+Missing values - total_open_amount,0,PASS
+Missing values - baseline_create_date,0,PASS
+Missing values - cust_payment_terms,0,PASS
+Missing values - invoice_id,6,Review
+Missing values - is_open,0,PASS
+Due date before posting date,137,Review
+Clear date before posting date,0,Review
+Clear date before due date,14469,Review
+is_open versus clear_date mismatch,0,Review
+Negative total_open_amount,0,Review
+Invalid is_open values,0,Review

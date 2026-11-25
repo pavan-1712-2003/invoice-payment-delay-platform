@@ -1,0 +1,8 @@
+operation,rows_affected,details
+Original dataset loaded,50000,Loaded raw CSV dataset
+Empty columns removed,0,['area_business']
+Exact duplicate rows removed,1161,Exact full-row duplicates only
+Date conversion,48839,Converted date columns to datetime
+Numeric conversion,48839,Converted numeric and identifier columns
+Payment targets created,39158,Targets created only for cleared invoices
+Outlier detection,48839,IQR detection; no outliers deleted or capped

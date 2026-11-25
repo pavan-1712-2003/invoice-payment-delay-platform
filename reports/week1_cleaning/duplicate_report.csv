@@ -1,0 +1,3 @@
+column,rows_in_duplicate_groups,unique_duplicated_values,missing_values
+doc_id,0,0,0
+invoice_id,0,0,6

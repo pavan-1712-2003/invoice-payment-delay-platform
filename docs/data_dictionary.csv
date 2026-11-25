@@ -1,0 +1,22 @@
+column,data_type,description,missing_values,unique_values
+business_code,string,Business entity code,0,6
+cust_number,string,Customer identifier,0,1425
+name_customer,string,Customer name,0,4192
+clear_date,datetime64[ns],Actual invoice clearing date,9681,403
+business_year,Int64,Business year,0,2
+doc_id,Int64,Document identifier,0,48839
+posting_date,datetime64[ns],Invoice posting date,0,506
+document_create_date,datetime64[ns],Document creation date,0,507
+document_create_date_alt,datetime64[ns],Alternate document creation date field,0,506
+due_in_date,datetime64[ns],Invoice due date,0,547
+invoice_currency,string,Invoice currency,0,2
+document_type,string,Accounting document type,0,2
+posting_id,Int64,Posting identifier,0,1
+total_open_amount,float64,Invoice amount field supplied by dataset,0,44349
+baseline_create_date,datetime64[ns],Baseline creation date,0,506
+cust_payment_terms,string,Customer payment terms,0,74
+invoice_id,Int64,Invoice identifier,6,48833
+is_open,Int64,Open invoice indicator,0,2
+payment_delay_days,Int64,Clear date minus due date,9681,176
+late_payment,Int8,"1 if cleared after due date, otherwise 0",9681,2
+days_to_clear,Int64,Clear date minus posting date,9681,145
