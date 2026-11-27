@@ -1,0 +1,28 @@
+{
+    "raw_threshold": 0.4,
+    "calibrated_threshold": 0.3491532574508104,
+    "validation_period": "2019-09-01 to 2019-11-30",
+    "final_test_period": "2020-02-01 to 2020-02-27",
+    "validation_rows": 8679,
+    "final_test_rows": 2359,
+    "features": [
+        "business_code",
+        "invoice_currency",
+        "document_type",
+        "cust_payment_terms",
+        "has_customer_payment_history",
+        "invoice_year",
+        "invoice_month",
+        "invoice_day",
+        "invoice_day_of_week",
+        "payment_term_days",
+        "posting_to_due_days",
+        "is_due_date_anomaly",
+        "customer_previous_invoice_count",
+        "customer_previous_cleared_count",
+        "customer_previous_late_rate",
+        "customer_previous_avg_delay",
+        "customer_previous_median_delay"
+    ],
+    "example_predictions": "First 25 final-test records; no customer identifiers"
+}

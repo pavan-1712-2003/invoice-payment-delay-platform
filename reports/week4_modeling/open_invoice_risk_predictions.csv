@@ -1,0 +1,9682 @@
+prediction_record,predicted_late_probability_percent,late_payment_alert
+1,93.32,Alert
+2,53.3,Alert
+3,29.45,No alert
+4,67.92,Alert
+5,13.22,No alert
+6,80.93,Alert
+7,94.62,Alert
+8,16.95,No alert
+9,18.61,No alert
+10,18.55,No alert
+11,6.16,No alert
+12,36.47,Alert
+13,5.65,No alert
+14,14.54,No alert
+15,93.46,Alert
+16,19.49,No alert
+17,16.01,No alert
+18,52.94,Alert
+19,80.83,Alert
+20,13.67,No alert
+21,27.8,No alert
+22,16.63,No alert
+23,15.47,No alert
+24,88.16,Alert
+25,74.08,Alert
+26,16.22,No alert
+27,22.4,No alert
+28,34.2,No alert
+29,26.19,No alert
+30,61.63,Alert
+31,17.74,No alert
+32,52.12,Alert
+33,16.49,No alert
+34,30.57,No alert
+35,28.07,No alert
+36,40.04,Alert
+37,15.47,No alert
+38,19.38,No alert
+39,15.27,No alert
+40,19.02,No alert
+41,13.51,No alert
+42,46.33,Alert
+43,56.02,Alert
+44,39.57,Alert
+45,22.56,No alert
+46,94.25,Alert
+47,79.6,Alert
+48,89.94,Alert
+49,13.51,No alert
+50,17.29,No alert
+51,55.32,Alert
+52,16.62,No alert
+53,16.22,No alert
+54,33.51,No alert
+55,94.58,Alert
+56,16.1,No alert
+57,18.0,No alert
+58,16.1,No alert
+59,35.22,Alert
+60,58.4,Alert
+61,41.47,Alert
+62,83.57,Alert
+63,90.16,Alert
+64,14.77,No alert
+65,14.57,No alert
+66,87.51,Alert
+67,56.98,Alert
+68,54.96,Alert
+69,27.69,No alert
+70,82.17,Alert
+71,15.41,No alert
+72,32.04,No alert
+73,91.82,Alert
+74,81.55,Alert
+75,13.37,No alert
+76,13.56,No alert
+77,13.88,No alert
+78,61.7,Alert
+79,72.62,Alert
+80,12.86,No alert
+81,39.87,Alert
+82,32.11,No alert
+83,30.48,No alert
+84,28.3,No alert
+85,85.58,Alert
+86,11.83,No alert
+87,78.1,Alert
+88,22.05,No alert
+89,93.62,Alert
+90,13.88,No alert
+91,58.49,Alert
+92,52.22,Alert
+93,68.06,Alert
+94,26.29,No alert
+95,20.35,No alert
+96,67.23,Alert
+97,68.11,Alert
+98,88.82,Alert
+99,44.14,Alert
+100,78.23,Alert
+101,93.73,Alert
+102,13.67,No alert
+103,5.57,No alert
+104,54.6,Alert
+105,16.43,No alert
+106,83.74,Alert
+107,62.19,Alert
+108,13.51,No alert
+109,15.84,No alert
+110,56.73,Alert
+111,76.65,Alert
+112,14.57,No alert
+113,86.0,Alert
+114,91.74,Alert
+115,68.68,Alert
+116,72.9,Alert
+117,16.95,No alert
+118,6.1,No alert
+119,16.32,No alert
+120,26.29,No alert
+121,19.9,No alert
+122,21.1,No alert
+123,20.6,No alert
+124,67.97,Alert
+125,29.72,No alert
+126,61.61,Alert
+127,14.47,No alert
+128,14.82,No alert
+129,16.67,No alert
+130,67.05,Alert
+131,13.85,No alert
+132,15.47,No alert
+133,85.38,Alert
+134,16.35,No alert
+135,17.61,No alert
+136,42.4,Alert
+137,15.47,No alert
+138,60.44,Alert
+139,16.67,No alert
+140,14.77,No alert
+141,73.74,Alert
+142,72.84,Alert
+143,17.37,No alert
+144,19.97,No alert
+145,17.92,No alert
+146,14.9,No alert
+147,72.68,Alert
+148,55.48,Alert
+149,18.0,No alert
+150,16.4,No alert
+151,24.97,No alert
+152,18.22,No alert
+153,84.69,Alert
+154,57.05,Alert
+155,12.45,No alert
+156,30.82,No alert
+157,20.16,No alert
+158,94.07,Alert
+159,55.87,Alert
+160,17.82,No alert
+161,19.37,No alert
+162,17.07,No alert
+163,16.33,No alert
+164,55.47,Alert
+165,26.29,No alert
+166,28.24,No alert
+167,65.83,Alert
+168,42.67,Alert
+169,16.27,No alert
+170,74.47,Alert
+171,94.14,Alert
+172,27.52,No alert
+173,27.49,No alert
+174,18.35,No alert
+175,65.55,Alert
+176,16.62,No alert
+177,5.68,No alert
+178,29.41,No alert
+179,18.0,No alert
+180,62.53,Alert
+181,13.52,No alert
+182,9.29,No alert
+183,6.95,No alert
+184,15.47,No alert
+185,56.3,Alert
+186,10.27,No alert
+187,15.67,No alert
+188,60.02,Alert
+189,56.3,Alert
+190,10.21,No alert
+191,70.05,Alert
+192,85.11,Alert
+193,78.45,Alert
+194,7.39,No alert
+195,16.49,No alert
+196,67.4,Alert
+197,80.3,Alert
+198,30.37,No alert
+199,13.98,No alert
+200,16.1,No alert
+201,16.35,No alert
+202,61.39,Alert
+203,19.92,No alert
+204,13.67,No alert
+205,5.74,No alert
+206,70.29,Alert
+207,12.08,No alert
+208,81.2,Alert
+209,81.43,Alert
+210,14.97,No alert
+211,56.83,Alert
+212,16.49,No alert
+213,59.6,Alert
+214,28.73,No alert
+215,88.03,Alert
+216,23.54,No alert
+217,69.11,Alert
+218,81.51,Alert
+219,15.47,No alert
+220,11.34,No alert
+221,59.99,Alert
+222,14.57,No alert
+223,19.1,No alert
+224,93.69,Alert
+225,14.77,No alert
+226,60.13,Alert
+227,56.43,Alert
+228,17.84,No alert
+229,10.21,No alert
+230,60.91,Alert
+231,14.7,No alert
+232,94.01,Alert
+233,22.56,No alert
+234,18.07,No alert
+235,55.47,Alert
+236,26.67,No alert
+237,76.29,Alert
+238,18.48,No alert
+239,89.11,Alert
+240,14.68,No alert
+241,10.36,No alert
+242,15.2,No alert
+243,64.67,Alert
+244,11.6,No alert
+245,5.34,No alert
+246,58.75,Alert
+247,21.02,No alert
+248,13.52,No alert
+249,19.28,No alert
+250,20.04,No alert
+251,17.56,No alert
+252,19.04,No alert
+253,48.7,Alert
+254,70.83,Alert
+255,28.04,No alert
+256,5.73,No alert
+257,80.21,Alert
+258,14.82,No alert
+259,15.47,No alert
+260,82.78,Alert
+261,15.85,No alert
+262,28.82,No alert
+263,18.3,No alert
+264,82.82,Alert
+265,21.1,No alert
+266,15.24,No alert
+267,51.65,Alert
+268,20.5,No alert
+269,93.3,Alert
+270,16.62,No alert
+271,73.79,Alert
+272,14.01,No alert
+273,90.2,Alert
+274,18.06,No alert
+275,93.29,Alert
+276,26.83,No alert
+277,37.91,Alert
+278,16.63,No alert
+279,79.0,Alert
+280,61.62,Alert
+281,20.2,No alert
+282,53.3,Alert
+283,80.3,Alert
+284,17.29,No alert
+285,12.16,No alert
+286,61.33,Alert
+287,15.57,No alert
+288,6.25,No alert
+289,17.73,No alert
+290,85.01,Alert
+291,94.14,Alert
+292,20.59,No alert
+293,62.94,Alert
+294,17.07,No alert
+295,90.72,Alert
+296,93.25,Alert
+297,14.8,No alert
+298,58.51,Alert
+299,14.24,No alert
+300,57.81,Alert
+301,6.47,No alert
+302,80.42,Alert
+303,94.61,Alert
+304,93.85,Alert
+305,29.08,No alert
+306,82.35,Alert
+307,14.11,No alert
+308,58.16,Alert
+309,17.04,No alert
+310,64.61,Alert
+311,12.98,No alert
+312,15.3,No alert
+313,41.5,Alert
+314,86.19,Alert
+315,55.46,Alert
+316,16.06,No alert
+317,16.22,No alert
+318,9.15,No alert
+319,55.41,Alert
+320,43.99,Alert
+321,5.65,No alert
+322,81.05,Alert
+323,20.01,No alert
+324,70.62,Alert
+325,11.83,No alert
+326,88.38,Alert
+327,16.22,No alert
+328,49.66,Alert
+329,80.08,Alert
+330,23.35,No alert
+331,16.57,No alert
+332,28.11,No alert
+333,47.65,Alert
+334,17.85,No alert
+335,15.24,No alert
+336,21.06,No alert
+337,20.91,No alert
+338,93.19,Alert
+339,90.54,Alert
+340,17.07,No alert
+341,58.03,Alert
+342,53.89,Alert
+343,89.71,Alert
+344,16.1,No alert
+345,61.73,Alert
+346,19.37,No alert
+347,20.65,No alert
+348,80.72,Alert
+349,21.02,No alert
+350,42.12,Alert
+351,86.69,Alert
+352,17.17,No alert
+353,16.67,No alert
+354,85.85,Alert
+355,76.88,Alert
+356,19.04,No alert
+357,84.17,Alert
+358,15.57,No alert
+359,71.85,Alert
+360,94.1,Alert
+361,16.1,No alert
+362,12.16,No alert
+363,14.08,No alert
+364,21.54,No alert
+365,75.21,Alert
+366,45.9,Alert
+367,38.03,Alert
+368,18.47,No alert
+369,15.7,No alert
+370,18.0,No alert
+371,14.77,No alert
+372,65.2,Alert
+373,90.88,Alert
+374,18.0,No alert
+375,74.44,Alert
+376,15.68,No alert
+377,41.92,Alert
+378,18.51,No alert
+379,93.6,Alert
+380,66.33,Alert
+381,13.59,No alert
+382,18.76,No alert
+383,16.88,No alert
+384,88.18,Alert
+385,93.21,Alert
+386,15.54,No alert
+387,63.0,Alert
+388,13.88,No alert
+389,18.69,No alert
+390,18.0,No alert
+391,62.27,Alert
+392,33.67,No alert
+393,15.24,No alert
+394,94.01,Alert
+395,17.85,No alert
+396,80.52,Alert
+397,21.14,No alert
+398,72.46,Alert
+399,71.23,Alert
+400,55.65,Alert
+401,18.0,No alert
+402,67.05,Alert
+403,16.1,No alert
+404,27.29,No alert
+405,14.47,No alert
+406,18.76,No alert
+407,11.76,No alert
+408,34.12,No alert
+409,27.69,No alert
+410,39.01,Alert
+411,13.51,No alert
+412,15.92,No alert
+413,83.67,Alert
+414,24.35,No alert
+415,11.83,No alert
+416,15.92,No alert
+417,20.95,No alert
+418,26.43,No alert
+419,18.47,No alert
+420,16.62,No alert
+421,71.08,Alert
+422,17.85,No alert
+423,12.98,No alert
+424,15.77,No alert
+425,76.26,Alert
+426,85.9,Alert
+427,24.94,No alert
+428,75.37,Alert
+429,17.29,No alert
+430,7.34,No alert
+431,69.03,Alert
+432,13.51,No alert
+433,44.42,Alert
+434,76.42,Alert
+435,56.03,Alert
+436,59.79,Alert
+437,66.96,Alert
+438,22.61,No alert
+439,42.34,Alert
+440,14.67,No alert
+441,60.54,Alert
+442,38.86,Alert
+443,19.04,No alert
+444,16.63,No alert
+445,36.45,Alert
+446,22.4,No alert
+447,25.34,No alert
+448,58.4,Alert
+449,48.05,Alert
+450,83.3,Alert
+451,10.36,No alert
+452,91.07,Alert
+453,76.74,Alert
+454,94.01,Alert
+455,83.03,Alert
+456,29.22,No alert
+457,23.21,No alert
+458,15.67,No alert
+459,55.82,Alert
+460,80.22,Alert
+461,19.01,No alert
+462,94.09,Alert
+463,50.5,Alert
+464,93.82,Alert
+465,70.57,Alert
+466,16.1,No alert
+467,85.2,Alert
+468,43.45,Alert
+469,13.88,No alert
+470,39.47,Alert
+471,33.05,No alert
+472,17.92,No alert
+473,18.0,No alert
+474,58.85,Alert
+475,14.23,No alert
+476,17.29,No alert
+477,29.41,No alert
+478,14.62,No alert
+479,20.91,No alert
+480,26.0,No alert
+481,12.63,No alert
+482,17.74,No alert
+483,60.07,Alert
+484,79.91,Alert
+485,74.78,Alert
+486,16.32,No alert
+487,6.08,No alert
+488,64.69,Alert
+489,91.14,Alert
+490,14.47,No alert
+491,19.01,No alert
+492,16.35,No alert
+493,24.9,No alert
+494,17.58,No alert
+495,11.52,No alert
+496,13.88,No alert
+497,37.68,Alert
+498,85.02,Alert
+499,93.98,Alert
+500,19.49,No alert
+501,15.34,No alert
+502,26.01,No alert
+503,15.2,No alert
+504,16.23,No alert
+505,18.35,No alert
+506,22.32,No alert
+507,86.62,Alert
+508,11.55,No alert
+509,14.57,No alert
+510,50.49,Alert
+511,16.67,No alert
+512,85.22,Alert
+513,13.51,No alert
+514,83.82,Alert
+515,16.62,No alert
+516,15.64,No alert
+517,53.16,Alert
+518,80.15,Alert
+519,57.7,Alert
+520,86.08,Alert
+521,17.74,No alert
+522,15.61,No alert
+523,19.8,No alert
+524,83.72,Alert
+525,69.36,Alert
+526,91.1,Alert
+527,6.08,No alert
+528,14.54,No alert
+529,32.87,No alert
+530,12.63,No alert
+531,16.1,No alert
+532,16.63,No alert
+533,86.19,Alert
+534,15.7,No alert
+535,84.46,Alert
+536,19.38,No alert
+537,78.4,Alert
+538,71.92,Alert
+539,17.74,No alert
+540,86.38,Alert
+541,52.09,Alert
+542,66.9,Alert
+543,18.06,No alert
+544,14.75,No alert
+545,72.24,Alert
+546,17.85,No alert
+547,19.38,No alert
+548,91.03,Alert
+549,15.04,No alert
+550,25.42,No alert
+551,81.97,Alert
+552,10.24,No alert
+553,85.95,Alert
+554,56.44,Alert
+555,23.54,No alert
+556,17.05,No alert
+557,63.65,Alert
+558,90.66,Alert
+559,14.08,No alert
+560,69.58,Alert
+561,72.19,Alert
+562,17.07,No alert
+563,73.37,Alert
+564,70.83,Alert
+565,87.33,Alert
+566,13.59,No alert
+567,18.55,No alert
+568,5.73,No alert
+569,58.58,Alert
+570,16.22,No alert
+571,16.61,No alert
+572,14.47,No alert
+573,19.38,No alert
+574,16.43,No alert
+575,30.51,No alert
+576,18.33,No alert
+577,88.19,Alert
+578,18.46,No alert
+579,20.01,No alert
+580,77.77,Alert
+581,16.23,No alert
+582,52.14,Alert
+583,12.63,No alert
+584,11.41,No alert
+585,14.9,No alert
+586,8.64,No alert
+587,86.38,Alert
+588,70.96,Alert
+589,93.34,Alert
+590,88.18,Alert
+591,74.26,Alert
+592,18.06,No alert
+593,64.61,Alert
+594,17.92,No alert
+595,16.63,No alert
+596,5.56,No alert
+597,81.63,Alert
+598,12.98,No alert
+599,55.46,Alert
+600,14.67,No alert
+601,16.62,No alert
+602,16.1,No alert
+603,78.45,Alert
+604,64.67,Alert
+605,25.52,No alert
+606,20.95,No alert
+607,13.88,No alert
+608,81.2,Alert
+609,35.84,Alert
+610,39.78,Alert
+611,19.1,No alert
+612,34.95,Alert
+613,41.97,Alert
+614,16.35,No alert
+615,65.89,Alert
+616,18.51,No alert
+617,14.67,No alert
+618,24.35,No alert
+619,18.64,No alert
+620,19.02,No alert
+621,29.8,No alert
+622,91.03,Alert
+623,79.77,Alert
+624,13.46,No alert
+625,13.88,No alert
+626,16.49,No alert
+627,61.55,Alert
+628,18.21,No alert
+629,15.47,No alert
+630,94.04,Alert
+631,17.85,No alert
+632,53.15,Alert
+633,82.77,Alert
+634,19.01,No alert
+635,56.34,Alert
+636,22.35,No alert
+637,79.97,Alert
+638,91.85,Alert
+639,19.02,No alert
+640,59.99,Alert
+641,41.74,Alert
+642,34.33,No alert
+643,94.18,Alert
+644,16.17,No alert
+645,18.06,No alert
+646,15.49,No alert
+647,6.25,No alert
+648,17.74,No alert
+649,15.24,No alert
+650,15.3,No alert
+651,24.86,No alert
+652,89.21,Alert
+653,86.37,Alert
+654,61.33,Alert
+655,31.73,No alert
+656,16.59,No alert
+657,75.76,Alert
+658,48.32,Alert
+659,82.37,Alert
+660,83.07,Alert
+661,19.01,No alert
+662,21.02,No alert
+663,86.54,Alert
+664,17.92,No alert
+665,16.42,No alert
+666,17.56,No alert
+667,13.3,No alert
+668,90.23,Alert
+669,68.93,Alert
+670,17.29,No alert
+671,14.47,No alert
+672,18.08,No alert
+673,22.4,No alert
+674,13.13,No alert
+675,26.0,No alert
+676,18.47,No alert
+677,21.02,No alert
+678,50.49,Alert
+679,34.54,No alert
+680,18.35,No alert
+681,67.82,Alert
+682,15.97,No alert
+683,10.22,No alert
+684,5.9,No alert
+685,80.22,Alert
+686,14.67,No alert
+687,20.88,No alert
+688,63.07,Alert
+689,16.67,No alert
+690,58.58,Alert
+691,6.01,No alert
+692,59.81,Alert
+693,60.13,Alert
+694,44.57,Alert
+695,15.49,No alert
+696,19.04,No alert
+697,19.1,No alert
+698,16.49,No alert
+699,83.22,Alert
+700,67.57,Alert
+701,16.63,No alert
+702,35.43,Alert
+703,16.67,No alert
+704,24.41,No alert
+705,74.81,Alert
+706,16.72,No alert
+707,16.63,No alert
+708,14.54,No alert
+709,15.77,No alert
+710,14.01,No alert
+711,16.22,No alert
+712,20.56,No alert
+713,9.96,No alert
+714,15.33,No alert
+715,92.75,Alert
+716,19.1,No alert
+717,58.49,Alert
+718,31.46,No alert
+719,15.24,No alert
+720,16.32,No alert
+721,17.85,No alert
+722,13.88,No alert
+723,29.36,No alert
+724,88.03,Alert
+725,23.94,No alert
+726,80.37,Alert
+727,15.33,No alert
+728,84.2,Alert
+729,55.2,Alert
+730,82.77,Alert
+731,32.0,No alert
+732,42.07,Alert
+733,93.92,Alert
+734,22.31,No alert
+735,17.56,No alert
+736,18.28,No alert
+737,18.79,No alert
+738,83.02,Alert
+739,61.69,Alert
+740,10.36,No alert
+741,55.61,Alert
+742,74.01,Alert
+743,16.15,No alert
+744,27.9,No alert
+745,93.67,Alert
+746,5.68,No alert
+747,14.54,No alert
+748,18.08,No alert
+749,53.3,Alert
+750,82.01,Alert
+751,12.68,No alert
+752,30.57,No alert
+753,5.81,No alert
+754,46.69,Alert
+755,19.48,No alert
+756,61.37,Alert
+757,17.35,No alert
+758,19.92,No alert
+759,22.4,No alert
+760,26.67,No alert
+761,16.32,No alert
+762,16.01,No alert
+763,85.4,Alert
+764,19.38,No alert
+765,39.38,Alert
+766,16.57,No alert
+767,24.38,No alert
+768,16.62,No alert
+769,75.95,Alert
+770,93.87,Alert
+771,20.26,No alert
+772,60.46,Alert
+773,82.87,Alert
+774,22.4,No alert
+775,77.94,Alert
+776,80.77,Alert
+777,16.63,No alert
+778,50.95,Alert
+779,16.67,No alert
+780,42.36,Alert
+781,17.29,No alert
+782,5.13,No alert
+783,12.63,No alert
+784,54.14,Alert
+785,10.36,No alert
+786,88.65,Alert
+787,82.77,Alert
+788,30.23,No alert
+789,14.15,No alert
+790,60.65,Alert
+791,11.58,No alert
+792,16.32,No alert
+793,11.41,No alert
+794,52.43,Alert
+795,51.87,Alert
+796,64.69,Alert
+797,32.9,No alert
+798,16.91,No alert
+799,87.04,Alert
+800,88.94,Alert
+801,27.52,No alert
+802,16.44,No alert
+803,15.79,No alert
+804,70.18,Alert
+805,19.04,No alert
+806,13.53,No alert
+807,74.4,Alert
+808,31.05,No alert
+809,20.07,No alert
+810,74.47,Alert
+811,19.04,No alert
+812,68.07,Alert
+813,19.37,No alert
+814,58.6,Alert
+815,16.32,No alert
+816,14.47,No alert
+817,16.62,No alert
+818,17.87,No alert
+819,45.43,Alert
+820,70.57,Alert
+821,10.36,No alert
+822,71.81,Alert
+823,18.27,No alert
+824,57.46,Alert
+825,18.21,No alert
+826,82.02,Alert
+827,42.16,Alert
+828,16.63,No alert
+829,86.93,Alert
+830,9.56,No alert
+831,15.4,No alert
+832,17.62,No alert
+833,20.44,No alert
+834,14.68,No alert
+835,14.67,No alert
+836,13.67,No alert
+837,14.43,No alert
+838,55.12,Alert
+839,16.49,No alert
+840,17.9,No alert
+841,14.3,No alert
+842,25.03,No alert
+843,30.57,No alert
+844,18.06,No alert
+845,14.08,No alert
+846,14.67,No alert
+847,13.58,No alert
+848,26.06,No alert
+849,60.54,Alert
+850,11.62,No alert
+851,19.49,No alert
+852,29.43,No alert
+853,15.47,No alert
+854,14.77,No alert
+855,52.76,Alert
+856,54.32,Alert
+857,16.59,No alert
+858,13.37,No alert
+859,18.0,No alert
+860,59.38,Alert
+861,19.1,No alert
+862,20.17,No alert
+863,54.71,Alert
+864,45.9,Alert
+865,82.48,Alert
+866,59.44,Alert
+867,82.38,Alert
+868,64.05,Alert
+869,27.06,No alert
+870,22.86,No alert
+871,81.45,Alert
+872,10.93,No alert
+873,47.51,Alert
+874,82.11,Alert
+875,75.23,Alert
+876,9.06,No alert
+877,12.96,No alert
+878,45.96,Alert
+879,24.05,No alert
+880,82.48,Alert
+881,54.14,Alert
+882,16.49,No alert
+883,80.64,Alert
+884,70.05,Alert
+885,13.09,No alert
+886,15.38,No alert
+887,13.27,No alert
+888,19.18,No alert
+889,46.48,Alert
+890,37.31,Alert
+891,15.7,No alert
+892,25.04,No alert
+893,15.08,No alert
+894,36.29,Alert
+895,14.73,No alert
+896,83.3,Alert
+897,14.67,No alert
+898,94.11,Alert
+899,30.25,No alert
+900,16.63,No alert
+901,39.64,Alert
+902,10.21,No alert
+903,20.75,No alert
+904,8.82,No alert
+905,76.02,Alert
+906,87.21,Alert
+907,93.01,Alert
+908,93.77,Alert
+909,52.67,Alert
+910,82.98,Alert
+911,16.01,No alert
+912,83.2,Alert
+913,14.57,No alert
+914,19.19,No alert
+915,16.62,No alert
+916,88.07,Alert
+917,13.67,No alert
+918,14.1,No alert
+919,75.91,Alert
+920,18.36,No alert
+921,20.83,No alert
+922,53.15,Alert
+923,20.01,No alert
+924,14.17,No alert
+925,19.23,No alert
+926,85.98,Alert
+927,25.89,No alert
+928,15.76,No alert
+929,58.51,Alert
+930,69.36,Alert
+931,80.77,Alert
+932,82.38,Alert
+933,11.62,No alert
+934,13.03,No alert
+935,87.16,Alert
+936,72.26,Alert
+937,19.81,No alert
+938,19.1,No alert
+939,14.18,No alert
+940,57.67,Alert
+941,18.35,No alert
+942,6.65,No alert
+943,55.2,Alert
+944,65.04,Alert
+945,48.6,Alert
+946,9.59,No alert
+947,15.49,No alert
+948,19.81,No alert
+949,19.49,No alert
+950,15.27,No alert
+951,16.63,No alert
+952,17.31,No alert
+953,19.37,No alert
+954,58.58,Alert
+955,79.49,Alert
+956,81.33,Alert
+957,40.45,Alert
+958,19.93,No alert
+959,16.01,No alert
+960,71.35,Alert
+961,51.13,Alert
+962,31.29,No alert
+963,19.59,No alert
+964,13.92,No alert
+965,14.9,No alert
+966,90.47,Alert
+967,83.82,Alert
+968,35.99,Alert
+969,29.26,No alert
+970,20.17,No alert
+971,11.62,No alert
+972,93.91,Alert
+973,24.86,No alert
+974,13.91,No alert
+975,15.24,No alert
+976,16.01,No alert
+977,84.55,Alert
+978,19.91,No alert
+979,5.01,No alert
+980,16.01,No alert
+981,22.7,No alert
+982,20.63,No alert
+983,94.04,Alert
+984,88.3,Alert
+985,17.09,No alert
+986,44.42,Alert
+987,15.75,No alert
+988,51.85,Alert
+989,61.28,Alert
+990,17.32,No alert
+991,64.47,Alert
+992,15.92,No alert
+993,85.31,Alert
+994,15.69,No alert
+995,13.99,No alert
+996,19.49,No alert
+997,54.21,Alert
+998,32.02,No alert
+999,14.67,No alert
+1000,16.49,No alert
+1001,5.68,No alert
+1002,47.04,Alert
+1003,17.74,No alert
+1004,50.97,Alert
+1005,64.1,Alert
+1006,83.54,Alert
+1007,17.17,No alert
+1008,18.76,No alert
+1009,11.41,No alert
+1010,49.26,Alert
+1011,15.75,No alert
+1012,83.67,Alert
+1013,16.22,No alert
+1014,10.95,No alert
+1015,44.43,Alert
+1016,58.92,Alert
+1017,25.32,No alert
+1018,71.83,Alert
+1019,50.6,Alert
+1020,58.77,Alert
+1021,31.63,No alert
+1022,15.96,No alert
+1023,12.98,No alert
+1024,35.16,Alert
+1025,59.02,Alert
+1026,29.92,No alert
+1027,9.17,No alert
+1028,16.54,No alert
+1029,13.88,No alert
+1030,18.61,No alert
+1031,76.76,Alert
+1032,30.82,No alert
+1033,81.56,Alert
+1034,6.01,No alert
+1035,43.99,Alert
+1036,7.51,No alert
+1037,50.29,Alert
+1038,85.9,Alert
+1039,18.47,No alert
+1040,16.43,No alert
+1041,30.25,No alert
+1042,67.78,Alert
+1043,14.17,No alert
+1044,15.12,No alert
+1045,10.05,No alert
+1046,43.25,Alert
+1047,15.64,No alert
+1048,51.37,Alert
+1049,22.4,No alert
+1050,16.57,No alert
+1051,16.63,No alert
+1052,86.42,Alert
+1053,34.26,No alert
+1054,16.44,No alert
+1055,27.97,No alert
+1056,16.57,No alert
+1057,13.67,No alert
+1058,13.92,No alert
+1059,20.48,No alert
+1060,17.74,No alert
+1061,5.58,No alert
+1062,94.17,Alert
+1063,20.5,No alert
+1064,23.94,No alert
+1065,57.67,Alert
+1066,82.31,Alert
+1067,83.92,Alert
+1068,48.03,Alert
+1069,87.64,Alert
+1070,36.71,Alert
+1071,93.6,Alert
+1072,27.65,No alert
+1073,22.4,No alert
+1074,16.62,No alert
+1075,19.1,No alert
+1076,16.6,No alert
+1077,69.91,Alert
+1078,15.27,No alert
+1079,12.8,No alert
+1080,58.9,Alert
+1081,75.04,Alert
+1082,20.27,No alert
+1083,46.56,Alert
+1084,11.83,No alert
+1085,29.74,No alert
+1086,15.84,No alert
+1087,86.93,Alert
+1088,88.61,Alert
+1089,20.82,No alert
+1090,90.72,Alert
+1091,29.74,No alert
+1092,16.61,No alert
+1093,62.67,Alert
+1094,18.35,No alert
+1095,72.69,Alert
+1096,14.47,No alert
+1097,88.12,Alert
+1098,83.65,Alert
+1099,14.18,No alert
+1100,60.39,Alert
+1101,77.99,Alert
+1102,31.12,No alert
+1103,75.12,Alert
+1104,13.52,No alert
+1105,88.65,Alert
+1106,85.2,Alert
+1107,15.92,No alert
+1108,24.87,No alert
+1109,14.67,No alert
+1110,17.74,No alert
+1111,63.39,Alert
+1112,16.63,No alert
+1113,34.51,No alert
+1114,60.65,Alert
+1115,59.56,Alert
+1116,23.48,No alert
+1117,14.47,No alert
+1118,92.68,Alert
+1119,71.01,Alert
+1120,64.16,Alert
+1121,69.43,Alert
+1122,16.19,No alert
+1123,55.46,Alert
+1124,84.7,Alert
+1125,70.55,Alert
+1126,28.24,No alert
+1127,17.29,No alert
+1128,21.57,No alert
+1129,80.85,Alert
+1130,12.63,No alert
+1131,11.82,No alert
+1132,15.27,No alert
+1133,18.06,No alert
+1134,19.38,No alert
+1135,86.37,Alert
+1136,62.6,Alert
+1137,17.74,No alert
+1138,12.16,No alert
+1139,22.08,No alert
+1140,88.42,Alert
+1141,31.03,No alert
+1142,5.8,No alert
+1143,71.33,Alert
+1144,71.35,Alert
+1145,82.02,Alert
+1146,16.96,No alert
+1147,78.26,Alert
+1148,87.46,Alert
+1149,12.15,No alert
+1150,82.12,Alert
+1151,10.36,No alert
+1152,22.4,No alert
+1153,11.83,No alert
+1154,16.61,No alert
+1155,93.47,Alert
+1156,6.16,No alert
+1157,80.52,Alert
+1158,42.12,Alert
+1159,72.46,Alert
+1160,29.91,No alert
+1161,17.17,No alert
+1162,27.5,No alert
+1163,22.55,No alert
+1164,20.04,No alert
+1165,17.74,No alert
+1166,18.76,No alert
+1167,27.3,No alert
+1168,71.23,Alert
+1169,15.47,No alert
+1170,55.48,Alert
+1171,17.85,No alert
+1172,15.73,No alert
+1173,57.33,Alert
+1174,85.97,Alert
+1175,12.16,No alert
+1176,37.68,Alert
+1177,44.44,Alert
+1178,19.92,No alert
+1179,85.7,Alert
+1180,93.43,Alert
+1181,93.49,Alert
+1182,18.0,No alert
+1183,12.63,No alert
+1184,9.15,No alert
+1185,14.01,No alert
+1186,20.91,No alert
+1187,78.82,Alert
+1188,71.49,Alert
+1189,29.34,No alert
+1190,15.67,No alert
+1191,15.24,No alert
+1192,69.73,Alert
+1193,14.1,No alert
+1194,21.02,No alert
+1195,14.1,No alert
+1196,10.46,No alert
+1197,57.62,Alert
+1198,80.47,Alert
+1199,14.0,No alert
+1200,48.76,Alert
+1201,23.77,No alert
+1202,57.09,Alert
+1203,17.29,No alert
+1204,18.21,No alert
+1205,16.22,No alert
+1206,68.94,Alert
+1207,17.74,No alert
+1208,22.4,No alert
+1209,80.22,Alert
+1210,20.64,No alert
+1211,6.16,No alert
+1212,18.27,No alert
+1213,13.52,No alert
+1214,70.57,Alert
+1215,79.74,Alert
+1216,44.44,Alert
+1217,14.62,No alert
+1218,6.29,No alert
+1219,59.54,Alert
+1220,29.41,No alert
+1221,27.64,No alert
+1222,18.27,No alert
+1223,67.41,Alert
+1224,90.18,Alert
+1225,52.51,Alert
+1226,16.14,No alert
+1227,16.1,No alert
+1228,64.32,Alert
+1229,19.92,No alert
+1230,81.44,Alert
+1231,64.69,Alert
+1232,59.45,Alert
+1233,16.14,No alert
+1234,79.82,Alert
+1235,57.7,Alert
+1236,28.24,No alert
+1237,16.98,No alert
+1238,11.76,No alert
+1239,93.39,Alert
+1240,16.61,No alert
+1241,8.85,No alert
+1242,16.1,No alert
+1243,15.7,No alert
+1244,51.14,Alert
+1245,18.0,No alert
+1246,14.93,No alert
+1247,82.96,Alert
+1248,54.01,Alert
+1249,16.49,No alert
+1250,14.67,No alert
+1251,91.53,Alert
+1252,60.4,Alert
+1253,14.57,No alert
+1254,84.24,Alert
+1255,83.22,Alert
+1256,16.22,No alert
+1257,54.21,Alert
+1258,17.85,No alert
+1259,5.65,No alert
+1260,30.8,No alert
+1261,89.89,Alert
+1262,15.33,No alert
+1263,26.18,No alert
+1264,17.29,No alert
+1265,59.12,Alert
+1266,16.62,No alert
+1267,12.16,No alert
+1268,15.33,No alert
+1269,11.31,No alert
+1270,91.31,Alert
+1271,14.68,No alert
+1272,81.98,Alert
+1273,41.47,Alert
+1274,26.83,No alert
+1275,86.09,Alert
+1276,18.0,No alert
+1277,19.02,No alert
+1278,58.67,Alert
+1279,18.35,No alert
+1280,33.26,No alert
+1281,81.27,Alert
+1282,74.47,Alert
+1283,47.66,Alert
+1284,19.37,No alert
+1285,59.89,Alert
+1286,87.6,Alert
+1287,14.47,No alert
+1288,60.38,Alert
+1289,13.14,No alert
+1290,16.1,No alert
+1291,22.01,No alert
+1292,84.41,Alert
+1293,71.45,Alert
+1294,56.3,Alert
+1295,16.57,No alert
+1296,15.46,No alert
+1297,20.78,No alert
+1298,24.57,No alert
+1299,89.21,Alert
+1300,78.68,Alert
+1301,28.67,No alert
+1302,19.38,No alert
+1303,61.6,Alert
+1304,48.88,Alert
+1305,88.35,Alert
+1306,72.77,Alert
+1307,38.08,Alert
+1308,17.3,No alert
+1309,89.18,Alert
+1310,17.17,No alert
+1311,15.91,No alert
+1312,66.51,Alert
+1313,13.85,No alert
+1314,16.35,No alert
+1315,27.46,No alert
+1316,14.57,No alert
+1317,81.78,Alert
+1318,21.45,No alert
+1319,85.92,Alert
+1320,93.37,Alert
+1321,72.62,Alert
+1322,8.82,No alert
+1323,66.27,Alert
+1324,15.24,No alert
+1325,58.92,Alert
+1326,16.43,No alert
+1327,93.52,Alert
+1328,57.93,Alert
+1329,26.77,No alert
+1330,94.04,Alert
+1331,53.63,Alert
+1332,27.2,No alert
+1333,72.95,Alert
+1334,17.37,No alert
+1335,40.84,Alert
+1336,14.17,No alert
+1337,22.4,No alert
+1338,7.99,No alert
+1339,43.53,Alert
+1340,9.21,No alert
+1341,72.37,Alert
+1342,19.04,No alert
+1343,24.01,No alert
+1344,18.41,No alert
+1345,84.77,Alert
+1346,80.08,Alert
+1347,82.28,Alert
+1348,40.21,Alert
+1349,17.17,No alert
+1350,83.29,Alert
+1351,56.3,Alert
+1352,43.06,Alert
+1353,80.12,Alert
+1354,63.6,Alert
+1355,74.14,Alert
+1356,39.45,Alert
+1357,50.97,Alert
+1358,38.4,Alert
+1359,14.43,No alert
+1360,15.89,No alert
+1361,10.36,No alert
+1362,71.67,Alert
+1363,17.09,No alert
+1364,16.57,No alert
+1365,12.63,No alert
+1366,14.67,No alert
+1367,13.78,No alert
+1368,72.66,Alert
+1369,58.54,Alert
+1370,14.57,No alert
+1371,20.01,No alert
+1372,59.38,Alert
+1373,93.95,Alert
+1374,47.19,Alert
+1375,56.12,Alert
+1376,21.72,No alert
+1377,79.1,Alert
+1378,84.79,Alert
+1379,19.1,No alert
+1380,58.63,Alert
+1381,84.77,Alert
+1382,23.89,No alert
+1383,51.93,Alert
+1384,17.66,No alert
+1385,15.24,No alert
+1386,15.2,No alert
+1387,16.49,No alert
+1388,75.14,Alert
+1389,13.71,No alert
+1390,17.17,No alert
+1391,64.5,Alert
+1392,94.08,Alert
+1393,17.85,No alert
+1394,57.67,Alert
+1395,13.51,No alert
+1396,19.49,No alert
+1397,42.59,Alert
+1398,16.01,No alert
+1399,16.32,No alert
+1400,59.33,Alert
+1401,27.69,No alert
+1402,78.42,Alert
+1403,14.9,No alert
+1404,19.53,No alert
+1405,28.42,No alert
+1406,16.67,No alert
+1407,18.51,No alert
+1408,70.19,Alert
+1409,9.99,No alert
+1410,93.4,Alert
+1411,21.25,No alert
+1412,12.77,No alert
+1413,15.98,No alert
+1414,9.3,No alert
+1415,10.36,No alert
+1416,60.91,Alert
+1417,14.9,No alert
+1418,85.22,Alert
+1419,18.0,No alert
+1420,89.63,Alert
+1421,66.41,Alert
+1422,21.02,No alert
+1423,28.1,No alert
+1424,19.38,No alert
+1425,12.21,No alert
+1426,79.39,Alert
+1427,74.78,Alert
+1428,16.63,No alert
+1429,16.57,No alert
+1430,19.93,No alert
+1431,20.06,No alert
+1432,17.77,No alert
+1433,21.02,No alert
+1434,57.59,Alert
+1435,55.87,Alert
+1436,44.77,Alert
+1437,15.03,No alert
+1438,16.15,No alert
+1439,60.23,Alert
+1440,44.02,Alert
+1441,24.63,No alert
+1442,13.94,No alert
+1443,52.75,Alert
+1444,19.49,No alert
+1445,79.88,Alert
+1446,16.1,No alert
+1447,14.67,No alert
+1448,17.81,No alert
+1449,71.63,Alert
+1450,80.21,Alert
+1451,88.83,Alert
+1452,59.61,Alert
+1453,19.19,No alert
+1454,27.16,No alert
+1455,33.5,No alert
+1456,18.67,No alert
+1457,80.22,Alert
+1458,16.39,No alert
+1459,64.71,Alert
+1460,16.67,No alert
+1461,14.54,No alert
+1462,15.49,No alert
+1463,40.78,Alert
+1464,51.76,Alert
+1465,53.22,Alert
+1466,64.78,Alert
+1467,91.82,Alert
+1468,14.3,No alert
+1469,56.73,Alert
+1470,19.37,No alert
+1471,64.89,Alert
+1472,11.62,No alert
+1473,13.51,No alert
+1474,16.1,No alert
+1475,30.77,No alert
+1476,16.49,No alert
+1477,83.61,Alert
+1478,92.99,Alert
+1479,6.29,No alert
+1480,32.54,No alert
+1481,20.69,No alert
+1482,16.32,No alert
+1483,11.2,No alert
+1484,75.06,Alert
+1485,7.94,No alert
+1486,32.82,No alert
+1487,15.67,No alert
+1488,68.27,Alert
+1489,76.1,Alert
+1490,15.27,No alert
+1491,93.96,Alert
+1492,15.27,No alert
+1493,53.15,Alert
+1494,13.88,No alert
+1495,14.57,No alert
+1496,15.92,No alert
+1497,5.41,No alert
+1498,24.41,No alert
+1499,16.75,No alert
+1500,15.78,No alert
+1501,61.54,Alert
+1502,13.59,No alert
+1503,22.04,No alert
+1504,19.04,No alert
+1505,17.92,No alert
+1506,15.33,No alert
+1507,14.57,No alert
+1508,16.67,No alert
+1509,88.0,Alert
+1510,16.57,No alert
+1511,84.84,Alert
+1512,64.67,Alert
+1513,91.14,Alert
+1514,85.08,Alert
+1515,15.27,No alert
+1516,8.79,No alert
+1517,17.72,No alert
+1518,20.01,No alert
+1519,82.38,Alert
+1520,93.51,Alert
+1521,81.53,Alert
+1522,19.49,No alert
+1523,11.2,No alert
+1524,33.27,No alert
+1525,20.06,No alert
+1526,83.84,Alert
+1527,22.4,No alert
+1528,92.71,Alert
+1529,71.15,Alert
+1530,48.49,Alert
+1531,59.65,Alert
+1532,70.35,Alert
+1533,81.29,Alert
+1534,15.79,No alert
+1535,15.33,No alert
+1536,68.52,Alert
+1537,16.47,No alert
+1538,7.34,No alert
+1539,19.02,No alert
+1540,81.65,Alert
+1541,36.53,Alert
+1542,56.53,Alert
+1543,80.81,Alert
+1544,14.67,No alert
+1545,82.12,Alert
+1546,21.23,No alert
+1547,83.75,Alert
+1548,27.46,No alert
+1549,38.7,Alert
+1550,59.56,Alert
+1551,85.76,Alert
+1552,11.76,No alert
+1553,20.0,No alert
+1554,35.94,Alert
+1555,70.18,Alert
+1556,15.08,No alert
+1557,9.17,No alert
+1558,14.77,No alert
+1559,18.0,No alert
+1560,67.36,Alert
+1561,76.88,Alert
+1562,16.4,No alert
+1563,31.2,No alert
+1564,17.28,No alert
+1565,17.48,No alert
+1566,68.29,Alert
+1567,17.07,No alert
+1568,93.95,Alert
+1569,39.8,Alert
+1570,15.33,No alert
+1571,14.54,No alert
+1572,55.49,Alert
+1573,18.04,No alert
+1574,87.46,Alert
+1575,70.35,Alert
+1576,9.14,No alert
+1577,94.14,Alert
+1578,55.18,Alert
+1579,15.65,No alert
+1580,14.99,No alert
+1581,20.73,No alert
+1582,16.1,No alert
+1583,36.47,Alert
+1584,51.51,Alert
+1585,18.04,No alert
+1586,88.49,Alert
+1587,86.31,Alert
+1588,64.17,Alert
+1589,18.35,No alert
+1590,7.68,No alert
+1591,39.57,Alert
+1592,16.43,No alert
+1593,56.83,Alert
+1594,31.95,No alert
+1595,58.85,Alert
+1596,28.82,No alert
+1597,59.91,Alert
+1598,21.41,No alert
+1599,8.32,No alert
+1600,21.16,No alert
+1601,43.45,Alert
+1602,14.54,No alert
+1603,57.61,Alert
+1604,89.15,Alert
+1605,15.33,No alert
+1606,13.51,No alert
+1607,16.1,No alert
+1608,20.17,No alert
+1609,81.73,Alert
+1610,86.39,Alert
+1611,61.69,Alert
+1612,26.41,No alert
+1613,12.63,No alert
+1614,11.2,No alert
+1615,19.85,No alert
+1616,67.27,Alert
+1617,17.79,No alert
+1618,56.39,Alert
+1619,83.82,Alert
+1620,80.64,Alert
+1621,16.44,No alert
+1622,84.69,Alert
+1623,11.83,No alert
+1624,14.1,No alert
+1625,93.71,Alert
+1626,57.67,Alert
+1627,18.55,No alert
+1628,25.93,No alert
+1629,7.62,No alert
+1630,15.7,No alert
+1631,13.67,No alert
+1632,42.81,Alert
+1633,82.7,Alert
+1634,57.55,Alert
+1635,14.8,No alert
+1636,59.98,Alert
+1637,14.01,No alert
+1638,89.08,Alert
+1639,43.3,Alert
+1640,13.29,No alert
+1641,11.83,No alert
+1642,16.38,No alert
+1643,13.57,No alert
+1644,20.96,No alert
+1645,93.82,Alert
+1646,16.32,No alert
+1647,16.63,No alert
+1648,87.57,Alert
+1649,18.67,No alert
+1650,80.78,Alert
+1651,12.64,No alert
+1652,11.41,No alert
+1653,94.23,Alert
+1654,57.62,Alert
+1655,91.04,Alert
+1656,14.71,No alert
+1657,73.46,Alert
+1658,91.32,Alert
+1659,75.1,Alert
+1660,41.84,Alert
+1661,21.87,No alert
+1662,79.48,Alert
+1663,63.86,Alert
+1664,76.18,Alert
+1665,5.65,No alert
+1666,59.54,Alert
+1667,81.3,Alert
+1668,18.66,No alert
+1669,6.25,No alert
+1670,16.43,No alert
+1671,80.74,Alert
+1672,14.47,No alert
+1673,17.74,No alert
+1674,80.08,Alert
+1675,14.14,No alert
+1676,14.57,No alert
+1677,12.98,No alert
+1678,17.12,No alert
+1679,70.18,Alert
+1680,60.51,Alert
+1681,5.56,No alert
+1682,54.84,Alert
+1683,91.1,Alert
+1684,20.1,No alert
+1685,81.53,Alert
+1686,13.51,No alert
+1687,14.08,No alert
+1688,15.47,No alert
+1689,16.44,No alert
+1690,93.84,Alert
+1691,15.12,No alert
+1692,6.01,No alert
+1693,41.53,Alert
+1694,73.15,Alert
+1695,56.42,Alert
+1696,16.62,No alert
+1697,19.81,No alert
+1698,16.01,No alert
+1699,33.45,No alert
+1700,41.32,Alert
+1701,19.38,No alert
+1702,39.65,Alert
+1703,16.1,No alert
+1704,89.24,Alert
+1705,81.14,Alert
+1706,26.19,No alert
+1707,14.9,No alert
+1708,18.06,No alert
+1709,94.09,Alert
+1710,85.51,Alert
+1711,16.32,No alert
+1712,18.76,No alert
+1713,70.42,Alert
+1714,85.86,Alert
+1715,83.38,Alert
+1716,13.94,No alert
+1717,28.71,No alert
+1718,78.72,Alert
+1719,16.49,No alert
+1720,17.7,No alert
+1721,71.38,Alert
+1722,70.0,Alert
+1723,63.65,Alert
+1724,9.92,No alert
+1725,58.12,Alert
+1726,16.35,No alert
+1727,52.61,Alert
+1728,16.1,No alert
+1729,17.56,No alert
+1730,8.58,No alert
+1731,16.67,No alert
+1732,43.45,Alert
+1733,15.67,No alert
+1734,77.63,Alert
+1735,15.77,No alert
+1736,5.8,No alert
+1737,25.96,No alert
+1738,8.66,No alert
+1739,72.84,Alert
+1740,59.29,Alert
+1741,20.93,No alert
+1742,57.68,Alert
+1743,77.18,Alert
+1744,17.29,No alert
+1745,15.7,No alert
+1746,63.41,Alert
+1747,90.08,Alert
+1748,70.94,Alert
+1749,42.79,Alert
+1750,16.49,No alert
+1751,52.1,Alert
+1752,68.55,Alert
+1753,69.11,Alert
+1754,80.68,Alert
+1755,16.15,No alert
+1756,16.32,No alert
+1757,18.46,No alert
+1758,50.95,Alert
+1759,58.29,Alert
+1760,16.22,No alert
+1761,54.4,Alert
+1762,86.83,Alert
+1763,57.61,Alert
+1764,19.02,No alert
+1765,90.39,Alert
+1766,81.79,Alert
+1767,22.01,No alert
+1768,15.24,No alert
+1769,39.54,Alert
+1770,32.52,No alert
+1771,76.78,Alert
+1772,80.77,Alert
+1773,16.63,No alert
+1774,93.93,Alert
+1775,60.3,Alert
+1776,16.22,No alert
+1777,31.13,No alert
+1778,76.78,Alert
+1779,85.2,Alert
+1780,19.36,No alert
+1781,14.01,No alert
+1782,15.64,No alert
+1783,14.1,No alert
+1784,12.63,No alert
+1785,17.74,No alert
+1786,41.2,Alert
+1787,43.03,Alert
+1788,9.84,No alert
+1789,17.04,No alert
+1790,24.59,No alert
+1791,19.01,No alert
+1792,14.77,No alert
+1793,77.62,Alert
+1794,30.51,No alert
+1795,91.07,Alert
+1796,61.03,Alert
+1797,14.17,No alert
+1798,58.05,Alert
+1799,94.52,Alert
+1800,66.9,Alert
+1801,72.84,Alert
+1802,64.82,Alert
+1803,62.64,Alert
+1804,5.56,No alert
+1805,19.05,No alert
+1806,65.51,Alert
+1807,69.18,Alert
+1808,17.45,No alert
+1809,16.22,No alert
+1810,6.01,No alert
+1811,18.06,No alert
+1812,16.44,No alert
+1813,12.49,No alert
+1814,83.62,Alert
+1815,16.63,No alert
+1816,17.92,No alert
+1817,68.7,Alert
+1818,19.59,No alert
+1819,11.83,No alert
+1820,87.22,Alert
+1821,48.56,Alert
+1822,14.67,No alert
+1823,84.96,Alert
+1824,72.77,Alert
+1825,14.57,No alert
+1826,75.23,Alert
+1827,75.71,Alert
+1828,14.08,No alert
+1829,15.47,No alert
+1830,16.22,No alert
+1831,93.46,Alert
+1832,14.1,No alert
+1833,16.35,No alert
+1834,92.13,Alert
+1835,7.68,No alert
+1836,18.65,No alert
+1837,45.01,Alert
+1838,81.98,Alert
+1839,81.55,Alert
+1840,16.43,No alert
+1841,87.32,Alert
+1842,9.08,No alert
+1843,15.69,No alert
+1844,14.01,No alert
+1845,50.79,Alert
+1846,17.92,No alert
+1847,14.08,No alert
+1848,19.04,No alert
+1849,86.16,Alert
+1850,84.88,Alert
+1851,10.0,No alert
+1852,14.82,No alert
+1853,80.58,Alert
+1854,16.32,No alert
+1855,16.1,No alert
+1856,5.7,No alert
+1857,13.71,No alert
+1858,36.47,Alert
+1859,58.28,Alert
+1860,90.26,Alert
+1861,30.26,No alert
+1862,87.34,Alert
+1863,86.96,Alert
+1864,12.63,No alert
+1865,60.85,Alert
+1866,23.6,No alert
+1867,16.22,No alert
+1868,9.99,No alert
+1869,66.56,Alert
+1870,14.17,No alert
+1871,17.74,No alert
+1872,16.67,No alert
+1873,12.16,No alert
+1874,64.65,Alert
+1875,17.29,No alert
+1876,72.42,Alert
+1877,5.58,No alert
+1878,82.96,Alert
+1879,51.7,Alert
+1880,56.78,Alert
+1881,14.08,No alert
+1882,76.14,Alert
+1883,75.23,Alert
+1884,84.48,Alert
+1885,26.29,No alert
+1886,93.69,Alert
+1887,31.76,No alert
+1888,21.5,No alert
+1889,44.72,Alert
+1890,28.62,No alert
+1891,5.68,No alert
+1892,85.55,Alert
+1893,81.3,Alert
+1894,16.1,No alert
+1895,16.62,No alert
+1896,83.82,Alert
+1897,93.98,Alert
+1898,61.63,Alert
+1899,21.93,No alert
+1900,56.3,Alert
+1901,14.47,No alert
+1902,25.89,No alert
+1903,82.73,Alert
+1904,14.67,No alert
+1905,16.38,No alert
+1906,78.96,Alert
+1907,17.37,No alert
+1908,50.86,Alert
+1909,86.54,Alert
+1910,86.69,Alert
+1911,5.7,No alert
+1912,25.89,No alert
+1913,50.01,Alert
+1914,38.2,Alert
+1915,55.49,Alert
+1916,85.71,Alert
+1917,13.59,No alert
+1918,64.19,Alert
+1919,84.27,Alert
+1920,19.02,No alert
+1921,25.65,No alert
+1922,19.92,No alert
+1923,19.86,No alert
+1924,65.94,Alert
+1925,80.69,Alert
+1926,28.24,No alert
+1927,12.37,No alert
+1928,5.74,No alert
+1929,72.86,Alert
+1930,16.01,No alert
+1931,54.01,Alert
+1932,17.74,No alert
+1933,22.4,No alert
+1934,67.39,Alert
+1935,13.94,No alert
+1936,17.29,No alert
+1937,68.34,Alert
+1938,7.53,No alert
+1939,90.56,Alert
+1940,81.43,Alert
+1941,25.91,No alert
+1942,58.26,Alert
+1943,13.67,No alert
+1944,69.87,Alert
+1945,19.92,No alert
+1946,16.22,No alert
+1947,69.1,Alert
+1948,57.68,Alert
+1949,16.01,No alert
+1950,19.01,No alert
+1951,19.1,No alert
+1952,81.1,Alert
+1953,14.54,No alert
+1954,20.31,No alert
+1955,5.43,No alert
+1956,17.35,No alert
+1957,15.69,No alert
+1958,81.17,Alert
+1959,9.59,No alert
+1960,18.06,No alert
+1961,13.2,No alert
+1962,18.52,No alert
+1963,22.4,No alert
+1964,11.83,No alert
+1965,16.37,No alert
+1966,15.47,No alert
+1967,22.56,No alert
+1968,86.12,Alert
+1969,86.06,Alert
+1970,15.33,No alert
+1971,5.05,No alert
+1972,16.78,No alert
+1973,14.01,No alert
+1974,83.3,Alert
+1975,43.55,Alert
+1976,22.44,No alert
+1977,10.26,No alert
+1978,15.7,No alert
+1979,65.15,Alert
+1980,57.55,Alert
+1981,26.94,No alert
+1982,87.67,Alert
+1983,81.1,Alert
+1984,82.77,Alert
+1985,16.62,No alert
+1986,17.9,No alert
+1987,5.57,No alert
+1988,27.67,No alert
+1989,18.55,No alert
+1990,19.38,No alert
+1991,83.66,Alert
+1992,29.41,No alert
+1993,5.37,No alert
+1994,29.72,No alert
+1995,83.87,Alert
+1996,7.68,No alert
+1997,11.11,No alert
+1998,15.44,No alert
+1999,22.88,No alert
+2000,16.37,No alert
+2001,64.61,Alert
+2002,30.24,No alert
+2003,25.86,No alert
+2004,65.16,Alert
+2005,14.68,No alert
+2006,14.11,No alert
+2007,20.01,No alert
+2008,63.44,Alert
+2009,17.04,No alert
+2010,19.01,No alert
+2011,29.04,No alert
+2012,52.1,Alert
+2013,91.29,Alert
+2014,81.1,Alert
+2015,16.01,No alert
+2016,15.92,No alert
+2017,89.03,Alert
+2018,21.02,No alert
+2019,88.65,Alert
+2020,59.15,Alert
+2021,5.8,No alert
+2022,28.62,No alert
+2023,16.62,No alert
+2024,14.57,No alert
+2025,19.38,No alert
+2026,92.45,Alert
+2027,22.65,No alert
+2028,64.22,Alert
+2029,72.95,Alert
+2030,19.01,No alert
+2031,42.44,Alert
+2032,76.9,Alert
+2033,72.95,Alert
+2034,16.62,No alert
+2035,14.9,No alert
+2036,31.49,No alert
+2037,83.16,Alert
+2038,15.92,No alert
+2039,12.16,No alert
+2040,16.62,No alert
+2041,24.24,No alert
+2042,79.1,Alert
+2043,10.73,No alert
+2044,54.21,Alert
+2045,93.74,Alert
+2046,71.56,Alert
+2047,16.22,No alert
+2048,16.63,No alert
+2049,85.47,Alert
+2050,37.79,Alert
+2051,19.1,No alert
+2052,28.67,No alert
+2053,67.12,Alert
+2054,14.77,No alert
+2055,10.36,No alert
+2056,81.98,Alert
+2057,22.56,No alert
+2058,15.24,No alert
+2059,18.47,No alert
+2060,14.11,No alert
+2061,16.63,No alert
+2062,10.36,No alert
+2063,19.26,No alert
+2064,75.75,Alert
+2065,20.01,No alert
+2066,59.6,Alert
+2067,14.67,No alert
+2068,17.74,No alert
+2069,17.85,No alert
+2070,61.44,Alert
+2071,23.16,No alert
+2072,29.79,No alert
+2073,19.49,No alert
+2074,26.43,No alert
+2075,20.04,No alert
+2076,15.38,No alert
+2077,45.77,Alert
+2078,18.51,No alert
+2079,52.98,Alert
+2080,66.56,Alert
+2081,84.08,Alert
+2082,10.56,No alert
+2083,43.5,Alert
+2084,17.33,No alert
+2085,11.62,No alert
+2086,5.34,No alert
+2087,60.49,Alert
+2088,29.02,No alert
+2089,18.0,No alert
+2090,83.03,Alert
+2091,26.29,No alert
+2092,87.18,Alert
+2093,15.64,No alert
+2094,14.82,No alert
+2095,59.38,Alert
+2096,4.97,No alert
+2097,18.06,No alert
+2098,17.09,No alert
+2099,11.62,No alert
+2100,92.55,Alert
+2101,16.67,No alert
+2102,16.57,No alert
+2103,93.72,Alert
+2104,29.43,No alert
+2105,70.14,Alert
+2106,10.88,No alert
+2107,13.51,No alert
+2108,16.04,No alert
+2109,30.8,No alert
+2110,19.49,No alert
+2111,17.22,No alert
+2112,10.43,No alert
+2113,17.14,No alert
+2114,19.37,No alert
+2115,19.1,No alert
+2116,81.8,Alert
+2117,18.1,No alert
+2118,52.6,Alert
+2119,61.01,Alert
+2120,18.47,No alert
+2121,16.1,No alert
+2122,17.74,No alert
+2123,14.9,No alert
+2124,5.8,No alert
+2125,10.43,No alert
+2126,16.67,No alert
+2127,14.9,No alert
+2128,17.77,No alert
+2129,75.85,Alert
+2130,56.67,Alert
+2131,94.47,Alert
+2132,71.03,Alert
+2133,9.65,No alert
+2134,93.66,Alert
+2135,17.74,No alert
+2136,75.23,Alert
+2137,90.88,Alert
+2138,82.77,Alert
+2139,48.18,Alert
+2140,44.42,Alert
+2141,15.7,No alert
+2142,19.1,No alert
+2143,15.71,No alert
+2144,14.97,No alert
+2145,56.94,Alert
+2146,15.47,No alert
+2147,17.74,No alert
+2148,75.5,Alert
+2149,59.89,Alert
+2150,26.54,No alert
+2151,15.49,No alert
+2152,16.62,No alert
+2153,13.85,No alert
+2154,17.17,No alert
+2155,14.17,No alert
+2156,34.95,Alert
+2157,13.92,No alert
+2158,73.81,Alert
+2159,61.56,Alert
+2160,92.84,Alert
+2161,29.36,No alert
+2162,81.98,Alert
+2163,15.66,No alert
+2164,18.0,No alert
+2165,12.98,No alert
+2166,9.5,No alert
+2167,21.2,No alert
+2168,25.14,No alert
+2169,90.56,Alert
+2170,82.48,Alert
+2171,87.55,Alert
+2172,10.87,No alert
+2173,71.91,Alert
+2174,14.57,No alert
+2175,63.96,Alert
+2176,70.35,Alert
+2177,93.22,Alert
+2178,6.16,No alert
+2179,93.13,Alert
+2180,13.67,No alert
+2181,13.85,No alert
+2182,77.27,Alert
+2183,56.65,Alert
+2184,46.28,Alert
+2185,43.48,Alert
+2186,80.69,Alert
+2187,59.32,Alert
+2188,18.35,No alert
+2189,23.77,No alert
+2190,18.31,No alert
+2191,17.92,No alert
+2192,33.23,No alert
+2193,86.77,Alert
+2194,20.86,No alert
+2195,58.58,Alert
+2196,48.87,Alert
+2197,94.11,Alert
+2198,66.72,Alert
+2199,73.89,Alert
+2200,93.37,Alert
+2201,18.47,No alert
+2202,21.16,No alert
+2203,16.42,No alert
+2204,5.37,No alert
+2205,15.27,No alert
+2206,55.48,Alert
+2207,17.92,No alert
+2208,21.45,No alert
+2209,6.01,No alert
+2210,12.19,No alert
+2211,6.01,No alert
+2212,94.19,Alert
+2213,13.29,No alert
+2214,12.68,No alert
+2215,6.18,No alert
+2216,17.17,No alert
+2217,59.54,Alert
+2218,16.22,No alert
+2219,6.01,No alert
+2220,54.69,Alert
+2221,58.94,Alert
+2222,14.87,No alert
+2223,94.51,Alert
+2224,19.85,No alert
+2225,94.66,Alert
+2226,89.82,Alert
+2227,69.1,Alert
+2228,61.72,Alert
+2229,57.63,Alert
+2230,15.33,No alert
+2231,22.4,No alert
+2232,88.91,Alert
+2233,5.65,No alert
+2234,26.19,No alert
+2235,67.23,Alert
+2236,10.76,No alert
+2237,80.92,Alert
+2238,51.13,Alert
+2239,18.25,No alert
+2240,15.95,No alert
+2241,11.63,No alert
+2242,34.32,No alert
+2243,83.15,Alert
+2244,16.62,No alert
+2245,17.23,No alert
+2246,12.75,No alert
+2247,16.32,No alert
+2248,60.44,Alert
+2249,83.41,Alert
+2250,60.23,Alert
+2251,67.84,Alert
+2252,94.15,Alert
+2253,13.85,No alert
+2254,16.4,No alert
+2255,59.29,Alert
+2256,15.01,No alert
+2257,16.63,No alert
+2258,16.62,No alert
+2259,59.96,Alert
+2260,55.74,Alert
+2261,20.01,No alert
+2262,12.47,No alert
+2263,64.3,Alert
+2264,45.3,Alert
+2265,14.01,No alert
+2266,55.43,Alert
+2267,13.67,No alert
+2268,34.66,No alert
+2269,57.63,Alert
+2270,76.42,Alert
+2271,58.89,Alert
+2272,76.42,Alert
+2273,10.36,No alert
+2274,32.98,No alert
+2275,10.02,No alert
+2276,16.63,No alert
+2277,15.43,No alert
+2278,15.69,No alert
+2279,61.34,Alert
+2280,55.11,Alert
+2281,70.61,Alert
+2282,21.64,No alert
+2283,54.06,Alert
+2284,69.65,Alert
+2285,68.08,Alert
+2286,24.84,No alert
+2287,78.15,Alert
+2288,94.26,Alert
+2289,93.77,Alert
+2290,63.13,Alert
+2291,37.68,Alert
+2292,20.01,No alert
+2293,71.59,Alert
+2294,83.68,Alert
+2295,33.09,No alert
+2296,63.67,Alert
+2297,84.14,Alert
+2298,16.32,No alert
+2299,22.4,No alert
+2300,26.35,No alert
+2301,18.06,No alert
+2302,52.43,Alert
+2303,55.56,Alert
+2304,18.47,No alert
+2305,74.02,Alert
+2306,18.35,No alert
+2307,68.42,Alert
+2308,71.14,Alert
+2309,23.77,No alert
+2310,78.18,Alert
+2311,14.11,No alert
+2312,90.72,Alert
+2313,15.24,No alert
+2314,18.67,No alert
+2315,26.67,No alert
+2316,17.74,No alert
+2317,94.26,Alert
+2318,14.08,No alert
+2319,54.71,Alert
+2320,16.22,No alert
+2321,14.7,No alert
+2322,16.01,No alert
+2323,79.3,Alert
+2324,44.4,Alert
+2325,14.23,No alert
+2326,55.68,Alert
+2327,18.35,No alert
+2328,22.32,No alert
+2329,49.28,Alert
+2330,67.57,Alert
+2331,5.56,No alert
+2332,15.33,No alert
+2333,62.73,Alert
+2334,8.07,No alert
+2335,17.11,No alert
+2336,84.91,Alert
+2337,57.69,Alert
+2338,89.87,Alert
+2339,9.56,No alert
+2340,72.95,Alert
+2341,13.67,No alert
+2342,31.62,No alert
+2343,5.37,No alert
+2344,19.75,No alert
+2345,59.38,Alert
+2346,14.45,No alert
+2347,71.23,Alert
+2348,17.07,No alert
+2349,72.46,Alert
+2350,57.42,Alert
+2351,14.22,No alert
+2352,81.44,Alert
+2353,81.49,Alert
+2354,13.85,No alert
+2355,27.52,No alert
+2356,18.47,No alert
+2357,17.17,No alert
+2358,13.67,No alert
+2359,7.34,No alert
+2360,22.92,No alert
+2361,93.79,Alert
+2362,78.89,Alert
+2363,62.73,Alert
+2364,14.1,No alert
+2365,16.42,No alert
+2366,29.99,No alert
+2367,90.07,Alert
+2368,76.42,Alert
+2369,73.81,Alert
+2370,9.62,No alert
+2371,56.34,Alert
+2372,15.33,No alert
+2373,18.35,No alert
+2374,22.05,No alert
+2375,94.0,Alert
+2376,16.01,No alert
+2377,82.12,Alert
+2378,65.39,Alert
+2379,17.73,No alert
+2380,16.62,No alert
+2381,17.17,No alert
+2382,56.18,Alert
+2383,21.32,No alert
+2384,17.92,No alert
+2385,39.54,Alert
+2386,29.0,No alert
+2387,14.59,No alert
+2388,13.59,No alert
+2389,61.59,Alert
+2390,14.08,No alert
+2391,33.03,No alert
+2392,14.77,No alert
+2393,57.84,Alert
+2394,42.78,Alert
+2395,64.87,Alert
+2396,81.76,Alert
+2397,93.92,Alert
+2398,69.39,Alert
+2399,57.85,Alert
+2400,60.71,Alert
+2401,58.63,Alert
+2402,40.6,Alert
+2403,57.27,Alert
+2404,14.08,No alert
+2405,84.55,Alert
+2406,87.55,Alert
+2407,13.55,No alert
+2408,9.84,No alert
+2409,87.24,Alert
+2410,24.57,No alert
+2411,16.94,No alert
+2412,92.46,Alert
+2413,72.24,Alert
+2414,28.55,No alert
+2415,17.85,No alert
+2416,94.05,Alert
+2417,66.63,Alert
+2418,93.22,Alert
+2419,78.85,Alert
+2420,48.53,Alert
+2421,16.35,No alert
+2422,12.98,No alert
+2423,27.69,No alert
+2424,19.1,No alert
+2425,85.71,Alert
+2426,33.26,No alert
+2427,14.67,No alert
+2428,71.67,Alert
+2429,93.91,Alert
+2430,16.67,No alert
+2431,68.07,Alert
+2432,25.04,No alert
+2433,69.98,Alert
+2434,89.85,Alert
+2435,13.88,No alert
+2436,13.67,No alert
+2437,53.93,Alert
+2438,92.29,Alert
+2439,17.74,No alert
+2440,15.5,No alert
+2441,19.82,No alert
+2442,16.67,No alert
+2443,12.32,No alert
+2444,9.24,No alert
+2445,70.78,Alert
+2446,53.08,Alert
+2447,17.07,No alert
+2448,92.95,Alert
+2449,15.49,No alert
+2450,16.38,No alert
+2451,12.98,No alert
+2452,13.37,No alert
+2453,27.17,No alert
+2454,12.63,No alert
+2455,70.14,Alert
+2456,37.68,Alert
+2457,31.84,No alert
+2458,84.15,Alert
+2459,20.15,No alert
+2460,22.4,No alert
+2461,16.43,No alert
+2462,81.1,Alert
+2463,27.77,No alert
+2464,24.97,No alert
+2465,9.99,No alert
+2466,82.49,Alert
+2467,16.67,No alert
+2468,47.85,Alert
+2469,52.22,Alert
+2470,5.32,No alert
+2471,54.69,Alert
+2472,12.63,No alert
+2473,9.55,No alert
+2474,17.72,No alert
+2475,21.6,No alert
+2476,22.42,No alert
+2477,14.1,No alert
+2478,14.57,No alert
+2479,16.65,No alert
+2480,13.67,No alert
+2481,14.08,No alert
+2482,46.54,Alert
+2483,15.78,No alert
+2484,85.36,Alert
+2485,58.81,Alert
+2486,83.84,Alert
+2487,57.64,Alert
+2488,20.43,No alert
+2489,16.57,No alert
+2490,19.92,No alert
+2491,74.88,Alert
+2492,6.65,No alert
+2493,58.85,Alert
+2494,14.23,No alert
+2495,13.49,No alert
+2496,45.17,Alert
+2497,80.93,Alert
+2498,19.41,No alert
+2499,17.85,No alert
+2500,13.95,No alert
+2501,19.02,No alert
+2502,16.26,No alert
+2503,76.74,Alert
+2504,31.73,No alert
+2505,74.0,Alert
+2506,47.75,Alert
+2507,80.07,Alert
+2508,12.65,No alert
+2509,16.25,No alert
+2510,18.0,No alert
+2511,17.03,No alert
+2512,27.52,No alert
+2513,94.14,Alert
+2514,6.16,No alert
+2515,17.74,No alert
+2516,58.81,Alert
+2517,18.87,No alert
+2518,17.37,No alert
+2519,15.82,No alert
+2520,27.71,No alert
+2521,18.41,No alert
+2522,83.1,Alert
+2523,35.96,Alert
+2524,30.86,No alert
+2525,9.32,No alert
+2526,18.0,No alert
+2527,18.76,No alert
+2528,18.06,No alert
+2529,10.69,No alert
+2530,68.11,Alert
+2531,16.22,No alert
+2532,93.33,Alert
+2533,15.67,No alert
+2534,83.76,Alert
+2535,13.3,No alert
+2536,72.1,Alert
+2537,17.29,No alert
+2538,16.22,No alert
+2539,79.39,Alert
+2540,17.74,No alert
+2541,73.79,Alert
+2542,26.32,No alert
+2543,54.14,Alert
+2544,17.85,No alert
+2545,16.22,No alert
+2546,16.32,No alert
+2547,47.18,Alert
+2548,27.5,No alert
+2549,14.08,No alert
+2550,9.99,No alert
+2551,16.49,No alert
+2552,9.95,No alert
+2553,81.01,Alert
+2554,73.22,Alert
+2555,16.63,No alert
+2556,11.83,No alert
+2557,14.84,No alert
+2558,22.31,No alert
+2559,13.51,No alert
+2560,5.81,No alert
+2561,14.61,No alert
+2562,73.74,Alert
+2563,24.41,No alert
+2564,27.86,No alert
+2565,20.34,No alert
+2566,93.85,Alert
+2567,23.32,No alert
+2568,88.86,Alert
+2569,26.94,No alert
+2570,10.45,No alert
+2571,16.63,No alert
+2572,26.32,No alert
+2573,55.65,Alert
+2574,34.95,Alert
+2575,35.99,Alert
+2576,82.21,Alert
+2577,14.67,No alert
+2578,13.67,No alert
+2579,15.98,No alert
+2580,13.67,No alert
+2581,34.32,No alert
+2582,13.94,No alert
+2583,46.14,Alert
+2584,42.82,Alert
+2585,81.27,Alert
+2586,14.59,No alert
+2587,13.13,No alert
+2588,31.15,No alert
+2589,16.22,No alert
+2590,94.59,Alert
+2591,16.63,No alert
+2592,17.3,No alert
+2593,27.9,No alert
+2594,30.03,No alert
+2595,94.66,Alert
+2596,6.16,No alert
+2597,26.83,No alert
+2598,14.14,No alert
+2599,15.35,No alert
+2600,92.24,Alert
+2601,14.47,No alert
+2602,47.4,Alert
+2603,19.01,No alert
+2604,18.0,No alert
+2605,54.14,Alert
+2606,93.94,Alert
+2607,16.71,No alert
+2608,5.78,No alert
+2609,25.04,No alert
+2610,18.27,No alert
+2611,81.98,Alert
+2612,14.95,No alert
+2613,81.98,Alert
+2614,17.07,No alert
+2615,81.83,Alert
+2616,14.08,No alert
+2617,92.31,Alert
+2618,18.55,No alert
+2619,75.41,Alert
+2620,6.16,No alert
+2621,75.61,Alert
+2622,73.69,Alert
+2623,10.36,No alert
+2624,94.11,Alert
+2625,43.89,Alert
+2626,80.37,Alert
+2627,15.47,No alert
+2628,71.23,Alert
+2629,15.99,No alert
+2630,23.89,No alert
+2631,90.31,Alert
+2632,15.33,No alert
+2633,74.47,Alert
+2634,18.06,No alert
+2635,19.38,No alert
+2636,75.21,Alert
+2637,5.73,No alert
+2638,14.51,No alert
+2639,16.1,No alert
+2640,59.38,Alert
+2641,32.96,No alert
+2642,14.23,No alert
+2643,13.45,No alert
+2644,20.82,No alert
+2645,19.02,No alert
+2646,16.1,No alert
+2647,84.58,Alert
+2648,13.67,No alert
+2649,9.12,No alert
+2650,16.35,No alert
+2651,34.2,No alert
+2652,16.49,No alert
+2653,81.18,Alert
+2654,17.55,No alert
+2655,15.24,No alert
+2656,14.95,No alert
+2657,69.58,Alert
+2658,14.67,No alert
+2659,14.57,No alert
+2660,19.1,No alert
+2661,18.63,No alert
+2662,69.18,Alert
+2663,94.04,Alert
+2664,28.67,No alert
+2665,64.71,Alert
+2666,26.18,No alert
+2667,16.62,No alert
+2668,12.98,No alert
+2669,15.3,No alert
+2670,78.68,Alert
+2671,93.89,Alert
+2672,16.38,No alert
+2673,19.7,No alert
+2674,17.09,No alert
+2675,72.68,Alert
+2676,15.12,No alert
+2677,18.0,No alert
+2678,84.04,Alert
+2679,58.4,Alert
+2680,14.57,No alert
+2681,15.1,No alert
+2682,59.6,Alert
+2683,9.99,No alert
+2684,35.84,Alert
+2685,22.4,No alert
+2686,84.25,Alert
+2687,24.86,No alert
+2688,18.08,No alert
+2689,35.56,Alert
+2690,87.6,Alert
+2691,41.14,Alert
+2692,82.81,Alert
+2693,92.72,Alert
+2694,76.58,Alert
+2695,16.01,No alert
+2696,8.56,No alert
+2697,64.71,Alert
+2698,5.73,No alert
+2699,47.03,Alert
+2700,92.57,Alert
+2701,14.08,No alert
+2702,6.65,No alert
+2703,13.67,No alert
+2704,17.73,No alert
+2705,86.01,Alert
+2706,83.91,Alert
+2707,63.86,Alert
+2708,7.6,No alert
+2709,18.76,No alert
+2710,19.01,No alert
+2711,93.7,Alert
+2712,21.44,No alert
+2713,93.07,Alert
+2714,54.69,Alert
+2715,64.22,Alert
+2716,17.73,No alert
+2717,16.4,No alert
+2718,59.58,Alert
+2719,55.08,Alert
+2720,64.01,Alert
+2721,16.63,No alert
+2722,29.36,No alert
+2723,22.28,No alert
+2724,55.46,Alert
+2725,15.7,No alert
+2726,18.47,No alert
+2727,14.57,No alert
+2728,18.76,No alert
+2729,58.93,Alert
+2730,12.98,No alert
+2731,73.75,Alert
+2732,74.89,Alert
+2733,69.11,Alert
+2734,84.25,Alert
+2735,18.04,No alert
+2736,65.01,Alert
+2737,78.15,Alert
+2738,30.06,No alert
+2739,15.7,No alert
+2740,94.14,Alert
+2741,16.63,No alert
+2742,14.43,No alert
+2743,89.62,Alert
+2744,52.7,Alert
+2745,83.82,Alert
+2746,17.74,No alert
+2747,84.54,Alert
+2748,56.53,Alert
+2749,14.69,No alert
+2750,66.65,Alert
+2751,61.6,Alert
+2752,26.29,No alert
+2753,17.74,No alert
+2754,84.77,Alert
+2755,89.89,Alert
+2756,22.4,No alert
+2757,14.01,No alert
+2758,70.24,Alert
+2759,92.03,Alert
+2760,14.59,No alert
+2761,16.35,No alert
+2762,94.44,Alert
+2763,15.49,No alert
+2764,94.31,Alert
+2765,69.11,Alert
+2766,19.37,No alert
+2767,18.47,No alert
+2768,17.22,No alert
+2769,74.57,Alert
+2770,81.1,Alert
+2771,19.38,No alert
+2772,75.81,Alert
+2773,27.8,No alert
+2774,18.66,No alert
+2775,87.16,Alert
+2776,76.05,Alert
+2777,79.39,Alert
+2778,16.57,No alert
+2779,39.06,Alert
+2780,69.3,Alert
+2781,71.48,Alert
+2782,78.1,Alert
+2783,52.22,Alert
+2784,19.92,No alert
+2785,16.22,No alert
+2786,12.16,No alert
+2787,16.61,No alert
+2788,19.38,No alert
+2789,29.61,No alert
+2790,93.74,Alert
+2791,66.1,Alert
+2792,94.11,Alert
+2793,19.47,No alert
+2794,51.34,Alert
+2795,19.04,No alert
+2796,13.88,No alert
+2797,18.47,No alert
+2798,62.53,Alert
+2799,14.62,No alert
+2800,14.47,No alert
+2801,66.06,Alert
+2802,15.78,No alert
+2803,15.79,No alert
+2804,14.62,No alert
+2805,70.31,Alert
+2806,11.02,No alert
+2807,13.67,No alert
+2808,7.51,No alert
+2809,10.36,No alert
+2810,88.23,Alert
+2811,70.28,Alert
+2812,61.5,Alert
+2813,24.05,No alert
+2814,75.13,Alert
+2815,64.39,Alert
+2816,83.65,Alert
+2817,49.49,Alert
+2818,15.81,No alert
+2819,50.2,Alert
+2820,74.9,Alert
+2821,58.82,Alert
+2822,15.7,No alert
+2823,51.97,Alert
+2824,84.91,Alert
+2825,30.77,No alert
+2826,63.55,Alert
+2827,15.79,No alert
+2828,39.25,Alert
+2829,21.93,No alert
+2830,11.09,No alert
+2831,16.62,No alert
+2832,94.12,Alert
+2833,65.3,Alert
+2834,18.88,No alert
+2835,18.36,No alert
+2836,94.44,Alert
+2837,94.01,Alert
+2838,85.96,Alert
+2839,74.67,Alert
+2840,13.67,No alert
+2841,16.41,No alert
+2842,15.43,No alert
+2843,94.18,Alert
+2844,14.57,No alert
+2845,70.35,Alert
+2846,74.44,Alert
+2847,20.01,No alert
+2848,17.17,No alert
+2849,8.9,No alert
+2850,14.68,No alert
+2851,17.92,No alert
+2852,60.12,Alert
+2853,48.67,Alert
+2854,11.21,No alert
+2855,19.38,No alert
+2856,29.0,No alert
+2857,56.78,Alert
+2858,57.55,Alert
+2859,9.29,No alert
+2860,49.43,Alert
+2861,21.44,No alert
+2862,14.47,No alert
+2863,9.99,No alert
+2864,16.62,No alert
+2865,16.67,No alert
+2866,25.89,No alert
+2867,16.56,No alert
+2868,22.28,No alert
+2869,87.32,Alert
+2870,16.38,No alert
+2871,15.64,No alert
+2872,59.45,Alert
+2873,15.29,No alert
+2874,16.49,No alert
+2875,14.57,No alert
+2876,13.65,No alert
+2877,5.7,No alert
+2878,94.09,Alert
+2879,94.04,Alert
+2880,15.49,No alert
+2881,84.04,Alert
+2882,93.11,Alert
+2883,82.68,Alert
+2884,16.63,No alert
+2885,16.35,No alert
+2886,65.3,Alert
+2887,18.76,No alert
+2888,19.01,No alert
+2889,8.72,No alert
+2890,88.38,Alert
+2891,74.91,Alert
+2892,42.59,Alert
+2893,19.12,No alert
+2894,76.12,Alert
+2895,13.59,No alert
+2896,80.72,Alert
+2897,14.54,No alert
+2898,53.22,Alert
+2899,17.85,No alert
+2900,57.91,Alert
+2901,19.02,No alert
+2902,18.06,No alert
+2903,29.37,No alert
+2904,27.52,No alert
+2905,30.51,No alert
+2906,16.42,No alert
+2907,69.11,Alert
+2908,45.23,Alert
+2909,19.02,No alert
+2910,30.25,No alert
+2911,14.83,No alert
+2912,13.8,No alert
+2913,18.0,No alert
+2914,37.15,Alert
+2915,74.27,Alert
+2916,90.2,Alert
+2917,58.91,Alert
+2918,58.63,Alert
+2919,29.41,No alert
+2920,17.74,No alert
+2921,69.03,Alert
+2922,66.16,Alert
+2923,74.44,Alert
+2924,65.78,Alert
+2925,87.28,Alert
+2926,27.06,No alert
+2927,15.92,No alert
+2928,16.49,No alert
+2929,17.07,No alert
+2930,67.06,Alert
+2931,52.6,Alert
+2932,13.51,No alert
+2933,10.36,No alert
+2934,67.29,Alert
+2935,86.26,Alert
+2936,85.11,Alert
+2937,54.21,Alert
+2938,81.1,Alert
+2939,78.1,Alert
+2940,32.76,No alert
+2941,93.9,Alert
+2942,24.94,No alert
+2943,57.55,Alert
+2944,84.59,Alert
+2945,92.86,Alert
+2946,14.1,No alert
+2947,93.43,Alert
+2948,15.64,No alert
+2949,69.03,Alert
+2950,19.06,No alert
+2951,11.42,No alert
+2952,30.39,No alert
+2953,13.3,No alert
+2954,33.27,No alert
+2955,23.04,No alert
+2956,65.04,Alert
+2957,86.85,Alert
+2958,14.82,No alert
+2959,17.07,No alert
+2960,53.67,Alert
+2961,25.84,No alert
+2962,14.77,No alert
+2963,19.01,No alert
+2964,82.8,Alert
+2965,60.23,Alert
+2966,33.23,No alert
+2967,16.22,No alert
+2968,17.37,No alert
+2969,16.62,No alert
+2970,66.51,Alert
+2971,10.28,No alert
+2972,21.02,No alert
+2973,11.62,No alert
+2974,78.96,Alert
+2975,44.09,Alert
+2976,5.79,No alert
+2977,72.66,Alert
+2978,21.11,No alert
+2979,17.46,No alert
+2980,93.32,Alert
+2981,19.49,No alert
+2982,15.64,No alert
+2983,16.67,No alert
+2984,87.17,Alert
+2985,27.06,No alert
+2986,64.26,Alert
+2987,15.38,No alert
+2988,88.99,Alert
+2989,23.89,No alert
+2990,18.21,No alert
+2991,57.61,Alert
+2992,81.43,Alert
+2993,16.49,No alert
+2994,63.09,Alert
+2995,13.85,No alert
+2996,19.37,No alert
+2997,71.85,Alert
+2998,16.9,No alert
+2999,15.77,No alert
+3000,21.16,No alert
+3001,20.82,No alert
+3002,72.84,Alert
+3003,11.41,No alert
+3004,12.16,No alert
+3005,22.4,No alert
+3006,30.25,No alert
+3007,14.17,No alert
+3008,94.66,Alert
+3009,94.25,Alert
+3010,6.01,No alert
+3011,18.35,No alert
+3012,16.31,No alert
+3013,91.94,Alert
+3014,18.41,No alert
+3015,21.04,No alert
+3016,50.19,Alert
+3017,45.18,Alert
+3018,12.68,No alert
+3019,11.05,No alert
+3020,24.14,No alert
+3021,31.7,No alert
+3022,21.87,No alert
+3023,67.95,Alert
+3024,77.97,Alert
+3025,17.85,No alert
+3026,53.01,Alert
+3027,72.68,Alert
+3028,90.66,Alert
+3029,18.47,No alert
+3030,13.3,No alert
+3031,25.99,No alert
+3032,18.0,No alert
+3033,93.86,Alert
+3034,67.97,Alert
+3035,16.84,No alert
+3036,19.04,No alert
+3037,14.67,No alert
+3038,47.04,Alert
+3039,16.67,No alert
+3040,10.82,No alert
+3041,5.43,No alert
+3042,93.96,Alert
+3043,13.31,No alert
+3044,51.44,Alert
+3045,9.98,No alert
+3046,86.6,Alert
+3047,27.52,No alert
+3048,34.64,No alert
+3049,58.03,Alert
+3050,21.59,No alert
+3051,81.56,Alert
+3052,19.02,No alert
+3053,30.12,No alert
+3054,51.01,Alert
+3055,16.08,No alert
+3056,65.38,Alert
+3057,16.8,No alert
+3058,15.41,No alert
+3059,18.35,No alert
+3060,86.63,Alert
+3061,55.49,Alert
+3062,13.59,No alert
+3063,81.98,Alert
+3064,17.01,No alert
+3065,19.02,No alert
+3066,12.16,No alert
+3067,37.68,Alert
+3068,18.1,No alert
+3069,81.37,Alert
+3070,86.02,Alert
+3071,70.42,Alert
+3072,16.25,No alert
+3073,75.7,Alert
+3074,61.86,Alert
+3075,10.84,No alert
+3076,44.42,Alert
+3077,18.0,No alert
+3078,15.08,No alert
+3079,28.82,No alert
+3080,16.49,No alert
+3081,13.71,No alert
+3082,18.3,No alert
+3083,31.46,No alert
+3084,5.32,No alert
+3085,81.98,Alert
+3086,18.47,No alert
+3087,68.9,Alert
+3088,82.96,Alert
+3089,8.31,No alert
+3090,16.1,No alert
+3091,15.69,No alert
+3092,89.37,Alert
+3093,24.01,No alert
+3094,18.47,No alert
+3095,17.17,No alert
+3096,64.14,Alert
+3097,87.31,Alert
+3098,19.01,No alert
+3099,70.42,Alert
+3100,81.27,Alert
+3101,63.96,Alert
+3102,24.75,No alert
+3103,82.84,Alert
+3104,19.16,No alert
+3105,93.55,Alert
+3106,19.23,No alert
+3107,14.05,No alert
+3108,22.65,No alert
+3109,13.32,No alert
+3110,22.37,No alert
+3111,18.66,No alert
+3112,17.92,No alert
+3113,27.3,No alert
+3114,77.95,Alert
+3115,15.27,No alert
+3116,11.62,No alert
+3117,93.65,Alert
+3118,17.74,No alert
+3119,16.97,No alert
+3120,14.01,No alert
+3121,5.48,No alert
+3122,93.6,Alert
+3123,80.81,Alert
+3124,47.15,Alert
+3125,72.68,Alert
+3126,58.67,Alert
+3127,14.18,No alert
+3128,27.52,No alert
+3129,77.49,Alert
+3130,14.46,No alert
+3131,93.38,Alert
+3132,19.13,No alert
+3133,72.1,Alert
+3134,18.06,No alert
+3135,14.1,No alert
+3136,14.77,No alert
+3137,16.1,No alert
+3138,61.79,Alert
+3139,11.83,No alert
+3140,15.76,No alert
+3141,27.8,No alert
+3142,15.78,No alert
+3143,16.63,No alert
+3144,13.12,No alert
+3145,17.58,No alert
+3146,16.11,No alert
+3147,86.58,Alert
+3148,75.23,Alert
+3149,78.26,Alert
+3150,51.44,Alert
+3151,19.38,No alert
+3152,14.01,No alert
+3153,16.49,No alert
+3154,79.36,Alert
+3155,44.93,Alert
+3156,16.85,No alert
+3157,87.34,Alert
+3158,18.87,No alert
+3159,57.55,Alert
+3160,18.46,No alert
+3161,59.27,Alert
+3162,13.88,No alert
+3163,80.21,Alert
+3164,81.59,Alert
+3165,82.12,Alert
+3166,46.9,Alert
+3167,87.49,Alert
+3168,18.36,No alert
+3169,80.22,Alert
+3170,17.71,No alert
+3171,17.85,No alert
+3172,15.76,No alert
+3173,10.6,No alert
+3174,14.47,No alert
+3175,75.8,Alert
+3176,81.0,Alert
+3177,15.67,No alert
+3178,14.01,No alert
+3179,11.34,No alert
+3180,49.98,Alert
+3181,50.72,Alert
+3182,91.14,Alert
+3183,71.01,Alert
+3184,81.01,Alert
+3185,19.04,No alert
+3186,88.22,Alert
+3187,86.57,Alert
+3188,14.67,No alert
+3189,93.34,Alert
+3190,14.67,No alert
+3191,53.18,Alert
+3192,87.16,Alert
+3193,17.85,No alert
+3194,24.19,No alert
+3195,57.05,Alert
+3196,17.74,No alert
+3197,17.85,No alert
+3198,20.85,No alert
+3199,26.84,No alert
+3200,86.42,Alert
+3201,16.13,No alert
+3202,15.78,No alert
+3203,18.06,No alert
+3204,85.76,Alert
+3205,19.33,No alert
+3206,17.84,No alert
+3207,18.0,No alert
+3208,58.42,Alert
+3209,16.32,No alert
+3210,22.29,No alert
+3211,52.38,Alert
+3212,14.54,No alert
+3213,45.83,Alert
+3214,62.25,Alert
+3215,70.18,Alert
+3216,74.13,Alert
+3217,14.01,No alert
+3218,13.67,No alert
+3219,14.8,No alert
+3220,27.16,No alert
+3221,18.54,No alert
+3222,14.7,No alert
+3223,59.76,Alert
+3224,52.6,Alert
+3225,80.64,Alert
+3226,14.17,No alert
+3227,17.91,No alert
+3228,59.19,Alert
+3229,12.16,No alert
+3230,57.55,Alert
+3231,64.22,Alert
+3232,59.43,Alert
+3233,27.39,No alert
+3234,85.2,Alert
+3235,28.28,No alert
+3236,91.32,Alert
+3237,20.01,No alert
+3238,19.37,No alert
+3239,26.14,No alert
+3240,64.61,Alert
+3241,15.47,No alert
+3242,5.48,No alert
+3243,20.75,No alert
+3244,87.16,Alert
+3245,88.56,Alert
+3246,18.41,No alert
+3247,60.75,Alert
+3248,56.17,Alert
+3249,20.9,No alert
+3250,30.66,No alert
+3251,23.43,No alert
+3252,16.97,No alert
+3253,54.9,Alert
+3254,46.9,Alert
+3255,77.08,Alert
+3256,14.68,No alert
+3257,15.33,No alert
+3258,18.06,No alert
+3259,82.96,Alert
+3260,34.77,No alert
+3261,10.0,No alert
+3262,5.78,No alert
+3263,25.13,No alert
+3264,85.58,Alert
+3265,16.38,No alert
+3266,81.3,Alert
+3267,19.1,No alert
+3268,43.93,Alert
+3269,18.08,No alert
+3270,15.94,No alert
+3271,16.43,No alert
+3272,59.81,Alert
+3273,19.35,No alert
+3274,70.95,Alert
+3275,14.54,No alert
+3276,75.5,Alert
+3277,15.64,No alert
+3278,17.56,No alert
+3279,17.92,No alert
+3280,18.41,No alert
+3281,16.57,No alert
+3282,33.4,No alert
+3283,91.54,Alert
+3284,86.34,Alert
+3285,16.15,No alert
+3286,33.49,No alert
+3287,57.67,Alert
+3288,35.28,Alert
+3289,66.08,Alert
+3290,18.35,No alert
+3291,18.0,No alert
+3292,17.35,No alert
+3293,23.49,No alert
+3294,59.38,Alert
+3295,74.05,Alert
+3296,9.99,No alert
+3297,19.61,No alert
+3298,81.53,Alert
+3299,16.24,No alert
+3300,56.42,Alert
+3301,63.66,Alert
+3302,13.22,No alert
+3303,92.97,Alert
+3304,61.39,Alert
+3305,5.37,No alert
+3306,14.01,No alert
+3307,16.32,No alert
+3308,12.98,No alert
+3309,45.9,Alert
+3310,85.49,Alert
+3311,81.38,Alert
+3312,14.9,No alert
+3313,58.81,Alert
+3314,16.67,No alert
+3315,61.64,Alert
+3316,69.58,Alert
+3317,12.07,No alert
+3318,21.35,No alert
+3319,94.09,Alert
+3320,63.58,Alert
+3321,13.42,No alert
+3322,64.67,Alert
+3323,12.63,No alert
+3324,16.49,No alert
+3325,51.34,Alert
+3326,9.99,No alert
+3327,19.04,No alert
+3328,15.7,No alert
+3329,41.31,Alert
+3330,12.16,No alert
+3331,68.9,Alert
+3332,86.19,Alert
+3333,15.33,No alert
+3334,37.68,Alert
+3335,18.21,No alert
+3336,59.81,Alert
+3337,9.17,No alert
+3338,14.8,No alert
+3339,13.63,No alert
+3340,19.61,No alert
+3341,32.57,No alert
+3342,19.75,No alert
+3343,65.3,Alert
+3344,5.35,No alert
+3345,17.74,No alert
+3346,93.81,Alert
+3347,15.08,No alert
+3348,39.15,Alert
+3349,72.66,Alert
+3350,51.28,Alert
+3351,19.04,No alert
+3352,84.61,Alert
+3353,74.65,Alert
+3354,64.61,Alert
+3355,15.33,No alert
+3356,21.02,No alert
+3357,16.1,No alert
+3358,94.05,Alert
+3359,25.04,No alert
+3360,12.63,No alert
+3361,23.89,No alert
+3362,81.25,Alert
+3363,83.29,Alert
+3364,64.12,Alert
+3365,12.67,No alert
+3366,62.59,Alert
+3367,19.59,No alert
+3368,56.02,Alert
+3369,10.36,No alert
+3370,15.47,No alert
+3371,93.49,Alert
+3372,20.5,No alert
+3373,57.83,Alert
+3374,17.85,No alert
+3375,16.15,No alert
+3376,13.85,No alert
+3377,33.08,No alert
+3378,85.52,Alert
+3379,73.47,Alert
+3380,51.37,Alert
+3381,55.37,Alert
+3382,14.47,No alert
+3383,84.13,Alert
+3384,72.95,Alert
+3385,43.04,Alert
+3386,16.1,No alert
+3387,14.67,No alert
+3388,57.67,Alert
+3389,58.49,Alert
+3390,90.18,Alert
+3391,14.67,No alert
+3392,13.2,No alert
+3393,58.26,Alert
+3394,30.48,No alert
+3395,58.26,Alert
+3396,17.41,No alert
+3397,15.33,No alert
+3398,6.25,No alert
+3399,74.78,Alert
+3400,28.15,No alert
+3401,78.77,Alert
+3402,14.47,No alert
+3403,14.54,No alert
+3404,14.44,No alert
+3405,89.91,Alert
+3406,14.57,No alert
+3407,10.21,No alert
+3408,22.58,No alert
+3409,9.73,No alert
+3410,14.2,No alert
+3411,50.91,Alert
+3412,14.1,No alert
+3413,59.82,Alert
+3414,79.39,Alert
+3415,12.16,No alert
+3416,87.34,Alert
+3417,58.82,Alert
+3418,14.2,No alert
+3419,85.4,Alert
+3420,16.43,No alert
+3421,5.68,No alert
+3422,60.61,Alert
+3423,15.49,No alert
+3424,58.03,Alert
+3425,15.33,No alert
+3426,16.1,No alert
+3427,59.58,Alert
+3428,80.3,Alert
+3429,13.45,No alert
+3430,24.0,No alert
+3431,93.2,Alert
+3432,5.76,No alert
+3433,20.07,No alert
+3434,94.0,Alert
+3435,12.98,No alert
+3436,82.28,Alert
+3437,28.24,No alert
+3438,82.23,Alert
+3439,17.74,No alert
+3440,16.35,No alert
+3441,57.18,Alert
+3442,77.03,Alert
+3443,71.01,Alert
+3444,64.76,Alert
+3445,20.42,No alert
+3446,13.97,No alert
+3447,14.1,No alert
+3448,14.08,No alert
+3449,11.76,No alert
+3450,21.35,No alert
+3451,94.17,Alert
+3452,14.54,No alert
+3453,50.49,Alert
+3454,15.64,No alert
+3455,19.35,No alert
+3456,10.13,No alert
+3457,12.01,No alert
+3458,63.73,Alert
+3459,60.91,Alert
+3460,85.83,Alert
+3461,11.38,No alert
+3462,17.85,No alert
+3463,9.9,No alert
+3464,80.37,Alert
+3465,15.7,No alert
+3466,72.84,Alert
+3467,15.33,No alert
+3468,71.1,Alert
+3469,36.55,Alert
+3470,58.92,Alert
+3471,87.84,Alert
+3472,28.11,No alert
+3473,93.12,Alert
+3474,89.04,Alert
+3475,79.03,Alert
+3476,88.8,Alert
+3477,14.67,No alert
+3478,83.07,Alert
+3479,14.57,No alert
+3480,18.51,No alert
+3481,48.29,Alert
+3482,13.63,No alert
+3483,55.58,Alert
+3484,49.78,Alert
+3485,5.81,No alert
+3486,57.63,Alert
+3487,46.47,Alert
+3488,41.19,Alert
+3489,86.71,Alert
+3490,93.61,Alert
+3491,83.38,Alert
+3492,20.06,No alert
+3493,17.12,No alert
+3494,16.01,No alert
+3495,17.85,No alert
+3496,60.0,Alert
+3497,51.43,Alert
+3498,19.8,No alert
+3499,17.74,No alert
+3500,80.3,Alert
+3501,77.93,Alert
+3502,79.61,Alert
+3503,23.03,No alert
+3504,12.9,No alert
+3505,66.27,Alert
+3506,21.16,No alert
+3507,5.04,No alert
+3508,13.39,No alert
+3509,20.57,No alert
+3510,80.3,Alert
+3511,69.33,Alert
+3512,20.15,No alert
+3513,16.32,No alert
+3514,14.9,No alert
+3515,83.11,Alert
+3516,80.74,Alert
+3517,18.03,No alert
+3518,18.47,No alert
+3519,57.68,Alert
+3520,18.06,No alert
+3521,18.78,No alert
+3522,86.52,Alert
+3523,76.02,Alert
+3524,11.76,No alert
+3525,12.98,No alert
+3526,64.75,Alert
+3527,67.55,Alert
+3528,75.91,Alert
+3529,84.4,Alert
+3530,34.68,No alert
+3531,8.63,No alert
+3532,16.44,No alert
+3533,85.45,Alert
+3534,35.99,Alert
+3535,17.74,No alert
+3536,78.58,Alert
+3537,56.65,Alert
+3538,61.47,Alert
+3539,16.67,No alert
+3540,84.73,Alert
+3541,53.64,Alert
+3542,13.96,No alert
+3543,17.29,No alert
+3544,17.74,No alert
+3545,67.82,Alert
+3546,59.26,Alert
+3547,77.66,Alert
+3548,15.7,No alert
+3549,17.07,No alert
+3550,70.46,Alert
+3551,13.25,No alert
+3552,82.31,Alert
+3553,77.07,Alert
+3554,60.34,Alert
+3555,13.85,No alert
+3556,85.98,Alert
+3557,5.79,No alert
+3558,88.63,Alert
+3559,22.7,No alert
+3560,19.37,No alert
+3561,58.9,Alert
+3562,54.42,Alert
+3563,17.71,No alert
+3564,11.62,No alert
+3565,15.27,No alert
+3566,94.4,Alert
+3567,20.88,No alert
+3568,15.24,No alert
+3569,68.13,Alert
+3570,40.19,Alert
+3571,14.08,No alert
+3572,27.8,No alert
+3573,18.23,No alert
+3574,64.61,Alert
+3575,16.67,No alert
+3576,85.98,Alert
+3577,16.63,No alert
+3578,12.64,No alert
+3579,16.32,No alert
+3580,18.76,No alert
+3581,6.25,No alert
+3582,61.12,Alert
+3583,6.65,No alert
+3584,15.7,No alert
+3585,48.56,Alert
+3586,52.21,Alert
+3587,36.34,Alert
+3588,12.16,No alert
+3589,28.62,No alert
+3590,72.66,Alert
+3591,81.45,Alert
+3592,72.37,Alert
+3593,68.34,Alert
+3594,88.04,Alert
+3595,62.09,Alert
+3596,9.55,No alert
+3597,16.49,No alert
+3598,16.62,No alert
+3599,35.28,Alert
+3600,16.35,No alert
+3601,20.32,No alert
+3602,80.71,Alert
+3603,15.64,No alert
+3604,18.45,No alert
+3605,39.7,Alert
+3606,17.74,No alert
+3607,83.97,Alert
+3608,20.06,No alert
+3609,91.03,Alert
+3610,5.65,No alert
+3611,11.04,No alert
+3612,16.32,No alert
+3613,10.06,No alert
+3614,45.18,Alert
+3615,11.62,No alert
+3616,13.59,No alert
+3617,77.57,Alert
+3618,90.97,Alert
+3619,13.37,No alert
+3620,6.16,No alert
+3621,44.44,Alert
+3622,61.44,Alert
+3623,69.78,Alert
+3624,15.3,No alert
+3625,18.21,No alert
+3626,14.9,No alert
+3627,16.78,No alert
+3628,14.9,No alert
+3629,93.69,Alert
+3630,16.91,No alert
+3631,89.28,Alert
+3632,16.4,No alert
+3633,45.63,Alert
+3634,84.71,Alert
+3635,87.04,Alert
+3636,68.93,Alert
+3637,94.48,Alert
+3638,64.67,Alert
+3639,17.88,No alert
+3640,62.6,Alert
+3641,16.35,No alert
+3642,91.13,Alert
+3643,15.47,No alert
+3644,91.65,Alert
+3645,19.49,No alert
+3646,77.2,Alert
+3647,14.47,No alert
+3648,56.02,Alert
+3649,77.88,Alert
+3650,13.88,No alert
+3651,74.58,Alert
+3652,17.39,No alert
+3653,15.38,No alert
+3654,16.35,No alert
+3655,17.29,No alert
+3656,6.65,No alert
+3657,18.0,No alert
+3658,16.1,No alert
+3659,39.54,Alert
+3660,81.45,Alert
+3661,20.23,No alert
+3662,21.02,No alert
+3663,13.67,No alert
+3664,16.43,No alert
+3665,88.99,Alert
+3666,19.04,No alert
+3667,16.94,No alert
+3668,90.53,Alert
+3669,47.64,Alert
+3670,51.97,Alert
+3671,82.96,Alert
+3672,5.45,No alert
+3673,16.67,No alert
+3674,31.8,No alert
+3675,65.38,Alert
+3676,81.98,Alert
+3677,16.63,No alert
+3678,17.74,No alert
+3679,63.02,Alert
+3680,16.67,No alert
+3681,69.64,Alert
+3682,20.66,No alert
+3683,77.42,Alert
+3684,83.79,Alert
+3685,94.07,Alert
+3686,77.49,Alert
+3687,83.7,Alert
+3688,16.15,No alert
+3689,16.62,No alert
+3690,17.06,No alert
+3691,72.97,Alert
+3692,13.85,No alert
+3693,93.48,Alert
+3694,61.62,Alert
+3695,94.01,Alert
+3696,25.43,No alert
+3697,79.45,Alert
+3698,24.41,No alert
+3699,12.63,No alert
+3700,62.27,Alert
+3701,26.83,No alert
+3702,72.43,Alert
+3703,24.26,No alert
+3704,84.28,Alert
+3705,14.57,No alert
+3706,19.04,No alert
+3707,84.6,Alert
+3708,57.46,Alert
+3709,5.74,No alert
+3710,51.2,Alert
+3711,79.45,Alert
+3712,56.3,Alert
+3713,29.43,No alert
+3714,15.67,No alert
+3715,54.71,Alert
+3716,75.95,Alert
+3717,22.4,No alert
+3718,17.74,No alert
+3719,32.58,No alert
+3720,33.09,No alert
+3721,17.22,No alert
+3722,17.74,No alert
+3723,17.55,No alert
+3724,17.74,No alert
+3725,75.41,Alert
+3726,31.81,No alert
+3727,16.49,No alert
+3728,15.47,No alert
+3729,34.51,No alert
+3730,76.3,Alert
+3731,17.84,No alert
+3732,87.54,Alert
+3733,14.67,No alert
+3734,17.74,No alert
+3735,19.83,No alert
+3736,13.3,No alert
+3737,93.43,Alert
+3738,19.04,No alert
+3739,31.13,No alert
+3740,14.54,No alert
+3741,57.67,Alert
+3742,84.38,Alert
+3743,14.08,No alert
+3744,82.47,Alert
+3745,5.7,No alert
+3746,30.92,No alert
+3747,83.21,Alert
+3748,14.5,No alert
+3749,25.04,No alert
+3750,16.57,No alert
+3751,18.55,No alert
+3752,78.69,Alert
+3753,91.6,Alert
+3754,65.57,Alert
+3755,57.83,Alert
+3756,85.01,Alert
+3757,87.42,Alert
+3758,5.01,No alert
+3759,54.14,Alert
+3760,18.0,No alert
+3761,21.14,No alert
+3762,84.25,Alert
+3763,16.38,No alert
+3764,12.08,No alert
+3765,23.16,No alert
+3766,83.97,Alert
+3767,26.63,No alert
+3768,18.0,No alert
+3769,18.63,No alert
+3770,33.17,No alert
+3771,16.67,No alert
+3772,14.17,No alert
+3773,47.52,Alert
+3774,65.34,Alert
+3775,27.45,No alert
+3776,17.85,No alert
+3777,15.7,No alert
+3778,88.6,Alert
+3779,20.75,No alert
+3780,17.3,No alert
+3781,17.95,No alert
+3782,94.09,Alert
+3783,74.08,Alert
+3784,50.35,Alert
+3785,19.04,No alert
+3786,14.57,No alert
+3787,14.47,No alert
+3788,14.7,No alert
+3789,16.49,No alert
+3790,15.79,No alert
+3791,92.84,Alert
+3792,35.37,Alert
+3793,6.16,No alert
+3794,92.86,Alert
+3795,26.32,No alert
+3796,15.67,No alert
+3797,16.04,No alert
+3798,10.36,No alert
+3799,15.12,No alert
+3800,11.83,No alert
+3801,14.67,No alert
+3802,9.99,No alert
+3803,58.94,Alert
+3804,67.28,Alert
+3805,20.07,No alert
+3806,27.5,No alert
+3807,25.96,No alert
+3808,17.92,No alert
+3809,26.91,No alert
+3810,51.65,Alert
+3811,34.0,No alert
+3812,58.94,Alert
+3813,18.0,No alert
+3814,23.94,No alert
+3815,19.1,No alert
+3816,16.1,No alert
+3817,45.51,Alert
+3818,16.32,No alert
+3819,77.65,Alert
+3820,19.49,No alert
+3821,73.6,Alert
+3822,27.8,No alert
+3823,25.73,No alert
+3824,31.05,No alert
+3825,42.78,Alert
+3826,17.74,No alert
+3827,26.33,No alert
+3828,66.47,Alert
+3829,16.63,No alert
+3830,18.03,No alert
+3831,91.7,Alert
+3832,71.11,Alert
+3833,54.21,Alert
+3834,17.17,No alert
+3835,15.79,No alert
+3836,14.68,No alert
+3837,43.23,Alert
+3838,19.04,No alert
+3839,5.68,No alert
+3840,14.17,No alert
+3841,76.02,Alert
+3842,90.87,Alert
+3843,87.55,Alert
+3844,25.89,No alert
+3845,15.67,No alert
+3846,21.92,No alert
+3847,16.15,No alert
+3848,15.57,No alert
+3849,20.09,No alert
+3850,36.39,Alert
+3851,75.52,Alert
+3852,17.74,No alert
+3853,14.95,No alert
+3854,15.12,No alert
+3855,57.55,Alert
+3856,17.56,No alert
+3857,21.59,No alert
+3858,85.38,Alert
+3859,53.15,Alert
+3860,14.1,No alert
+3861,15.46,No alert
+3862,16.15,No alert
+3863,68.88,Alert
+3864,93.79,Alert
+3865,72.62,Alert
+3866,5.56,No alert
+3867,60.58,Alert
+3868,30.24,No alert
+3869,27.66,No alert
+3870,52.54,Alert
+3871,54.49,Alert
+3872,81.58,Alert
+3873,16.4,No alert
+3874,94.4,Alert
+3875,5.68,No alert
+3876,61.99,Alert
+3877,17.85,No alert
+3878,19.1,No alert
+3879,74.19,Alert
+3880,31.17,No alert
+3881,55.63,Alert
+3882,73.47,Alert
+3883,18.0,No alert
+3884,86.24,Alert
+3885,16.38,No alert
+3886,71.83,Alert
+3887,21.99,No alert
+3888,18.47,No alert
+3889,11.41,No alert
+3890,54.32,Alert
+3891,85.38,Alert
+3892,33.09,No alert
+3893,60.46,Alert
+3894,26.43,No alert
+3895,92.8,Alert
+3896,13.25,No alert
+3897,23.68,No alert
+3898,19.01,No alert
+3899,16.1,No alert
+3900,16.63,No alert
+3901,19.59,No alert
+3902,51.96,Alert
+3903,90.53,Alert
+3904,22.56,No alert
+3905,28.71,No alert
+3906,10.84,No alert
+3907,20.63,No alert
+3908,67.92,Alert
+3909,74.05,Alert
+3910,5.79,No alert
+3911,10.36,No alert
+3912,76.05,Alert
+3913,18.46,No alert
+3914,43.88,Alert
+3915,9.3,No alert
+3916,72.55,Alert
+3917,82.99,Alert
+3918,27.52,No alert
+3919,14.78,No alert
+3920,94.13,Alert
+3921,75.6,Alert
+3922,78.82,Alert
+3923,17.76,No alert
+3924,65.96,Alert
+3925,88.25,Alert
+3926,10.21,No alert
+3927,94.09,Alert
+3928,75.44,Alert
+3929,83.56,Alert
+3930,86.99,Alert
+3931,13.3,No alert
+3932,5.65,No alert
+3933,81.27,Alert
+3934,15.24,No alert
+3935,73.09,Alert
+3936,89.21,Alert
+3937,53.99,Alert
+3938,31.09,No alert
+3939,15.27,No alert
+3940,79.48,Alert
+3941,15.5,No alert
+3942,81.92,Alert
+3943,35.36,Alert
+3944,45.37,Alert
+3945,58.85,Alert
+3946,20.82,No alert
+3947,70.24,Alert
+3948,91.8,Alert
+3949,92.96,Alert
+3950,61.9,Alert
+3951,80.92,Alert
+3952,72.95,Alert
+3953,16.76,No alert
+3954,93.65,Alert
+3955,38.21,Alert
+3956,17.0,No alert
+3957,80.62,Alert
+3958,20.95,No alert
+3959,85.66,Alert
+3960,12.49,No alert
+3961,84.91,Alert
+3962,15.74,No alert
+3963,82.24,Alert
+3964,42.68,Alert
+3965,15.64,No alert
+3966,47.32,Alert
+3967,15.33,No alert
+3968,13.59,No alert
+3969,13.88,No alert
+3970,71.1,Alert
+3971,15.65,No alert
+3972,11.65,No alert
+3973,44.82,Alert
+3974,90.12,Alert
+3975,72.24,Alert
+3976,27.64,No alert
+3977,15.47,No alert
+3978,15.33,No alert
+3979,42.79,Alert
+3980,68.58,Alert
+3981,46.56,Alert
+3982,14.59,No alert
+3983,16.89,No alert
+3984,86.95,Alert
+3985,10.36,No alert
+3986,20.9,No alert
+3987,14.67,No alert
+3988,20.23,No alert
+3989,16.57,No alert
+3990,80.08,Alert
+3991,90.67,Alert
+3992,81.3,Alert
+3993,14.9,No alert
+3994,29.3,No alert
+3995,59.54,Alert
+3996,15.24,No alert
+3997,61.01,Alert
+3998,43.68,Alert
+3999,12.8,No alert
+4000,69.39,Alert
+4001,72.07,Alert
+4002,26.83,No alert
+4003,17.73,No alert
+4004,16.22,No alert
+4005,18.47,No alert
+4006,14.17,No alert
+4007,27.8,No alert
+4008,58.58,Alert
+4009,13.3,No alert
+4010,16.57,No alert
+4011,18.0,No alert
+4012,19.04,No alert
+4013,20.41,No alert
+4014,15.91,No alert
+4015,11.41,No alert
+4016,87.32,Alert
+4017,67.25,Alert
+4018,45.63,Alert
+4019,85.82,Alert
+4020,91.61,Alert
+4021,22.4,No alert
+4022,18.0,No alert
+4023,17.17,No alert
+4024,13.67,No alert
+4025,18.76,No alert
+4026,58.46,Alert
+4027,20.94,No alert
+4028,22.41,No alert
+4029,15.33,No alert
+4030,27.3,No alert
+4031,16.35,No alert
+4032,22.05,No alert
+4033,11.54,No alert
+4034,19.44,No alert
+4035,15.29,No alert
+4036,19.22,No alert
+4037,84.34,Alert
+4038,16.62,No alert
+4039,5.34,No alert
+4040,27.69,No alert
+4041,18.63,No alert
+4042,16.43,No alert
+4043,29.9,No alert
+4044,25.89,No alert
+4045,17.74,No alert
+4046,86.24,Alert
+4047,40.64,Alert
+4048,56.73,Alert
+4049,39.87,Alert
+4050,8.71,No alert
+4051,89.59,Alert
+4052,39.77,Alert
+4053,84.68,Alert
+4054,40.79,Alert
+4055,15.33,No alert
+4056,59.29,Alert
+4057,12.94,No alert
+4058,26.18,No alert
+4059,68.07,Alert
+4060,42.58,Alert
+4061,10.36,No alert
+4062,32.59,No alert
+4063,87.11,Alert
+4064,16.22,No alert
+4065,10.21,No alert
+4066,18.63,No alert
+4067,13.51,No alert
+4068,58.26,Alert
+4069,28.7,No alert
+4070,20.01,No alert
+4071,17.55,No alert
+4072,79.86,Alert
+4073,15.47,No alert
+4074,18.12,No alert
+4075,71.98,Alert
+4076,68.11,Alert
+4077,15.27,No alert
+4078,16.57,No alert
+4079,18.02,No alert
+4080,28.48,No alert
+4081,16.62,No alert
+4082,51.63,Alert
+4083,90.38,Alert
+4084,16.1,No alert
+4085,69.66,Alert
+4086,71.59,Alert
+4087,64.71,Alert
+4088,60.39,Alert
+4089,78.01,Alert
+4090,45.1,Alert
+4091,17.5,No alert
+4092,18.76,No alert
+4093,22.4,No alert
+4094,23.39,No alert
+4095,54.96,Alert
+4096,83.09,Alert
+4097,22.4,No alert
+4098,88.27,Alert
+4099,28.86,No alert
+4100,55.46,Alert
+4101,21.1,No alert
+4102,19.93,No alert
+4103,55.32,Alert
+4104,17.49,No alert
+4105,85.92,Alert
+4106,19.96,No alert
+4107,45.96,Alert
+4108,19.04,No alert
+4109,28.37,No alert
+4110,68.53,Alert
+4111,27.17,No alert
+4112,24.94,No alert
+4113,16.15,No alert
+4114,16.71,No alert
+4115,79.63,Alert
+4116,60.49,Alert
+4117,18.99,No alert
+4118,88.46,Alert
+4119,37.7,Alert
+4120,55.43,Alert
+4121,40.96,Alert
+4122,64.82,Alert
+4123,16.1,No alert
+4124,15.84,No alert
+4125,84.02,Alert
+4126,19.38,No alert
+4127,16.4,No alert
+4128,12.53,No alert
+4129,15.04,No alert
+4130,94.08,Alert
+4131,20.78,No alert
+4132,16.91,No alert
+4133,85.76,Alert
+4134,85.83,Alert
+4135,12.17,No alert
+4136,16.7,No alert
+4137,16.57,No alert
+4138,18.57,No alert
+4139,71.78,Alert
+4140,51.64,Alert
+4141,14.08,No alert
+4142,19.02,No alert
+4143,10.02,No alert
+4144,6.01,No alert
+4145,35.12,Alert
+4146,18.0,No alert
+4147,19.38,No alert
+4148,92.85,Alert
+4149,54.85,Alert
+4150,16.31,No alert
+4151,59.29,Alert
+4152,72.32,Alert
+4153,80.3,Alert
+4154,86.07,Alert
+4155,14.67,No alert
+4156,59.79,Alert
+4157,16.37,No alert
+4158,94.05,Alert
+4159,19.37,No alert
+4160,18.0,No alert
+4161,18.0,No alert
+4162,79.72,Alert
+4163,14.67,No alert
+4164,60.91,Alert
+4165,18.55,No alert
+4166,53.94,Alert
+4167,90.06,Alert
+4168,16.43,No alert
+4169,84.88,Alert
+4170,63.18,Alert
+4171,18.41,No alert
+4172,63.58,Alert
+4173,6.65,No alert
+4174,9.37,No alert
+4175,44.87,Alert
+4176,52.3,Alert
+4177,72.46,Alert
+4178,10.58,No alert
+4179,30.66,No alert
+4180,93.91,Alert
+4181,55.49,Alert
+4182,25.96,No alert
+4183,16.62,No alert
+4184,20.01,No alert
+4185,66.93,Alert
+4186,67.18,Alert
+4187,44.11,Alert
+4188,84.99,Alert
+4189,15.84,No alert
+4190,11.41,No alert
+4191,15.15,No alert
+4192,74.08,Alert
+4193,17.74,No alert
+4194,15.38,No alert
+4195,15.33,No alert
+4196,57.38,Alert
+4197,35.37,Alert
+4198,27.39,No alert
+4199,9.29,No alert
+4200,16.32,No alert
+4201,82.32,Alert
+4202,19.02,No alert
+4203,21.5,No alert
+4204,48.17,Alert
+4205,18.67,No alert
+4206,19.01,No alert
+4207,87.95,Alert
+4208,14.47,No alert
+4209,74.44,Alert
+4210,16.63,No alert
+4211,16.67,No alert
+4212,29.54,No alert
+4213,10.36,No alert
+4214,14.17,No alert
+4215,16.62,No alert
+4216,93.9,Alert
+4217,18.51,No alert
+4218,19.38,No alert
+4219,59.26,Alert
+4220,86.29,Alert
+4221,79.27,Alert
+4222,45.3,Alert
+4223,94.31,Alert
+4224,59.56,Alert
+4225,76.65,Alert
+4226,79.57,Alert
+4227,92.87,Alert
+4228,22.65,No alert
+4229,85.1,Alert
+4230,27.74,No alert
+4231,15.2,No alert
+4232,14.9,No alert
+4233,14.01,No alert
+4234,20.35,No alert
+4235,19.02,No alert
+4236,82.12,Alert
+4237,20.01,No alert
+4238,26.61,No alert
+4239,11.76,No alert
+4240,14.67,No alert
+4241,15.03,No alert
+4242,55.74,Alert
+4243,76.29,Alert
+4244,25.65,No alert
+4245,56.3,Alert
+4246,30.22,No alert
+4247,6.09,No alert
+4248,64.25,Alert
+4249,16.54,No alert
+4250,23.89,No alert
+4251,26.75,No alert
+4252,8.14,No alert
+4253,19.38,No alert
+4254,17.74,No alert
+4255,83.55,Alert
+4256,16.62,No alert
+4257,35.76,Alert
+4258,17.21,No alert
+4259,94.17,Alert
+4260,72.68,Alert
+4261,31.15,No alert
+4262,74.82,Alert
+4263,74.44,Alert
+4264,77.16,Alert
+4265,12.87,No alert
+4266,81.98,Alert
+4267,5.37,No alert
+4268,18.47,No alert
+4269,14.1,No alert
+4270,16.32,No alert
+4271,17.74,No alert
+4272,83.84,Alert
+4273,17.74,No alert
+4274,14.17,No alert
+4275,93.84,Alert
+4276,14.17,No alert
+4277,14.31,No alert
+4278,6.16,No alert
+4279,16.22,No alert
+4280,68.07,Alert
+4281,67.6,Alert
+4282,58.29,Alert
+4283,15.93,No alert
+4284,14.08,No alert
+4285,12.86,No alert
+4286,15.47,No alert
+4287,90.01,Alert
+4288,12.63,No alert
+4289,17.92,No alert
+4290,15.13,No alert
+4291,17.92,No alert
+4292,10.7,No alert
+4293,20.01,No alert
+4294,11.83,No alert
+4295,82.77,Alert
+4296,13.48,No alert
+4297,56.3,Alert
+4298,14.08,No alert
+4299,5.95,No alert
+4300,17.54,No alert
+4301,16.63,No alert
+4302,19.39,No alert
+4303,90.25,Alert
+4304,67.86,Alert
+4305,23.49,No alert
+4306,56.3,Alert
+4307,90.03,Alert
+4308,58.85,Alert
+4309,65.22,Alert
+4310,28.28,No alert
+4311,14.77,No alert
+4312,16.67,No alert
+4313,58.93,Alert
+4314,59.89,Alert
+4315,71.01,Alert
+4316,17.74,No alert
+4317,12.45,No alert
+4318,90.81,Alert
+4319,23.12,No alert
+4320,16.43,No alert
+4321,22.4,No alert
+4322,16.71,No alert
+4323,74.44,Alert
+4324,14.18,No alert
+4325,11.83,No alert
+4326,37.05,Alert
+4327,8.57,No alert
+4328,13.51,No alert
+4329,5.58,No alert
+4330,80.37,Alert
+4331,17.01,No alert
+4332,20.83,No alert
+4333,83.88,Alert
+4334,32.0,No alert
+4335,59.26,Alert
+4336,80.88,Alert
+4337,85.76,Alert
+4338,86.27,Alert
+4339,81.83,Alert
+4340,5.56,No alert
+4341,14.3,No alert
+4342,17.52,No alert
+4343,74.88,Alert
+4344,14.68,No alert
+4345,15.54,No alert
+4346,84.58,Alert
+4347,83.42,Alert
+4348,14.47,No alert
+4349,9.6,No alert
+4350,16.9,No alert
+4351,58.03,Alert
+4352,16.67,No alert
+4353,46.28,Alert
+4354,63.85,Alert
+4355,52.94,Alert
+4356,15.27,No alert
+4357,15.92,No alert
+4358,9.36,No alert
+4359,16.61,No alert
+4360,14.9,No alert
+4361,57.34,Alert
+4362,16.32,No alert
+4363,84.46,Alert
+4364,16.35,No alert
+4365,68.41,Alert
+4366,16.32,No alert
+4367,93.98,Alert
+4368,59.54,Alert
+4369,77.61,Alert
+4370,14.67,No alert
+4371,27.52,No alert
+4372,74.81,Alert
+4373,14.17,No alert
+4374,24.52,No alert
+4375,17.82,No alert
+4376,17.29,No alert
+4377,56.83,Alert
+4378,49.7,Alert
+4379,17.35,No alert
+4380,11.32,No alert
+4381,57.7,Alert
+4382,82.38,Alert
+4383,6.01,No alert
+4384,80.72,Alert
+4385,18.06,No alert
+4386,19.1,No alert
+4387,20.5,No alert
+4388,75.53,Alert
+4389,56.34,Alert
+4390,16.54,No alert
+4391,81.53,Alert
+4392,16.38,No alert
+4393,17.29,No alert
+4394,91.29,Alert
+4395,93.72,Alert
+4396,15.24,No alert
+4397,6.01,No alert
+4398,79.71,Alert
+4399,55.46,Alert
+4400,72.84,Alert
+4401,72.18,Alert
+4402,18.69,No alert
+4403,72.69,Alert
+4404,22.4,No alert
+4405,90.54,Alert
+4406,18.78,No alert
+4407,93.33,Alert
+4408,59.54,Alert
+4409,13.3,No alert
+4410,16.49,No alert
+4411,16.57,No alert
+4412,11.62,No alert
+4413,17.27,No alert
+4414,17.74,No alert
+4415,48.18,Alert
+4416,27.01,No alert
+4417,15.64,No alert
+4418,5.48,No alert
+4419,15.27,No alert
+4420,59.56,Alert
+4421,69.09,Alert
+4422,24.94,No alert
+4423,84.13,Alert
+4424,50.66,Alert
+4425,5.43,No alert
+4426,94.35,Alert
+4427,15.24,No alert
+4428,70.78,Alert
+4429,8.56,No alert
+4430,13.2,No alert
+4431,60.91,Alert
+4432,14.73,No alert
+4433,13.84,No alert
+4434,75.91,Alert
+4435,18.0,No alert
+4436,16.1,No alert
+4437,54.78,Alert
+4438,69.1,Alert
+4439,18.4,No alert
+4440,93.74,Alert
+4441,16.38,No alert
+4442,14.1,No alert
+4443,59.54,Alert
+4444,30.14,No alert
+4445,18.61,No alert
+4446,17.29,No alert
+4447,26.63,No alert
+4448,19.1,No alert
+4449,17.17,No alert
+4450,42.12,Alert
+4451,9.47,No alert
+4452,83.25,Alert
+4453,93.67,Alert
+4454,13.67,No alert
+4455,37.55,Alert
+4456,72.66,Alert
+4457,21.02,No alert
+4458,27.46,No alert
+4459,22.4,No alert
+4460,54.96,Alert
+4461,60.54,Alert
+4462,90.77,Alert
+4463,10.21,No alert
+4464,68.26,Alert
+4465,14.3,No alert
+4466,19.35,No alert
+4467,60.4,Alert
+4468,80.45,Alert
+4469,30.06,No alert
+4470,64.39,Alert
+4471,62.38,Alert
+4472,6.65,No alert
+4473,16.44,No alert
+4474,17.13,No alert
+4475,16.23,No alert
+4476,17.04,No alert
+4477,5.34,No alert
+4478,22.7,No alert
+4479,76.79,Alert
+4480,21.23,No alert
+4481,50.49,Alert
+4482,17.34,No alert
+4483,13.59,No alert
+4484,16.43,No alert
+4485,22.29,No alert
+4486,73.69,Alert
+4487,5.37,No alert
+4488,16.23,No alert
+4489,87.21,Alert
+4490,16.43,No alert
+4491,68.1,Alert
+4492,75.68,Alert
+4493,79.64,Alert
+4494,16.01,No alert
+4495,70.57,Alert
+4496,87.14,Alert
+4497,5.37,No alert
+4498,16.67,No alert
+4499,18.0,No alert
+4500,39.97,Alert
+4501,27.8,No alert
+4502,93.9,Alert
+4503,5.78,No alert
+4504,94.1,Alert
+4505,16.1,No alert
+4506,15.61,No alert
+4507,17.64,No alert
+4508,35.36,Alert
+4509,59.26,Alert
+4510,14.57,No alert
+4511,12.06,No alert
+4512,6.1,No alert
+4513,38.48,Alert
+4514,83.56,Alert
+4515,29.41,No alert
+4516,12.44,No alert
+4517,93.74,Alert
+4518,14.01,No alert
+4519,91.83,Alert
+4520,16.42,No alert
+4521,19.49,No alert
+4522,20.18,No alert
+4523,14.08,No alert
+4524,12.63,No alert
+4525,56.3,Alert
+4526,66.51,Alert
+4527,78.1,Alert
+4528,17.74,No alert
+4529,73.15,Alert
+4530,10.06,No alert
+4531,10.36,No alert
+4532,84.53,Alert
+4533,56.83,Alert
+4534,17.74,No alert
+4535,16.17,No alert
+4536,13.3,No alert
+4537,27.44,No alert
+4538,15.7,No alert
+4539,72.88,Alert
+4540,19.04,No alert
+4541,11.41,No alert
+4542,13.88,No alert
+4543,12.49,No alert
+4544,88.11,Alert
+4545,17.07,No alert
+4546,20.07,No alert
+4547,10.28,No alert
+4548,20.91,No alert
+4549,15.73,No alert
+4550,86.67,Alert
+4551,13.67,No alert
+4552,72.75,Alert
+4553,16.32,No alert
+4554,43.45,Alert
+4555,26.75,No alert
+4556,83.68,Alert
+4557,35.89,Alert
+4558,6.18,No alert
+4559,74.58,Alert
+4560,28.97,No alert
+4561,85.54,Alert
+4562,26.0,No alert
+4563,16.26,No alert
+4564,72.95,Alert
+4565,20.1,No alert
+4566,39.73,Alert
+4567,16.91,No alert
+4568,11.83,No alert
+4569,15.64,No alert
+4570,17.03,No alert
+4571,16.63,No alert
+4572,72.63,Alert
+4573,17.51,No alert
+4574,85.81,Alert
+4575,72.37,Alert
+4576,63.42,Alert
+4577,15.47,No alert
+4578,53.78,Alert
+4579,19.04,No alert
+4580,16.22,No alert
+4581,70.2,Alert
+4582,15.18,No alert
+4583,16.1,No alert
+4584,13.3,No alert
+4585,77.61,Alert
+4586,61.02,Alert
+4587,18.0,No alert
+4588,16.89,No alert
+4589,17.42,No alert
+4590,18.28,No alert
+4591,18.55,No alert
+4592,17.07,No alert
+4593,14.77,No alert
+4594,17.87,No alert
+4595,37.37,Alert
+4596,13.88,No alert
+4597,31.26,No alert
+4598,94.49,Alert
+4599,14.47,No alert
+4600,16.63,No alert
+4601,45.8,Alert
+4602,74.67,Alert
+4603,87.82,Alert
+4604,17.07,No alert
+4605,18.0,No alert
+4606,11.62,No alert
+4607,13.94,No alert
+4608,86.17,Alert
+4609,35.16,Alert
+4610,14.97,No alert
+4611,56.34,Alert
+4612,16.1,No alert
+4613,17.17,No alert
+4614,36.06,Alert
+4615,91.16,Alert
+4616,17.5,No alert
+4617,16.62,No alert
+4618,18.0,No alert
+4619,19.28,No alert
+4620,14.01,No alert
+4621,49.22,Alert
+4622,26.77,No alert
+4623,14.17,No alert
+4624,94.57,Alert
+4625,18.35,No alert
+4626,16.38,No alert
+4627,77.59,Alert
+4628,44.12,Alert
+4629,11.76,No alert
+4630,16.38,No alert
+4631,18.2,No alert
+4632,14.68,No alert
+4633,17.64,No alert
+4634,27.46,No alert
+4635,90.19,Alert
+4636,12.86,No alert
+4637,46.71,Alert
+4638,13.32,No alert
+4639,57.91,Alert
+4640,10.13,No alert
+4641,73.15,Alert
+4642,16.43,No alert
+4643,56.78,Alert
+4644,16.63,No alert
+4645,17.17,No alert
+4646,85.21,Alert
+4647,14.95,No alert
+4648,84.24,Alert
+4649,14.02,No alert
+4650,14.67,No alert
+4651,6.96,No alert
+4652,18.61,No alert
+4653,58.9,Alert
+4654,57.81,Alert
+4655,21.23,No alert
+4656,19.74,No alert
+4657,30.32,No alert
+4658,44.12,Alert
+4659,16.1,No alert
+4660,17.92,No alert
+4661,15.12,No alert
+4662,14.77,No alert
+4663,16.62,No alert
+4664,26.71,No alert
+4665,85.97,Alert
+4666,14.54,No alert
+4667,11.92,No alert
+4668,92.91,Alert
+4669,54.8,Alert
+4670,84.89,Alert
+4671,16.1,No alert
+4672,81.1,Alert
+4673,15.92,No alert
+4674,15.33,No alert
+4675,19.12,No alert
+4676,82.48,Alert
+4677,16.43,No alert
+4678,48.97,Alert
+4679,57.55,Alert
+4680,21.83,No alert
+4681,74.4,Alert
+4682,17.85,No alert
+4683,53.15,Alert
+4684,17.74,No alert
+4685,15.93,No alert
+4686,18.06,No alert
+4687,56.76,Alert
+4688,60.91,Alert
+4689,14.67,No alert
+4690,80.25,Alert
+4691,24.32,No alert
+4692,19.38,No alert
+4693,75.21,Alert
+4694,19.45,No alert
+4695,55.63,Alert
+4696,9.85,No alert
+4697,18.85,No alert
+4698,25.42,No alert
+4699,79.57,Alert
+4700,89.94,Alert
+4701,91.07,Alert
+4702,15.94,No alert
+4703,38.11,Alert
+4704,82.84,Alert
+4705,94.27,Alert
+4706,16.22,No alert
+4707,91.03,Alert
+4708,24.41,No alert
+4709,75.93,Alert
+4710,85.51,Alert
+4711,16.38,No alert
+4712,62.54,Alert
+4713,14.89,No alert
+4714,6.16,No alert
+4715,70.18,Alert
+4716,30.14,No alert
+4717,13.3,No alert
+4718,13.35,No alert
+4719,45.18,Alert
+4720,18.46,No alert
+4721,15.85,No alert
+4722,46.56,Alert
+4723,16.63,No alert
+4724,16.43,No alert
+4725,83.36,Alert
+4726,55.37,Alert
+4727,15.27,No alert
+4728,16.57,No alert
+4729,87.39,Alert
+4730,35.99,Alert
+4731,19.02,No alert
+4732,63.58,Alert
+4733,14.33,No alert
+4734,8.9,No alert
+4735,17.74,No alert
+4736,16.35,No alert
+4737,46.29,Alert
+4738,85.14,Alert
+4739,25.94,No alert
+4740,26.77,No alert
+4741,76.92,Alert
+4742,59.54,Alert
+4743,19.1,No alert
+4744,24.94,No alert
+4745,37.24,Alert
+4746,11.76,No alert
+4747,69.78,Alert
+4748,13.67,No alert
+4749,84.2,Alert
+4750,56.98,Alert
+4751,31.22,No alert
+4752,18.75,No alert
+4753,93.33,Alert
+4754,29.13,No alert
+4755,17.17,No alert
+4756,49.33,Alert
+4757,94.3,Alert
+4758,94.11,Alert
+4759,21.23,No alert
+4760,83.08,Alert
+4761,15.64,No alert
+4762,16.25,No alert
+4763,14.1,No alert
+4764,14.85,No alert
+4765,16.39,No alert
+4766,59.58,Alert
+4767,5.37,No alert
+4768,94.26,Alert
+4769,9.55,No alert
+4770,14.1,No alert
+4771,88.45,Alert
+4772,5.79,No alert
+4773,11.83,No alert
+4774,21.25,No alert
+4775,80.75,Alert
+4776,23.45,No alert
+4777,26.67,No alert
+4778,11.62,No alert
+4779,16.63,No alert
+4780,54.34,Alert
+4781,16.32,No alert
+4782,24.52,No alert
+4783,58.85,Alert
+4784,56.73,Alert
+4785,16.62,No alert
+4786,6.03,No alert
+4787,13.19,No alert
+4788,65.3,Alert
+4789,14.9,No alert
+4790,51.43,Alert
+4791,82.96,Alert
+4792,14.1,No alert
+4793,11.83,No alert
+4794,15.69,No alert
+4795,19.1,No alert
+4796,82.76,Alert
+4797,16.0,No alert
+4798,15.47,No alert
+4799,17.36,No alert
+4800,89.28,Alert
+4801,13.44,No alert
+4802,87.88,Alert
+4803,58.9,Alert
+4804,16.63,No alert
+4805,78.72,Alert
+4806,18.0,No alert
+4807,11.66,No alert
+4808,76.49,Alert
+4809,66.79,Alert
+4810,24.86,No alert
+4811,19.48,No alert
+4812,9.55,No alert
+4813,91.22,Alert
+4814,93.04,Alert
+4815,58.75,Alert
+4816,15.47,No alert
+4817,6.01,No alert
+4818,16.35,No alert
+4819,30.81,No alert
+4820,17.85,No alert
+4821,54.32,Alert
+4822,82.23,Alert
+4823,50.6,Alert
+4824,73.09,Alert
+4825,43.75,Alert
+4826,61.24,Alert
+4827,13.67,No alert
+4828,82.2,Alert
+4829,16.57,No alert
+4830,18.06,No alert
+4831,27.32,No alert
+4832,19.04,No alert
+4833,27.06,No alert
+4834,79.27,Alert
+4835,13.51,No alert
+4836,94.07,Alert
+4837,91.15,Alert
+4838,88.23,Alert
+4839,63.65,Alert
+4840,18.1,No alert
+4841,16.67,No alert
+4842,13.85,No alert
+4843,69.8,Alert
+4844,14.7,No alert
+4845,15.24,No alert
+4846,19.01,No alert
+4847,17.07,No alert
+4848,17.74,No alert
+4849,14.08,No alert
+4850,26.99,No alert
+4851,92.28,Alert
+4852,19.38,No alert
+4853,15.47,No alert
+4854,18.21,No alert
+4855,19.79,No alert
+4856,16.01,No alert
+4857,16.61,No alert
+4858,16.1,No alert
+4859,13.88,No alert
+4860,19.38,No alert
+4861,76.05,Alert
+4862,21.35,No alert
+4863,13.85,No alert
+4864,14.54,No alert
+4865,65.31,Alert
+4866,21.56,No alert
+4867,53.15,Alert
+4868,18.0,No alert
+4869,53.13,Alert
+4870,79.38,Alert
+4871,86.21,Alert
+4872,79.24,Alert
+4873,17.74,No alert
+4874,27.52,No alert
+4875,58.85,Alert
+4876,14.47,No alert
+4877,43.28,Alert
+4878,69.54,Alert
+4879,17.35,No alert
+4880,18.35,No alert
+4881,18.89,No alert
+4882,56.3,Alert
+4883,12.87,No alert
+4884,10.36,No alert
+4885,59.38,Alert
+4886,84.09,Alert
+4887,72.1,Alert
+4888,38.96,Alert
+4889,86.94,Alert
+4890,94.07,Alert
+4891,19.36,No alert
+4892,14.93,No alert
+4893,13.85,No alert
+4894,88.52,Alert
+4895,16.42,No alert
+4896,47.47,Alert
+4897,12.07,No alert
+4898,79.58,Alert
+4899,16.49,No alert
+4900,83.99,Alert
+4901,15.46,No alert
+4902,14.67,No alert
+4903,80.55,Alert
+4904,13.22,No alert
+4905,10.82,No alert
+4906,47.73,Alert
+4907,15.78,No alert
+4908,11.62,No alert
+4909,84.5,Alert
+4910,6.08,No alert
+4911,21.69,No alert
+4912,28.3,No alert
+4913,58.94,Alert
+4914,27.45,No alert
+4915,18.48,No alert
+4916,16.02,No alert
+4917,10.36,No alert
+4918,55.32,Alert
+4919,88.44,Alert
+4920,52.6,Alert
+4921,32.71,No alert
+4922,18.76,No alert
+4923,33.46,No alert
+4924,81.01,Alert
+4925,18.63,No alert
+4926,11.85,No alert
+4927,63.6,Alert
+4928,22.32,No alert
+4929,80.21,Alert
+4930,73.59,Alert
+4931,21.02,No alert
+4932,74.13,Alert
+4933,15.64,No alert
+4934,15.61,No alert
+4935,6.16,No alert
+4936,86.81,Alert
+4937,73.86,Alert
+4938,14.01,No alert
+4939,14.18,No alert
+4940,13.51,No alert
+4941,85.07,Alert
+4942,64.3,Alert
+4943,80.93,Alert
+4944,22.51,No alert
+4945,9.53,No alert
+4946,68.55,Alert
+4947,88.59,Alert
+4948,55.68,Alert
+4949,16.63,No alert
+4950,55.54,Alert
+4951,74.44,Alert
+4952,93.33,Alert
+4953,17.92,No alert
+4954,16.49,No alert
+4955,67.99,Alert
+4956,93.68,Alert
+4957,13.88,No alert
+4958,23.49,No alert
+4959,86.02,Alert
+4960,93.43,Alert
+4961,8.53,No alert
+4962,12.86,No alert
+4963,12.96,No alert
+4964,17.74,No alert
+4965,82.31,Alert
+4966,30.82,No alert
+4967,21.16,No alert
+4968,15.69,No alert
+4969,21.02,No alert
+4970,19.16,No alert
+4971,21.02,No alert
+4972,16.89,No alert
+4973,12.44,No alert
+4974,7.34,No alert
+4975,18.09,No alert
+4976,15.69,No alert
+4977,83.18,Alert
+4978,15.33,No alert
+4979,18.47,No alert
+4980,15.7,No alert
+4981,88.15,Alert
+4982,15.24,No alert
+4983,14.54,No alert
+4984,16.96,No alert
+4985,20.44,No alert
+4986,66.27,Alert
+4987,6.25,No alert
+4988,33.03,No alert
+4989,58.75,Alert
+4990,14.67,No alert
+4991,72.16,Alert
+4992,12.38,No alert
+4993,73.77,Alert
+4994,10.38,No alert
+4995,16.62,No alert
+4996,81.98,Alert
+4997,16.23,No alert
+4998,19.37,No alert
+4999,19.37,No alert
+5000,10.5,No alert
+5001,21.5,No alert
+5002,16.96,No alert
+5003,19.37,No alert
+5004,26.09,No alert
+5005,23.12,No alert
+5006,20.04,No alert
+5007,14.1,No alert
+5008,52.94,Alert
+5009,70.42,Alert
+5010,85.68,Alert
+5011,75.86,Alert
+5012,16.38,No alert
+5013,92.81,Alert
+5014,93.96,Alert
+5015,59.82,Alert
+5016,16.62,No alert
+5017,18.02,No alert
+5018,5.81,No alert
+5019,80.22,Alert
+5020,57.02,Alert
+5021,55.46,Alert
+5022,14.08,No alert
+5023,29.31,No alert
+5024,59.13,Alert
+5025,29.36,No alert
+5026,59.79,Alert
+5027,19.37,No alert
+5028,84.38,Alert
+5029,13.72,No alert
+5030,22.95,No alert
+5031,17.56,No alert
+5032,13.77,No alert
+5033,16.49,No alert
+5034,60.12,Alert
+5035,14.17,No alert
+5036,29.74,No alert
+5037,14.67,No alert
+5038,11.17,No alert
+5039,14.23,No alert
+5040,82.27,Alert
+5041,69.09,Alert
+5042,11.41,No alert
+5043,74.78,Alert
+5044,52.6,Alert
+5045,6.29,No alert
+5046,79.62,Alert
+5047,6.1,No alert
+5048,19.38,No alert
+5049,36.47,Alert
+5050,75.15,Alert
+5051,79.05,Alert
+5052,14.08,No alert
+5053,58.03,Alert
+5054,54.02,Alert
+5055,73.37,Alert
+5056,32.18,No alert
+5057,20.48,No alert
+5058,13.55,No alert
+5059,94.27,Alert
+5060,26.89,No alert
+5061,80.08,Alert
+5062,52.95,Alert
+5063,17.17,No alert
+5064,17.07,No alert
+5065,5.43,No alert
+5066,19.87,No alert
+5067,19.92,No alert
+5068,93.96,Alert
+5069,18.35,No alert
+5070,16.25,No alert
+5071,20.86,No alert
+5072,15.7,No alert
+5073,91.29,Alert
+5074,5.8,No alert
+5075,51.13,Alert
+5076,42.84,Alert
+5077,26.88,No alert
+5078,17.01,No alert
+5079,17.29,No alert
+5080,87.23,Alert
+5081,11.91,No alert
+5082,15.34,No alert
+5083,18.76,No alert
+5084,84.55,Alert
+5085,17.92,No alert
+5086,45.57,Alert
+5087,16.67,No alert
+5088,15.24,No alert
+5089,68.86,Alert
+5090,14.1,No alert
+5091,19.37,No alert
+5092,14.57,No alert
+5093,94.48,Alert
+5094,5.32,No alert
+5095,20.82,No alert
+5096,20.41,No alert
+5097,80.95,Alert
+5098,11.81,No alert
+5099,61.55,Alert
+5100,23.8,No alert
+5101,70.18,Alert
+5102,16.32,No alert
+5103,61.28,Alert
+5104,13.3,No alert
+5105,16.41,No alert
+5106,18.76,No alert
+5107,18.63,No alert
+5108,16.05,No alert
+5109,16.63,No alert
+5110,15.7,No alert
+5111,29.31,No alert
+5112,48.97,Alert
+5113,58.43,Alert
+5114,75.99,Alert
+5115,31.94,No alert
+5116,18.75,No alert
+5117,88.1,Alert
+5118,19.01,No alert
+5119,14.1,No alert
+5120,29.74,No alert
+5121,69.64,Alert
+5122,19.02,No alert
+5123,15.77,No alert
+5124,63.3,Alert
+5125,82.32,Alert
+5126,88.15,Alert
+5127,56.98,Alert
+5128,80.44,Alert
+5129,73.37,Alert
+5130,83.3,Alert
+5131,57.78,Alert
+5132,17.35,No alert
+5133,70.28,Alert
+5134,10.36,No alert
+5135,86.04,Alert
+5136,12.73,No alert
+5137,67.39,Alert
+5138,13.88,No alert
+5139,14.1,No alert
+5140,16.69,No alert
+5141,19.27,No alert
+5142,14.57,No alert
+5143,11.59,No alert
+5144,36.47,Alert
+5145,93.98,Alert
+5146,81.63,Alert
+5147,11.76,No alert
+5148,14.47,No alert
+5149,87.88,Alert
+5150,13.3,No alert
+5151,77.13,Alert
+5152,50.5,Alert
+5153,5.8,No alert
+5154,41.5,Alert
+5155,58.63,Alert
+5156,84.77,Alert
+5157,69.93,Alert
+5158,79.26,Alert
+5159,78.52,Alert
+5160,19.83,No alert
+5161,34.12,No alert
+5162,59.99,Alert
+5163,12.81,No alert
+5164,14.87,No alert
+5165,15.34,No alert
+5166,89.87,Alert
+5167,80.77,Alert
+5168,25.58,No alert
+5169,16.67,No alert
+5170,22.01,No alert
+5171,24.41,No alert
+5172,18.91,No alert
+5173,14.96,No alert
+5174,44.56,Alert
+5175,21.48,No alert
+5176,75.5,Alert
+5177,72.77,Alert
+5178,17.74,No alert
+5179,16.63,No alert
+5180,75.21,Alert
+5181,15.7,No alert
+5182,9.99,No alert
+5183,89.76,Alert
+5184,84.39,Alert
+5185,15.25,No alert
+5186,22.95,No alert
+5187,69.11,Alert
+5188,22.57,No alert
+5189,22.4,No alert
+5190,92.74,Alert
+5191,26.84,No alert
+5192,5.37,No alert
+5193,26.75,No alert
+5194,88.8,Alert
+5195,9.61,No alert
+5196,49.66,Alert
+5197,64.1,Alert
+5198,13.51,No alert
+5199,16.1,No alert
+5200,13.51,No alert
+5201,16.63,No alert
+5202,26.22,No alert
+5203,14.08,No alert
+5204,13.12,No alert
+5205,13.08,No alert
+5206,72.24,Alert
+5207,19.49,No alert
+5208,22.4,No alert
+5209,18.06,No alert
+5210,15.24,No alert
+5211,30.57,No alert
+5212,83.03,Alert
+5213,18.0,No alert
+5214,27.17,No alert
+5215,16.59,No alert
+5216,14.18,No alert
+5217,17.56,No alert
+5218,49.7,Alert
+5219,62.33,Alert
+5220,16.72,No alert
+5221,26.75,No alert
+5222,16.35,No alert
+5223,18.0,No alert
+5224,78.21,Alert
+5225,7.64,No alert
+5226,59.92,Alert
+5227,20.01,No alert
+5228,30.02,No alert
+5229,90.5,Alert
+5230,77.04,Alert
+5231,55.48,Alert
+5232,13.96,No alert
+5233,80.28,Alert
+5234,16.22,No alert
+5235,72.7,Alert
+5236,47.03,Alert
+5237,27.88,No alert
+5238,27.5,No alert
+5239,26.75,No alert
+5240,72.58,Alert
+5241,92.84,Alert
+5242,19.01,No alert
+5243,78.25,Alert
+5244,74.5,Alert
+5245,78.75,Alert
+5246,74.78,Alert
+5247,93.96,Alert
+5248,94.65,Alert
+5249,78.68,Alert
+5250,15.7,No alert
+5251,16.31,No alert
+5252,15.92,No alert
+5253,93.49,Alert
+5254,84.33,Alert
+5255,44.47,Alert
+5256,43.23,Alert
+5257,35.21,Alert
+5258,29.41,No alert
+5259,14.09,No alert
+5260,16.62,No alert
+5261,14.1,No alert
+5262,83.94,Alert
+5263,59.56,Alert
+5264,23.04,No alert
+5265,26.22,No alert
+5266,15.92,No alert
+5267,31.26,No alert
+5268,89.63,Alert
+5269,13.63,No alert
+5270,81.48,Alert
+5271,50.1,Alert
+5272,28.13,No alert
+5273,37.06,Alert
+5274,27.29,No alert
+5275,25.32,No alert
+5276,20.75,No alert
+5277,12.16,No alert
+5278,16.67,No alert
+5279,47.03,Alert
+5280,22.4,No alert
+5281,17.74,No alert
+5282,61.03,Alert
+5283,19.49,No alert
+5284,18.76,No alert
+5285,14.9,No alert
+5286,47.13,Alert
+5287,19.02,No alert
+5288,17.74,No alert
+5289,5.65,No alert
+5290,87.04,Alert
+5291,79.67,Alert
+5292,17.85,No alert
+5293,25.49,No alert
+5294,22.56,No alert
+5295,91.01,Alert
+5296,19.37,No alert
+5297,86.85,Alert
+5298,9.55,No alert
+5299,13.2,No alert
+5300,22.56,No alert
+5301,87.6,Alert
+5302,88.42,Alert
+5303,74.78,Alert
+5304,38.87,Alert
+5305,46.69,Alert
+5306,15.92,No alert
+5307,22.4,No alert
+5308,84.09,Alert
+5309,13.59,No alert
+5310,67.39,Alert
+5311,5.65,No alert
+5312,62.37,Alert
+5313,94.11,Alert
+5314,22.4,No alert
+5315,13.88,No alert
+5316,38.7,Alert
+5317,14.08,No alert
+5318,16.67,No alert
+5319,15.47,No alert
+5320,57.68,Alert
+5321,73.17,Alert
+5322,16.49,No alert
+5323,43.31,Alert
+5324,21.02,No alert
+5325,26.61,No alert
+5326,17.74,No alert
+5327,19.1,No alert
+5328,15.92,No alert
+5329,70.18,Alert
+5330,19.1,No alert
+5331,16.22,No alert
+5332,26.17,No alert
+5333,40.67,Alert
+5334,83.63,Alert
+5335,84.92,Alert
+5336,87.94,Alert
+5337,40.19,Alert
+5338,39.45,Alert
+5339,85.72,Alert
+5340,83.44,Alert
+5341,14.67,No alert
+5342,72.66,Alert
+5343,87.1,Alert
+5344,16.61,No alert
+5345,30.82,No alert
+5346,11.76,No alert
+5347,19.01,No alert
+5348,38.93,Alert
+5349,14.57,No alert
+5350,10.85,No alert
+5351,7.99,No alert
+5352,71.28,Alert
+5353,14.01,No alert
+5354,78.43,Alert
+5355,12.01,No alert
+5356,66.33,Alert
+5357,5.58,No alert
+5358,86.28,Alert
+5359,80.3,Alert
+5360,19.59,No alert
+5361,22.3,No alert
+5362,93.49,Alert
+5363,25.89,No alert
+5364,76.59,Alert
+5365,18.2,No alert
+5366,14.9,No alert
+5367,59.45,Alert
+5368,5.56,No alert
+5369,87.04,Alert
+5370,16.67,No alert
+5371,71.56,Alert
+5372,17.74,No alert
+5373,30.57,No alert
+5374,87.04,Alert
+5375,58.93,Alert
+5376,74.01,Alert
+5377,11.16,No alert
+5378,12.49,No alert
+5379,14.08,No alert
+5380,5.37,No alert
+5381,78.82,Alert
+5382,81.53,Alert
+5383,16.11,No alert
+5384,55.15,Alert
+5385,51.42,Alert
+5386,77.12,Alert
+5387,18.27,No alert
+5388,54.01,Alert
+5389,14.18,No alert
+5390,16.32,No alert
+5391,70.56,Alert
+5392,10.21,No alert
+5393,37.06,Alert
+5394,70.77,Alert
+5395,10.32,No alert
+5396,83.2,Alert
+5397,75.13,Alert
+5398,17.74,No alert
+5399,14.54,No alert
+5400,92.67,Alert
+5401,57.04,Alert
+5402,42.81,Alert
+5403,17.85,No alert
+5404,21.9,No alert
+5405,16.62,No alert
+5406,64.08,Alert
+5407,82.48,Alert
+5408,57.63,Alert
+5409,91.6,Alert
+5410,13.67,No alert
+5411,68.12,Alert
+5412,23.89,No alert
+5413,18.35,No alert
+5414,16.72,No alert
+5415,34.88,No alert
+5416,76.05,Alert
+5417,15.46,No alert
+5418,62.73,Alert
+5419,18.48,No alert
+5420,16.9,No alert
+5421,86.77,Alert
+5422,72.75,Alert
+5423,14.57,No alert
+5424,17.92,No alert
+5425,79.77,Alert
+5426,18.28,No alert
+5427,84.82,Alert
+5428,16.22,No alert
+5429,75.28,Alert
+5430,85.7,Alert
+5431,62.43,Alert
+5432,15.33,No alert
+5433,56.84,Alert
+5434,15.91,No alert
+5435,36.47,Alert
+5436,15.33,No alert
+5437,15.33,No alert
+5438,65.52,Alert
+5439,16.35,No alert
+5440,22.4,No alert
+5441,43.13,Alert
+5442,93.86,Alert
+5443,18.35,No alert
+5444,17.17,No alert
+5445,23.77,No alert
+5446,84.85,Alert
+5447,71.72,Alert
+5448,25.03,No alert
+5449,74.44,Alert
+5450,13.3,No alert
+5451,55.65,Alert
+5452,71.67,Alert
+5453,5.8,No alert
+5454,54.32,Alert
+5455,16.61,No alert
+5456,19.04,No alert
+5457,22.05,No alert
+5458,91.03,Alert
+5459,85.83,Alert
+5460,14.01,No alert
+5461,81.37,Alert
+5462,58.58,Alert
+5463,19.02,No alert
+5464,14.67,No alert
+5465,57.16,Alert
+5466,19.49,No alert
+5467,18.06,No alert
+5468,12.19,No alert
+5469,78.82,Alert
+5470,79.1,Alert
+5471,94.48,Alert
+5472,14.68,No alert
+5473,40.77,Alert
+5474,22.4,No alert
+5475,6.03,No alert
+5476,14.14,No alert
+5477,14.54,No alert
+5478,80.72,Alert
+5479,81.76,Alert
+5480,13.88,No alert
+5481,15.85,No alert
+5482,78.92,Alert
+5483,85.81,Alert
+5484,53.64,Alert
+5485,27.69,No alert
+5486,12.6,No alert
+5487,24.72,No alert
+5488,13.43,No alert
+5489,15.99,No alert
+5490,88.53,Alert
+5491,57.43,Alert
+5492,18.0,No alert
+5493,17.74,No alert
+5494,88.27,Alert
+5495,6.08,No alert
+5496,16.32,No alert
+5497,20.13,No alert
+5498,73.9,Alert
+5499,94.01,Alert
+5500,86.4,Alert
+5501,33.03,No alert
+5502,16.1,No alert
+5503,10.21,No alert
+5504,81.98,Alert
+5505,28.88,No alert
+5506,12.68,No alert
+5507,58.25,Alert
+5508,85.33,Alert
+5509,16.49,No alert
+5510,30.8,No alert
+5511,18.09,No alert
+5512,12.16,No alert
+5513,71.92,Alert
+5514,5.37,No alert
+5515,14.08,No alert
+5516,40.26,Alert
+5517,82.98,Alert
+5518,16.01,No alert
+5519,42.9,Alert
+5520,85.55,Alert
+5521,23.94,No alert
+5522,16.38,No alert
+5523,15.2,No alert
+5524,52.31,Alert
+5525,54.69,Alert
+5526,60.91,Alert
+5527,59.6,Alert
+5528,17.74,No alert
+5529,88.61,Alert
+5530,88.86,Alert
+5531,71.01,Alert
+5532,27.16,No alert
+5533,17.04,No alert
+5534,83.82,Alert
+5535,68.11,Alert
+5536,11.41,No alert
+5537,17.85,No alert
+5538,16.15,No alert
+5539,78.7,Alert
+5540,23.08,No alert
+5541,14.1,No alert
+5542,18.35,No alert
+5543,16.68,No alert
+5544,64.13,Alert
+5545,16.54,No alert
+5546,42.86,Alert
+5547,15.3,No alert
+5548,9.56,No alert
+5549,65.3,Alert
+5550,15.7,No alert
+5551,36.08,Alert
+5552,14.67,No alert
+5553,80.74,Alert
+5554,94.44,Alert
+5555,29.64,No alert
+5556,92.79,Alert
+5557,78.82,Alert
+5558,55.74,Alert
+5559,12.63,No alert
+5560,14.67,No alert
+5561,16.38,No alert
+5562,75.77,Alert
+5563,12.52,No alert
+5564,87.57,Alert
+5565,79.76,Alert
+5566,12.63,No alert
+5567,42.48,Alert
+5568,67.49,Alert
+5569,86.17,Alert
+5570,14.97,No alert
+5571,13.37,No alert
+5572,15.47,No alert
+5573,54.21,Alert
+5574,16.38,No alert
+5575,54.21,Alert
+5576,66.79,Alert
+5577,48.98,Alert
+5578,42.34,Alert
+5579,26.88,No alert
+5580,17.74,No alert
+5581,70.63,Alert
+5582,86.52,Alert
+5583,94.66,Alert
+5584,74.19,Alert
+5585,47.94,Alert
+5586,19.37,No alert
+5587,18.48,No alert
+5588,81.09,Alert
+5589,16.57,No alert
+5590,16.01,No alert
+5591,13.59,No alert
+5592,18.76,No alert
+5593,10.36,No alert
+5594,86.17,Alert
+5595,81.94,Alert
+5596,15.97,No alert
+5597,5.56,No alert
+5598,88.77,Alert
+5599,18.0,No alert
+5600,28.04,No alert
+5601,18.47,No alert
+5602,17.12,No alert
+5603,46.29,Alert
+5604,16.15,No alert
+5605,13.88,No alert
+5606,11.01,No alert
+5607,20.82,No alert
+5608,80.52,Alert
+5609,80.47,Alert
+5610,16.98,No alert
+5611,88.43,Alert
+5612,54.01,Alert
+5613,94.5,Alert
+5614,16.38,No alert
+5615,16.49,No alert
+5616,18.51,No alert
+5617,18.06,No alert
+5618,26.63,No alert
+5619,59.54,Alert
+5620,15.27,No alert
+5621,51.65,Alert
+5622,16.41,No alert
+5623,17.74,No alert
+5624,17.29,No alert
+5625,17.85,No alert
+5626,16.01,No alert
+5627,13.63,No alert
+5628,25.32,No alert
+5629,56.71,Alert
+5630,92.89,Alert
+5631,40.19,Alert
+5632,9.6,No alert
+5633,17.85,No alert
+5634,48.34,Alert
+5635,87.1,Alert
+5636,17.85,No alert
+5637,18.83,No alert
+5638,17.92,No alert
+5639,14.38,No alert
+5640,91.29,Alert
+5641,17.85,No alert
+5642,82.02,Alert
+5643,72.84,Alert
+5644,17.92,No alert
+5645,14.01,No alert
+5646,41.41,Alert
+5647,25.18,No alert
+5648,19.85,No alert
+5649,27.59,No alert
+5650,59.6,Alert
+5651,12.52,No alert
+5652,57.81,Alert
+5653,73.77,Alert
+5654,92.75,Alert
+5655,5.43,No alert
+5656,81.81,Alert
+5657,30.01,No alert
+5658,73.97,Alert
+5659,80.45,Alert
+5660,14.27,No alert
+5661,90.02,Alert
+5662,18.72,No alert
+5663,16.49,No alert
+5664,83.37,Alert
+5665,16.74,No alert
+5666,84.33,Alert
+5667,15.92,No alert
+5668,63.18,Alert
+5669,92.76,Alert
+5670,16.61,No alert
+5671,74.48,Alert
+5672,45.94,Alert
+5673,22.24,No alert
+5674,44.47,Alert
+5675,15.67,No alert
+5676,18.55,No alert
+5677,14.9,No alert
+5678,74.78,Alert
+5679,88.83,Alert
+5680,15.57,No alert
+5681,11.62,No alert
+5682,13.78,No alert
+5683,80.72,Alert
+5684,14.69,No alert
+5685,83.54,Alert
+5686,19.82,No alert
+5687,65.19,Alert
+5688,12.04,No alert
+5689,60.51,Alert
+5690,13.94,No alert
+5691,74.32,Alert
+5692,13.3,No alert
+5693,58.29,Alert
+5694,18.0,No alert
+5695,20.83,No alert
+5696,54.17,Alert
+5697,64.61,Alert
+5698,25.13,No alert
+5699,19.09,No alert
+5700,24.52,No alert
+5701,16.08,No alert
+5702,57.7,Alert
+5703,56.34,Alert
+5704,31.14,No alert
+5705,8.71,No alert
+5706,57.18,Alert
+5707,8.35,No alert
+5708,56.53,Alert
+5709,65.98,Alert
+5710,71.78,Alert
+5711,58.91,Alert
+5712,14.3,No alert
+5713,16.91,No alert
+5714,33.56,No alert
+5715,80.76,Alert
+5716,21.54,No alert
+5717,88.65,Alert
+5718,23.91,No alert
+5719,33.4,No alert
+5720,15.85,No alert
+5721,17.92,No alert
+5722,13.85,No alert
+5723,29.23,No alert
+5724,59.91,Alert
+5725,34.12,No alert
+5726,81.27,Alert
+5727,80.08,Alert
+5728,28.3,No alert
+5729,11.41,No alert
+5730,18.52,No alert
+5731,22.05,No alert
+5732,92.64,Alert
+5733,63.92,Alert
+5734,76.32,Alert
+5735,15.92,No alert
+5736,16.37,No alert
+5737,19.38,No alert
+5738,16.62,No alert
+5739,35.76,Alert
+5740,84.13,Alert
+5741,69.1,Alert
+5742,15.01,No alert
+5743,15.33,No alert
+5744,14.67,No alert
+5745,14.01,No alert
+5746,93.43,Alert
+5747,5.74,No alert
+5748,81.83,Alert
+5749,11.76,No alert
+5750,17.17,No alert
+5751,62.73,Alert
+5752,74.58,Alert
+5753,12.16,No alert
+5754,82.23,Alert
+5755,19.49,No alert
+5756,36.47,Alert
+5757,10.0,No alert
+5758,15.92,No alert
+5759,10.36,No alert
+5760,93.84,Alert
+5761,86.85,Alert
+5762,93.97,Alert
+5763,57.78,Alert
+5764,15.49,No alert
+5765,92.93,Alert
+5766,19.16,No alert
+5767,17.55,No alert
+5768,19.38,No alert
+5769,8.81,No alert
+5770,81.02,Alert
+5771,5.37,No alert
+5772,19.06,No alert
+5773,80.48,Alert
+5774,15.29,No alert
+5775,27.17,No alert
+5776,56.18,Alert
+5777,10.36,No alert
+5778,92.22,Alert
+5779,67.02,Alert
+5780,46.86,Alert
+5781,54.78,Alert
+5782,55.18,Alert
+5783,76.74,Alert
+5784,14.52,No alert
+5785,52.95,Alert
+5786,8.11,No alert
+5787,15.76,No alert
+5788,19.23,No alert
+5789,17.29,No alert
+5790,21.14,No alert
+5791,27.52,No alert
+5792,16.63,No alert
+5793,38.87,Alert
+5794,19.04,No alert
+5795,92.57,Alert
+5796,22.31,No alert
+5797,59.18,Alert
+5798,17.48,No alert
+5799,88.83,Alert
+5800,16.67,No alert
+5801,66.95,Alert
+5802,84.25,Alert
+5803,18.47,No alert
+5804,50.23,Alert
+5805,84.45,Alert
+5806,81.45,Alert
+5807,86.19,Alert
+5808,60.3,Alert
+5809,69.78,Alert
+5810,87.13,Alert
+5811,27.28,No alert
+5812,88.36,Alert
+5813,44.49,Alert
+5814,5.74,No alert
+5815,57.64,Alert
+5816,20.23,No alert
+5817,80.3,Alert
+5818,68.42,Alert
+5819,27.73,No alert
+5820,70.78,Alert
+5821,84.78,Alert
+5822,93.02,Alert
+5823,5.34,No alert
+5824,72.6,Alert
+5825,88.77,Alert
+5826,21.16,No alert
+5827,9.76,No alert
+5828,15.64,No alert
+5829,30.57,No alert
+5830,17.67,No alert
+5831,18.49,No alert
+5832,73.16,Alert
+5833,15.7,No alert
+5834,16.62,No alert
+5835,54.96,Alert
+5836,21.46,No alert
+5837,19.02,No alert
+5838,13.88,No alert
+5839,10.21,No alert
+5840,70.76,Alert
+5841,7.9,No alert
+5842,13.59,No alert
+5843,16.28,No alert
+5844,73.47,Alert
+5845,5.04,No alert
+5846,17.79,No alert
+5847,83.57,Alert
+5848,15.3,No alert
+5849,93.21,Alert
+5850,14.47,No alert
+5851,16.32,No alert
+5852,22.58,No alert
+5853,15.27,No alert
+5854,19.35,No alert
+5855,17.83,No alert
+5856,68.07,Alert
+5857,60.52,Alert
+5858,10.21,No alert
+5859,27.16,No alert
+5860,94.03,Alert
+5861,20.5,No alert
+5862,41.41,Alert
+5863,53.78,Alert
+5864,57.09,Alert
+5865,18.0,No alert
+5866,79.1,Alert
+5867,82.31,Alert
+5868,75.3,Alert
+5869,12.98,No alert
+5870,23.36,No alert
+5871,17.85,No alert
+5872,17.07,No alert
+5873,20.08,No alert
+5874,25.04,No alert
+5875,64.92,Alert
+5876,17.92,No alert
+5877,15.43,No alert
+5878,51.04,Alert
+5879,16.32,No alert
+5880,6.01,No alert
+5881,76.88,Alert
+5882,31.26,No alert
+5883,15.7,No alert
+5884,5.35,No alert
+5885,18.61,No alert
+5886,55.32,Alert
+5887,78.62,Alert
+5888,58.48,Alert
+5889,70.88,Alert
+5890,75.26,Alert
+5891,60.32,Alert
+5892,28.15,No alert
+5893,48.91,Alert
+5894,75.95,Alert
+5895,18.47,No alert
+5896,16.32,No alert
+5897,18.06,No alert
+5898,29.56,No alert
+5899,17.92,No alert
+5900,93.68,Alert
+5901,41.36,Alert
+5902,18.48,No alert
+5903,43.42,Alert
+5904,15.3,No alert
+5905,89.07,Alert
+5906,23.16,No alert
+5907,91.07,Alert
+5908,35.43,Alert
+5909,91.07,Alert
+5910,93.56,Alert
+5911,90.37,Alert
+5912,58.9,Alert
+5913,71.1,Alert
+5914,20.13,No alert
+5915,19.41,No alert
+5916,23.0,No alert
+5917,8.67,No alert
+5918,73.58,Alert
+5919,63.45,Alert
+5920,14.58,No alert
+5921,19.92,No alert
+5922,28.15,No alert
+5923,16.17,No alert
+5924,24.52,No alert
+5925,71.45,Alert
+5926,75.75,Alert
+5927,17.37,No alert
+5928,74.13,Alert
+5929,20.01,No alert
+5930,17.55,No alert
+5931,14.78,No alert
+5932,15.7,No alert
+5933,71.08,Alert
+5934,19.48,No alert
+5935,19.01,No alert
+5936,16.57,No alert
+5937,18.76,No alert
+5938,19.38,No alert
+5939,19.38,No alert
+5940,66.33,Alert
+5941,21.28,No alert
+5942,18.0,No alert
+5943,12.68,No alert
+5944,50.24,Alert
+5945,13.59,No alert
+5946,15.49,No alert
+5947,19.02,No alert
+5948,15.64,No alert
+5949,62.92,Alert
+5950,23.04,No alert
+5951,83.72,Alert
+5952,83.22,Alert
+5953,76.97,Alert
+5954,54.55,Alert
+5955,63.0,Alert
+5956,15.7,No alert
+5957,92.72,Alert
+5958,62.07,Alert
+5959,16.32,No alert
+5960,31.09,No alert
+5961,13.37,No alert
+5962,19.37,No alert
+5963,52.16,Alert
+5964,10.82,No alert
+5965,19.01,No alert
+5966,48.56,Alert
+5967,59.28,Alert
+5968,19.49,No alert
+5969,15.64,No alert
+5970,19.49,No alert
+5971,56.02,Alert
+5972,84.37,Alert
+5973,14.21,No alert
+5974,50.49,Alert
+5975,19.38,No alert
+5976,85.73,Alert
+5977,28.77,No alert
+5978,73.31,Alert
+5979,58.58,Alert
+5980,5.4,No alert
+5981,58.66,Alert
+5982,78.95,Alert
+5983,58.92,Alert
+5984,14.5,No alert
+5985,73.74,Alert
+5986,14.8,No alert
+5987,82.2,Alert
+5988,13.59,No alert
+5989,5.46,No alert
+5990,16.43,No alert
+5991,37.99,Alert
+5992,15.33,No alert
+5993,13.67,No alert
+5994,44.44,Alert
+5995,81.56,Alert
+5996,11.88,No alert
+5997,16.75,No alert
+5998,50.26,Alert
+5999,29.72,No alert
+6000,19.71,No alert
+6001,80.21,Alert
+6002,66.44,Alert
+6003,50.63,Alert
+6004,19.37,No alert
+6005,15.72,No alert
+6006,36.7,Alert
+6007,16.22,No alert
+6008,15.12,No alert
+6009,14.9,No alert
+6010,21.02,No alert
+6011,59.58,Alert
+6012,15.67,No alert
+6013,12.63,No alert
+6014,93.59,Alert
+6015,16.49,No alert
+6016,55.46,Alert
+6017,29.86,No alert
+6018,18.46,No alert
+6019,57.59,Alert
+6020,71.85,Alert
+6021,10.7,No alert
+6022,14.23,No alert
+6023,15.33,No alert
+6024,86.54,Alert
+6025,93.13,Alert
+6026,84.46,Alert
+6027,13.88,No alert
+6028,13.3,No alert
+6029,36.0,Alert
+6030,15.94,No alert
+6031,85.27,Alert
+6032,91.01,Alert
+6033,18.92,No alert
+6034,52.1,Alert
+6035,86.65,Alert
+6036,83.94,Alert
+6037,52.1,Alert
+6038,27.3,No alert
+6039,81.78,Alert
+6040,59.92,Alert
+6041,52.94,Alert
+6042,19.41,No alert
+6043,59.19,Alert
+6044,76.47,Alert
+6045,60.4,Alert
+6046,43.42,Alert
+6047,20.62,No alert
+6048,22.49,No alert
+6049,93.28,Alert
+6050,69.64,Alert
+6051,80.0,Alert
+6052,68.34,Alert
+6053,58.85,Alert
+6054,22.21,No alert
+6055,27.06,No alert
+6056,41.11,Alert
+6057,77.65,Alert
+6058,32.0,No alert
+6059,68.56,Alert
+6060,27.17,No alert
+6061,11.76,No alert
+6062,83.75,Alert
+6063,24.63,No alert
+6064,89.59,Alert
+6065,86.02,Alert
+6066,15.53,No alert
+6067,81.62,Alert
+6068,18.63,No alert
+6069,65.89,Alert
+6070,88.77,Alert
+6071,28.34,No alert
+6072,23.98,No alert
+6073,12.16,No alert
+6074,93.99,Alert
+6075,15.69,No alert
+6076,33.25,No alert
+6077,14.54,No alert
+6078,28.11,No alert
+6079,77.96,Alert
+6080,11.55,No alert
+6081,14.77,No alert
+6082,16.62,No alert
+6083,15.33,No alert
+6084,14.08,No alert
+6085,91.53,Alert
+6086,69.18,Alert
+6087,47.47,Alert
+6088,14.08,No alert
+6089,23.22,No alert
+6090,18.18,No alert
+6091,19.08,No alert
+6092,70.88,Alert
+6093,93.37,Alert
+6094,16.62,No alert
+6095,57.18,Alert
+6096,14.47,No alert
+6097,18.69,No alert
+6098,84.79,Alert
+6099,14.67,No alert
+6100,82.78,Alert
+6101,16.61,No alert
+6102,63.0,Alert
+6103,87.43,Alert
+6104,17.74,No alert
+6105,15.81,No alert
+6106,15.24,No alert
+6107,82.96,Alert
+6108,57.64,Alert
+6109,83.54,Alert
+6110,87.59,Alert
+6111,17.52,No alert
+6112,73.6,Alert
+6113,10.21,No alert
+6114,22.51,No alert
+6115,92.26,Alert
+6116,14.1,No alert
+6117,61.34,Alert
+6118,35.26,Alert
+6119,78.94,Alert
+6120,66.06,Alert
+6121,48.62,Alert
+6122,80.71,Alert
+6123,87.54,Alert
+6124,13.25,No alert
+6125,11.41,No alert
+6126,35.96,Alert
+6127,65.3,Alert
+6128,56.83,Alert
+6129,19.49,No alert
+6130,16.38,No alert
+6131,18.63,No alert
+6132,72.4,Alert
+6133,83.72,Alert
+6134,15.47,No alert
+6135,14.17,No alert
+6136,64.6,Alert
+6137,45.86,Alert
+6138,17.45,No alert
+6139,60.58,Alert
+6140,65.18,Alert
+6141,82.65,Alert
+6142,78.44,Alert
+6143,74.67,Alert
+6144,44.42,Alert
+6145,24.84,No alert
+6146,13.72,No alert
+6147,18.0,No alert
+6148,36.47,Alert
+6149,19.04,No alert
+6150,19.01,No alert
+6151,82.9,Alert
+6152,61.02,Alert
+6153,18.85,No alert
+6154,56.34,Alert
+6155,10.09,No alert
+6156,51.96,Alert
+6157,15.85,No alert
+6158,28.29,No alert
+6159,93.98,Alert
+6160,55.18,Alert
+6161,33.06,No alert
+6162,17.74,No alert
+6163,14.57,No alert
+6164,54.69,Alert
+6165,14.67,No alert
+6166,88.62,Alert
+6167,87.0,Alert
+6168,16.57,No alert
+6169,19.59,No alert
+6170,14.08,No alert
+6171,88.46,Alert
+6172,86.91,Alert
+6173,86.05,Alert
+6174,18.55,No alert
+6175,27.06,No alert
+6176,22.05,No alert
+6177,86.4,Alert
+6178,16.32,No alert
+6179,14.95,No alert
+6180,80.56,Alert
+6181,63.86,Alert
+6182,86.02,Alert
+6183,52.95,Alert
+6184,17.4,No alert
+6185,78.52,Alert
+6186,18.41,No alert
+6187,87.75,Alert
+6188,15.27,No alert
+6189,54.12,Alert
+6190,46.56,Alert
+6191,83.82,Alert
+6192,29.37,No alert
+6193,76.05,Alert
+6194,14.67,No alert
+6195,15.76,No alert
+6196,81.52,Alert
+6197,16.62,No alert
+6198,64.69,Alert
+6199,17.07,No alert
+6200,17.84,No alert
+6201,18.47,No alert
+6202,66.74,Alert
+6203,27.46,No alert
+6204,14.54,No alert
+6205,16.62,No alert
+6206,17.74,No alert
+6207,16.32,No alert
+6208,8.23,No alert
+6209,14.77,No alert
+6210,59.02,Alert
+6211,12.98,No alert
+6212,63.96,Alert
+6213,20.01,No alert
+6214,5.78,No alert
+6215,14.89,No alert
+6216,57.68,Alert
+6217,17.85,No alert
+6218,87.22,Alert
+6219,22.4,No alert
+6220,78.11,Alert
+6221,14.8,No alert
+6222,54.17,Alert
+6223,10.36,No alert
+6224,29.41,No alert
+6225,70.35,Alert
+6226,32.96,No alert
+6227,18.84,No alert
+6228,72.81,Alert
+6229,26.63,No alert
+6230,14.59,No alert
+6231,16.62,No alert
+6232,19.02,No alert
+6233,59.58,Alert
+6234,16.17,No alert
+6235,19.01,No alert
+6236,60.91,Alert
+6237,47.52,Alert
+6238,18.06,No alert
+6239,74.63,Alert
+6240,20.17,No alert
+6241,14.9,No alert
+6242,54.01,Alert
+6243,73.77,Alert
+6244,15.13,No alert
+6245,91.07,Alert
+6246,76.86,Alert
+6247,65.25,Alert
+6248,8.85,No alert
+6249,17.29,No alert
+6250,25.89,No alert
+6251,17.07,No alert
+6252,18.6,No alert
+6253,15.24,No alert
+6254,14.9,No alert
+6255,14.54,No alert
+6256,11.76,No alert
+6257,19.49,No alert
+6258,14.9,No alert
+6259,29.43,No alert
+6260,58.26,Alert
+6261,15.57,No alert
+6262,20.01,No alert
+6263,8.45,No alert
+6264,30.93,No alert
+6265,28.83,No alert
+6266,18.0,No alert
+6267,18.27,No alert
+6268,19.98,No alert
+6269,21.25,No alert
+6270,89.97,Alert
+6271,32.33,No alert
+6272,14.67,No alert
+6273,71.49,Alert
+6274,73.43,Alert
+6275,66.44,Alert
+6276,81.63,Alert
+6277,16.49,No alert
+6278,13.3,No alert
+6279,22.4,No alert
+6280,24.07,No alert
+6281,33.11,No alert
+6282,85.53,Alert
+6283,14.57,No alert
+6284,57.18,Alert
+6285,19.1,No alert
+6286,17.37,No alert
+6287,13.85,No alert
+6288,26.22,No alert
+6289,58.85,Alert
+6290,16.61,No alert
+6291,65.9,Alert
+6292,16.14,No alert
+6293,11.83,No alert
+6294,57.55,Alert
+6295,71.23,Alert
+6296,21.02,No alert
+6297,56.61,Alert
+6298,18.68,No alert
+6299,9.32,No alert
+6300,15.7,No alert
+6301,87.22,Alert
+6302,81.08,Alert
+6303,16.22,No alert
+6304,55.68,Alert
+6305,85.75,Alert
+6306,81.06,Alert
+6307,37.6,Alert
+6308,13.85,No alert
+6309,93.13,Alert
+6310,19.11,No alert
+6311,78.35,Alert
+6312,16.49,No alert
+6313,58.92,Alert
+6314,10.57,No alert
+6315,18.1,No alert
+6316,19.1,No alert
+6317,41.47,Alert
+6318,15.07,No alert
+6319,20.01,No alert
+6320,7.39,No alert
+6321,16.49,No alert
+6322,84.46,Alert
+6323,16.37,No alert
+6324,12.63,No alert
+6325,87.88,Alert
+6326,14.61,No alert
+6327,28.24,No alert
+6328,15.2,No alert
+6329,93.72,Alert
+6330,15.64,No alert
+6331,9.67,No alert
+6332,82.55,Alert
+6333,16.49,No alert
+6334,10.36,No alert
+6335,32.42,No alert
+6336,22.27,No alert
+6337,88.61,Alert
+6338,18.42,No alert
+6339,14.57,No alert
+6340,70.55,Alert
+6341,82.86,Alert
+6342,15.24,No alert
+6343,18.35,No alert
+6344,73.6,Alert
+6345,64.62,Alert
+6346,16.57,No alert
+6347,86.62,Alert
+6348,87.7,Alert
+6349,26.29,No alert
+6350,94.11,Alert
+6351,25.89,No alert
+6352,6.01,No alert
+6353,88.15,Alert
+6354,16.67,No alert
+6355,19.49,No alert
+6356,19.1,No alert
+6357,25.93,No alert
+6358,23.0,No alert
+6359,72.95,Alert
+6360,46.54,Alert
+6361,16.62,No alert
+6362,19.02,No alert
+6363,13.88,No alert
+6364,17.85,No alert
+6365,37.68,Alert
+6366,17.74,No alert
+6367,15.45,No alert
+6368,14.47,No alert
+6369,5.37,No alert
+6370,26.22,No alert
+6371,26.94,No alert
+6372,14.82,No alert
+6373,6.25,No alert
+6374,57.42,Alert
+6375,63.57,Alert
+6376,23.68,No alert
+6377,54.21,Alert
+6378,15.41,No alert
+6379,93.94,Alert
+6380,13.85,No alert
+6381,74.78,Alert
+6382,13.85,No alert
+6383,45.43,Alert
+6384,57.04,Alert
+6385,26.18,No alert
+6386,60.27,Alert
+6387,26.61,No alert
+6388,32.33,No alert
+6389,91.81,Alert
+6390,91.57,Alert
+6391,93.4,Alert
+6392,69.1,Alert
+6393,61.28,Alert
+6394,93.72,Alert
+6395,16.67,No alert
+6396,17.79,No alert
+6397,19.35,No alert
+6398,25.56,No alert
+6399,74.05,Alert
+6400,17.07,No alert
+6401,87.81,Alert
+6402,17.16,No alert
+6403,20.08,No alert
+6404,37.98,Alert
+6405,27.52,No alert
+6406,16.63,No alert
+6407,11.76,No alert
+6408,91.32,Alert
+6409,18.35,No alert
+6410,82.3,Alert
+6411,5.89,No alert
+6412,81.43,Alert
+6413,17.09,No alert
+6414,90.08,Alert
+6415,25.28,No alert
+6416,25.25,No alert
+6417,20.01,No alert
+6418,19.04,No alert
+6419,73.97,Alert
+6420,53.93,Alert
+6421,61.19,Alert
+6422,21.95,No alert
+6423,39.83,Alert
+6424,21.05,No alert
+6425,56.18,Alert
+6426,18.0,No alert
+6427,19.1,No alert
+6428,10.57,No alert
+6429,71.69,Alert
+6430,12.63,No alert
+6431,16.1,No alert
+6432,67.57,Alert
+6433,50.81,Alert
+6434,18.0,No alert
+6435,84.82,Alert
+6436,19.37,No alert
+6437,16.95,No alert
+6438,18.64,No alert
+6439,47.03,Alert
+6440,92.57,Alert
+6441,87.59,Alert
+6442,13.67,No alert
+6443,33.4,No alert
+6444,88.42,Alert
+6445,93.43,Alert
+6446,65.58,Alert
+6447,73.39,Alert
+6448,63.18,Alert
+6449,41.02,Alert
+6450,15.37,No alert
+6451,26.83,No alert
+6452,81.3,Alert
+6453,17.07,No alert
+6454,70.31,Alert
+6455,22.3,No alert
+6456,34.12,No alert
+6457,58.49,Alert
+6458,85.83,Alert
+6459,71.92,Alert
+6460,24.84,No alert
+6461,72.37,Alert
+6462,13.35,No alert
+6463,10.36,No alert
+6464,82.77,Alert
+6465,81.51,Alert
+6466,22.4,No alert
+6467,81.32,Alert
+6468,15.24,No alert
+6469,41.31,Alert
+6470,16.93,No alert
+6471,86.39,Alert
+6472,42.78,Alert
+6473,71.59,Alert
+6474,16.27,No alert
+6475,16.1,No alert
+6476,93.34,Alert
+6477,27.58,No alert
+6478,18.84,No alert
+6479,16.67,No alert
+6480,15.92,No alert
+6481,14.63,No alert
+6482,13.85,No alert
+6483,27.65,No alert
+6484,19.38,No alert
+6485,66.44,Alert
+6486,15.67,No alert
+6487,28.82,No alert
+6488,79.91,Alert
+6489,94.02,Alert
+6490,18.09,No alert
+6491,80.08,Alert
+6492,18.06,No alert
+6493,5.4,No alert
+6494,13.37,No alert
+6495,94.11,Alert
+6496,69.35,Alert
+6497,19.38,No alert
+6498,14.23,No alert
+6499,24.05,No alert
+6500,18.21,No alert
+6501,14.57,No alert
+6502,13.67,No alert
+6503,22.27,No alert
+6504,17.85,No alert
+6505,7.34,No alert
+6506,75.52,Alert
+6507,86.4,Alert
+6508,62.92,Alert
+6509,43.36,Alert
+6510,72.46,Alert
+6511,18.0,No alert
+6512,15.54,No alert
+6513,15.1,No alert
+6514,82.26,Alert
+6515,14.08,No alert
+6516,64.02,Alert
+6517,68.1,Alert
+6518,54.78,Alert
+6519,81.05,Alert
+6520,69.73,Alert
+6521,15.92,No alert
+6522,55.46,Alert
+6523,12.98,No alert
+6524,94.01,Alert
+6525,57.8,Alert
+6526,26.83,No alert
+6527,21.14,No alert
+6528,93.16,Alert
+6529,16.49,No alert
+6530,94.16,Alert
+6531,63.02,Alert
+6532,15.33,No alert
+6533,22.4,No alert
+6534,21.23,No alert
+6535,14.7,No alert
+6536,17.35,No alert
+6537,17.85,No alert
+6538,13.74,No alert
+6539,18.87,No alert
+6540,16.49,No alert
+6541,94.09,Alert
+6542,16.43,No alert
+6543,82.48,Alert
+6544,32.28,No alert
+6545,59.99,Alert
+6546,81.3,Alert
+6547,25.62,No alert
+6548,88.77,Alert
+6549,14.57,No alert
+6550,71.09,Alert
+6551,22.3,No alert
+6552,56.83,Alert
+6553,14.17,No alert
+6554,72.37,Alert
+6555,28.77,No alert
+6556,15.38,No alert
+6557,94.08,Alert
+6558,79.52,Alert
+6559,94.04,Alert
+6560,74.94,Alert
+6561,14.1,No alert
+6562,5.13,No alert
+6563,13.67,No alert
+6564,74.67,Alert
+6565,93.88,Alert
+6566,16.62,No alert
+6567,82.31,Alert
+6568,19.37,No alert
+6569,16.62,No alert
+6570,86.32,Alert
+6571,14.31,No alert
+6572,5.65,No alert
+6573,77.18,Alert
+6574,12.98,No alert
+6575,66.72,Alert
+6576,16.67,No alert
+6577,57.78,Alert
+6578,58.25,Alert
+6579,75.11,Alert
+6580,24.94,No alert
+6581,14.67,No alert
+6582,14.67,No alert
+6583,16.61,No alert
+6584,70.18,Alert
+6585,81.98,Alert
+6586,86.8,Alert
+6587,10.21,No alert
+6588,14.23,No alert
+6589,78.01,Alert
+6590,90.66,Alert
+6591,18.92,No alert
+6592,72.37,Alert
+6593,22.51,No alert
+6594,25.04,No alert
+6595,80.23,Alert
+6596,35.28,Alert
+6597,80.25,Alert
+6598,81.32,Alert
+6599,85.51,Alert
+6600,16.35,No alert
+6601,59.29,Alert
+6602,11.62,No alert
+6603,14.3,No alert
+6604,19.1,No alert
+6605,79.45,Alert
+6606,14.87,No alert
+6607,18.66,No alert
+6608,81.94,Alert
+6609,54.26,Alert
+6610,16.57,No alert
+6611,17.85,No alert
+6612,19.25,No alert
+6613,12.75,No alert
+6614,50.34,Alert
+6615,18.35,No alert
+6616,12.68,No alert
+6617,10.36,No alert
+6618,17.74,No alert
+6619,45.76,Alert
+6620,37.24,Alert
+6621,6.65,No alert
+6622,14.8,No alert
+6623,17.34,No alert
+6624,5.45,No alert
+6625,81.86,Alert
+6626,14.57,No alert
+6627,82.01,Alert
+6628,18.17,No alert
+6629,12.98,No alert
+6630,16.22,No alert
+6631,12.46,No alert
+6632,59.58,Alert
+6633,78.82,Alert
+6634,10.0,No alert
+6635,13.3,No alert
+6636,14.01,No alert
+6637,85.92,Alert
+6638,20.88,No alert
+6639,15.64,No alert
+6640,14.01,No alert
+6641,14.23,No alert
+6642,78.03,Alert
+6643,13.6,No alert
+6644,12.16,No alert
+6645,7.34,No alert
+6646,7.95,No alert
+6647,29.41,No alert
+6648,75.21,Alert
+6649,13.67,No alert
+6650,21.02,No alert
+6651,83.92,Alert
+6652,17.74,No alert
+6653,16.22,No alert
+6654,79.39,Alert
+6655,15.46,No alert
+6656,73.88,Alert
+6657,93.74,Alert
+6658,19.49,No alert
+6659,12.98,No alert
+6660,14.67,No alert
+6661,18.0,No alert
+6662,15.47,No alert
+6663,93.39,Alert
+6664,19.19,No alert
+6665,63.86,Alert
+6666,46.08,Alert
+6667,29.28,No alert
+6668,21.02,No alert
+6669,19.04,No alert
+6670,19.38,No alert
+6671,93.69,Alert
+6672,16.35,No alert
+6673,16.67,No alert
+6674,9.3,No alert
+6675,68.7,Alert
+6676,22.4,No alert
+6677,15.47,No alert
+6678,20.01,No alert
+6679,6.01,No alert
+6680,28.29,No alert
+6681,55.32,Alert
+6682,83.81,Alert
+6683,35.15,Alert
+6684,83.0,Alert
+6685,31.97,No alert
+6686,12.06,No alert
+6687,12.63,No alert
+6688,15.47,No alert
+6689,14.78,No alert
+6690,93.27,Alert
+6691,16.57,No alert
+6692,75.41,Alert
+6693,16.57,No alert
+6694,59.19,Alert
+6695,32.19,No alert
+6696,15.3,No alert
+6697,80.01,Alert
+6698,73.59,Alert
+6699,25.5,No alert
+6700,62.9,Alert
+6701,58.9,Alert
+6702,29.92,No alert
+6703,15.47,No alert
+6704,67.57,Alert
+6705,61.33,Alert
+6706,14.67,No alert
+6707,27.06,No alert
+6708,17.72,No alert
+6709,16.09,No alert
+6710,17.85,No alert
+6711,82.14,Alert
+6712,14.46,No alert
+6713,16.94,No alert
+6714,31.15,No alert
+6715,68.17,Alert
+6716,17.97,No alert
+6717,92.34,Alert
+6718,14.08,No alert
+6719,54.9,Alert
+6720,18.47,No alert
+6721,16.37,No alert
+6722,90.89,Alert
+6723,39.83,Alert
+6724,69.91,Alert
+6725,13.88,No alert
+6726,89.34,Alert
+6727,15.47,No alert
+6728,19.04,No alert
+6729,18.28,No alert
+6730,14.68,No alert
+6731,68.11,Alert
+6732,12.58,No alert
+6733,80.37,Alert
+6734,5.46,No alert
+6735,16.26,No alert
+6736,62.09,Alert
+6737,54.85,Alert
+6738,41.6,Alert
+6739,45.19,Alert
+6740,42.12,Alert
+6741,18.83,No alert
+6742,16.49,No alert
+6743,8.36,No alert
+6744,93.57,Alert
+6745,14.01,No alert
+6746,77.97,Alert
+6747,64.96,Alert
+6748,83.06,Alert
+6749,90.3,Alert
+6750,51.85,Alert
+6751,20.01,No alert
+6752,27.8,No alert
+6753,65.96,Alert
+6754,18.66,No alert
+6755,16.67,No alert
+6756,38.21,Alert
+6757,56.98,Alert
+6758,81.55,Alert
+6759,51.0,Alert
+6760,85.01,Alert
+6761,7.34,No alert
+6762,82.2,Alert
+6763,26.84,No alert
+6764,20.2,No alert
+6765,14.01,No alert
+6766,27.52,No alert
+6767,43.8,Alert
+6768,74.41,Alert
+6769,84.61,Alert
+6770,13.12,No alert
+6771,14.67,No alert
+6772,15.92,No alert
+6773,27.56,No alert
+6774,15.2,No alert
+6775,51.54,Alert
+6776,83.77,Alert
+6777,58.85,Alert
+6778,13.88,No alert
+6779,57.3,Alert
+6780,54.01,Alert
+6781,17.36,No alert
+6782,57.63,Alert
+6783,39.8,Alert
+6784,64.12,Alert
+6785,17.92,No alert
+6786,8.75,No alert
+6787,17.94,No alert
+6788,16.13,No alert
+6789,14.47,No alert
+6790,86.65,Alert
+6791,16.23,No alert
+6792,20.17,No alert
+6793,30.57,No alert
+6794,18.76,No alert
+6795,74.47,Alert
+6796,84.29,Alert
+6797,65.96,Alert
+6798,20.14,No alert
+6799,5.78,No alert
+6800,16.42,No alert
+6801,88.33,Alert
+6802,47.77,Alert
+6803,93.59,Alert
+6804,79.7,Alert
+6805,62.73,Alert
+6806,91.29,Alert
+6807,87.24,Alert
+6808,20.5,No alert
+6809,83.48,Alert
+6810,94.09,Alert
+6811,27.59,No alert
+6812,59.26,Alert
+6813,18.0,No alert
+6814,15.92,No alert
+6815,78.26,Alert
+6816,79.21,Alert
+6817,15.33,No alert
+6818,85.43,Alert
+6819,17.31,No alert
+6820,26.75,No alert
+6821,17.74,No alert
+6822,16.32,No alert
+6823,14.67,No alert
+6824,14.11,No alert
+6825,76.32,Alert
+6826,88.72,Alert
+6827,90.38,Alert
+6828,80.45,Alert
+6829,13.51,No alert
+6830,21.1,No alert
+6831,14.08,No alert
+6832,5.79,No alert
+6833,82.28,Alert
+6834,81.01,Alert
+6835,15.27,No alert
+6836,75.28,Alert
+6837,44.11,Alert
+6838,13.93,No alert
+6839,49.22,Alert
+6840,67.02,Alert
+6841,14.47,No alert
+6842,17.74,No alert
+6843,18.92,No alert
+6844,9.65,No alert
+6845,84.04,Alert
+6846,59.6,Alert
+6847,60.14,Alert
+6848,16.38,No alert
+6849,89.77,Alert
+6850,75.01,Alert
+6851,16.49,No alert
+6852,70.78,Alert
+6853,54.77,Alert
+6854,20.01,No alert
+6855,29.41,No alert
+6856,20.25,No alert
+6857,17.09,No alert
+6858,12.98,No alert
+6859,72.84,Alert
+6860,14.1,No alert
+6861,15.93,No alert
+6862,36.47,Alert
+6863,57.55,Alert
+6864,26.83,No alert
+6865,16.57,No alert
+6866,82.76,Alert
+6867,19.48,No alert
+6868,43.23,Alert
+6869,13.67,No alert
+6870,18.0,No alert
+6871,26.32,No alert
+6872,13.99,No alert
+6873,19.55,No alert
+6874,15.94,No alert
+6875,52.1,Alert
+6876,94.54,Alert
+6877,19.02,No alert
+6878,8.85,No alert
+6879,16.35,No alert
+6880,18.47,No alert
+6881,15.38,No alert
+6882,82.2,Alert
+6883,13.51,No alert
+6884,19.05,No alert
+6885,15.75,No alert
+6886,94.05,Alert
+6887,46.74,Alert
+6888,18.63,No alert
+6889,88.62,Alert
+6890,18.45,No alert
+6891,45.58,Alert
+6892,22.4,No alert
+6893,52.95,Alert
+6894,46.56,Alert
+6895,12.98,No alert
+6896,15.78,No alert
+6897,61.85,Alert
+6898,74.78,Alert
+6899,63.66,Alert
+6900,82.96,Alert
+6901,69.03,Alert
+6902,31.63,No alert
+6903,21.02,No alert
+6904,7.34,No alert
+6905,16.63,No alert
+6906,12.27,No alert
+6907,18.27,No alert
+6908,5.48,No alert
+6909,87.45,Alert
+6910,34.88,No alert
+6911,16.35,No alert
+6912,18.55,No alert
+6913,86.55,Alert
+6914,63.54,Alert
+6915,74.27,Alert
+6916,17.85,No alert
+6917,80.25,Alert
+6918,27.3,No alert
+6919,80.71,Alert
+6920,79.75,Alert
+6921,14.5,No alert
+6922,24.02,No alert
+6923,16.1,No alert
+6924,16.43,No alert
+6925,16.67,No alert
+6926,14.7,No alert
+6927,63.69,Alert
+6928,14.54,No alert
+6929,40.26,Alert
+6930,24.52,No alert
+6931,76.04,Alert
+6932,6.01,No alert
+6933,31.61,No alert
+6934,58.59,Alert
+6935,57.21,Alert
+6936,22.31,No alert
+6937,7.4,No alert
+6938,16.57,No alert
+6939,79.1,Alert
+6940,21.94,No alert
+6941,20.32,No alert
+6942,14.54,No alert
+6943,48.63,Alert
+6944,57.81,Alert
+6945,16.15,No alert
+6946,18.47,No alert
+6947,86.01,Alert
+6948,16.57,No alert
+6949,24.95,No alert
+6950,14.08,No alert
+6951,93.07,Alert
+6952,18.0,No alert
+6953,94.12,Alert
+6954,69.03,Alert
+6955,77.63,Alert
+6956,19.02,No alert
+6957,36.29,Alert
+6958,17.09,No alert
+6959,24.52,No alert
+6960,15.69,No alert
+6961,94.23,Alert
+6962,16.32,No alert
+6963,22.4,No alert
+6964,14.67,No alert
+6965,75.23,Alert
+6966,17.85,No alert
+6967,12.9,No alert
+6968,20.82,No alert
+6969,14.1,No alert
+6970,58.82,Alert
+6971,13.85,No alert
+6972,26.63,No alert
+6973,77.3,Alert
+6974,14.67,No alert
+6975,34.93,Alert
+6976,87.15,Alert
+6977,16.1,No alert
+6978,19.07,No alert
+6979,16.57,No alert
+6980,15.64,No alert
+6981,16.92,No alert
+6982,22.58,No alert
+6983,74.05,Alert
+6984,94.11,Alert
+6985,65.3,Alert
+6986,17.07,No alert
+6987,13.59,No alert
+6988,12.98,No alert
+6989,93.97,Alert
+6990,15.91,No alert
+6991,19.37,No alert
+6992,22.4,No alert
+6993,82.02,Alert
+6994,84.65,Alert
+6995,27.46,No alert
+6996,78.78,Alert
+6997,5.45,No alert
+6998,40.7,Alert
+6999,12.87,No alert
+7000,15.37,No alert
+7001,61.33,Alert
+7002,16.37,No alert
+7003,59.89,Alert
+7004,14.57,No alert
+7005,9.99,No alert
+7006,19.1,No alert
+7007,17.74,No alert
+7008,50.11,Alert
+7009,16.63,No alert
+7010,46.38,Alert
+7011,16.91,No alert
+7012,74.78,Alert
+7013,80.01,Alert
+7014,7.34,No alert
+7015,16.37,No alert
+7016,10.55,No alert
+7017,13.51,No alert
+7018,13.67,No alert
+7019,19.02,No alert
+7020,85.98,Alert
+7021,39.79,Alert
+7022,19.01,No alert
+7023,14.08,No alert
+7024,13.25,No alert
+7025,15.94,No alert
+7026,15.27,No alert
+7027,13.63,No alert
+7028,17.92,No alert
+7029,55.68,Alert
+7030,57.34,Alert
+7031,19.37,No alert
+7032,30.43,No alert
+7033,14.54,No alert
+7034,5.56,No alert
+7035,83.51,Alert
+7036,18.76,No alert
+7037,14.9,No alert
+7038,55.11,Alert
+7039,83.56,Alert
+7040,26.63,No alert
+7041,55.39,Alert
+7042,76.13,Alert
+7043,74.63,Alert
+7044,16.63,No alert
+7045,14.17,No alert
+7046,90.36,Alert
+7047,77.97,Alert
+7048,42.86,Alert
+7049,19.93,No alert
+7050,13.22,No alert
+7051,57.93,Alert
+7052,24.41,No alert
+7053,85.01,Alert
+7054,85.01,Alert
+7055,73.14,Alert
+7056,16.25,No alert
+7057,53.13,Alert
+7058,44.12,Alert
+7059,27.69,No alert
+7060,80.21,Alert
+7061,51.65,Alert
+7062,18.41,No alert
+7063,17.31,No alert
+7064,16.53,No alert
+7065,93.72,Alert
+7066,17.81,No alert
+7067,63.09,Alert
+7068,16.43,No alert
+7069,58.85,Alert
+7070,80.22,Alert
+7071,8.9,No alert
+7072,20.35,No alert
+7073,14.67,No alert
+7074,93.14,Alert
+7075,57.67,Alert
+7076,19.38,No alert
+7077,11.41,No alert
+7078,17.51,No alert
+7079,16.9,No alert
+7080,84.38,Alert
+7081,15.33,No alert
+7082,22.4,No alert
+7083,19.23,No alert
+7084,13.78,No alert
+7085,60.41,Alert
+7086,21.54,No alert
+7087,70.24,Alert
+7088,12.83,No alert
+7089,14.01,No alert
+7090,12.16,No alert
+7091,16.16,No alert
+7092,93.05,Alert
+7093,19.38,No alert
+7094,21.84,No alert
+7095,57.27,Alert
+7096,19.07,No alert
+7097,20.1,No alert
+7098,91.73,Alert
+7099,16.38,No alert
+7100,53.9,Alert
+7101,64.69,Alert
+7102,12.98,No alert
+7103,93.96,Alert
+7104,20.31,No alert
+7105,21.11,No alert
+7106,62.93,Alert
+7107,16.1,No alert
+7108,55.72,Alert
+7109,94.3,Alert
+7110,85.64,Alert
+7111,54.14,Alert
+7112,19.41,No alert
+7113,93.97,Alert
+7114,87.09,Alert
+7115,30.39,No alert
+7116,15.57,No alert
+7117,82.12,Alert
+7118,65.16,Alert
+7119,13.02,No alert
+7120,16.09,No alert
+7121,59.81,Alert
+7122,18.35,No alert
+7123,10.58,No alert
+7124,57.8,Alert
+7125,79.57,Alert
+7126,58.58,Alert
+7127,58.12,Alert
+7128,83.6,Alert
+7129,17.09,No alert
+7130,18.06,No alert
+7131,15.27,No alert
+7132,57.8,Alert
+7133,17.29,No alert
+7134,19.02,No alert
+7135,16.72,No alert
+7136,86.24,Alert
+7137,46.28,Alert
+7138,23.79,No alert
+7139,26.61,No alert
+7140,14.77,No alert
+7141,7.34,No alert
+7142,9.99,No alert
+7143,16.17,No alert
+7144,16.65,No alert
+7145,76.65,Alert
+7146,13.67,No alert
+7147,15.33,No alert
+7148,94.09,Alert
+7149,91.6,Alert
+7150,5.77,No alert
+7151,14.45,No alert
+7152,21.02,No alert
+7153,56.42,Alert
+7154,58.53,Alert
+7155,60.44,Alert
+7156,26.67,No alert
+7157,83.38,Alert
+7158,54.32,Alert
+7159,17.85,No alert
+7160,16.62,No alert
+7161,17.85,No alert
+7162,40.56,Alert
+7163,22.4,No alert
+7164,16.62,No alert
+7165,11.36,No alert
+7166,11.46,No alert
+7167,43.91,Alert
+7168,5.79,No alert
+7169,77.65,Alert
+7170,5.68,No alert
+7171,32.17,No alert
+7172,53.44,Alert
+7173,69.38,Alert
+7174,93.9,Alert
+7175,56.3,Alert
+7176,28.3,No alert
+7177,16.49,No alert
+7178,81.53,Alert
+7179,36.35,Alert
+7180,55.43,Alert
+7181,62.27,Alert
+7182,62.18,Alert
+7183,8.53,No alert
+7184,32.6,No alert
+7185,28.67,No alert
+7186,17.92,No alert
+7187,92.82,Alert
+7188,86.44,Alert
+7189,8.08,No alert
+7190,88.07,Alert
+7191,57.68,Alert
+7192,71.78,Alert
+7193,85.76,Alert
+7194,14.97,No alert
+7195,76.05,Alert
+7196,70.87,Alert
+7197,40.95,Alert
+7198,73.6,Alert
+7199,85.3,Alert
+7200,94.09,Alert
+7201,12.98,No alert
+7202,24.94,No alert
+7203,34.95,Alert
+7204,12.64,No alert
+7205,19.71,No alert
+7206,20.83,No alert
+7207,58.92,Alert
+7208,7.61,No alert
+7209,9.15,No alert
+7210,74.5,Alert
+7211,75.52,Alert
+7212,22.4,No alert
+7213,46.56,Alert
+7214,17.81,No alert
+7215,87.32,Alert
+7216,72.86,Alert
+7217,90.19,Alert
+7218,67.87,Alert
+7219,17.46,No alert
+7220,53.77,Alert
+7221,15.43,No alert
+7222,54.17,Alert
+7223,15.76,No alert
+7224,27.64,No alert
+7225,21.66,No alert
+7226,82.41,Alert
+7227,69.68,Alert
+7228,18.0,No alert
+7229,22.4,No alert
+7230,17.07,No alert
+7231,16.43,No alert
+7232,13.44,No alert
+7233,11.76,No alert
+7234,87.17,Alert
+7235,16.35,No alert
+7236,52.94,Alert
+7237,19.04,No alert
+7238,87.27,Alert
+7239,19.1,No alert
+7240,90.93,Alert
+7241,57.15,Alert
+7242,14.01,No alert
+7243,75.76,Alert
+7244,79.67,Alert
+7245,77.87,Alert
+7246,73.14,Alert
+7247,82.09,Alert
+7248,73.24,Alert
+7249,83.03,Alert
+7250,67.4,Alert
+7251,18.0,No alert
+7252,17.07,No alert
+7253,20.83,No alert
+7254,82.48,Alert
+7255,87.52,Alert
+7256,82.85,Alert
+7257,13.51,No alert
+7258,19.49,No alert
+7259,13.59,No alert
+7260,64.39,Alert
+7261,70.39,Alert
+7262,14.47,No alert
+7263,93.97,Alert
+7264,72.04,Alert
+7265,58.29,Alert
+7266,17.07,No alert
+7267,15.77,No alert
+7268,90.43,Alert
+7269,84.79,Alert
+7270,88.16,Alert
+7271,85.85,Alert
+7272,65.89,Alert
+7273,12.23,No alert
+7274,59.58,Alert
+7275,86.59,Alert
+7276,72.09,Alert
+7277,56.42,Alert
+7278,28.67,No alert
+7279,85.54,Alert
+7280,16.49,No alert
+7281,16.32,No alert
+7282,59.81,Alert
+7283,51.33,Alert
+7284,57.68,Alert
+7285,11.79,No alert
+7286,51.37,Alert
+7287,15.84,No alert
+7288,14.82,No alert
+7289,15.14,No alert
+7290,15.7,No alert
+7291,14.25,No alert
+7292,75.1,Alert
+7293,10.37,No alert
+7294,32.03,No alert
+7295,80.22,Alert
+7296,63.96,Alert
+7297,18.65,No alert
+7298,63.56,Alert
+7299,65.96,Alert
+7300,60.3,Alert
+7301,54.01,Alert
+7302,26.63,No alert
+7303,45.01,Alert
+7304,63.23,Alert
+7305,54.96,Alert
+7306,34.51,No alert
+7307,21.02,No alert
+7308,84.23,Alert
+7309,18.35,No alert
+7310,14.54,No alert
+7311,19.49,No alert
+7312,80.77,Alert
+7313,14.57,No alert
+7314,27.17,No alert
+7315,15.49,No alert
+7316,25.89,No alert
+7317,94.13,Alert
+7318,84.83,Alert
+7319,59.65,Alert
+7320,19.49,No alert
+7321,15.71,No alert
+7322,58.94,Alert
+7323,17.7,No alert
+7324,22.4,No alert
+7325,81.87,Alert
+7326,30.39,No alert
+7327,64.1,Alert
+7328,80.18,Alert
+7329,88.58,Alert
+7330,22.96,No alert
+7331,60.71,Alert
+7332,67.24,Alert
+7333,53.56,Alert
+7334,14.67,No alert
+7335,19.85,No alert
+7336,14.08,No alert
+7337,93.61,Alert
+7338,83.82,Alert
+7339,79.17,Alert
+7340,22.58,No alert
+7341,27.97,No alert
+7342,94.0,Alert
+7343,78.47,Alert
+7344,53.13,Alert
+7345,81.27,Alert
+7346,14.03,No alert
+7347,26.84,No alert
+7348,14.57,No alert
+7349,94.05,Alert
+7350,15.33,No alert
+7351,15.02,No alert
+7352,26.84,No alert
+7353,74.44,Alert
+7354,58.93,Alert
+7355,59.29,Alert
+7356,44.12,Alert
+7357,17.74,No alert
+7358,79.57,Alert
+7359,13.27,No alert
+7360,94.01,Alert
+7361,86.38,Alert
+7362,13.67,No alert
+7363,32.45,No alert
+7364,20.01,No alert
+7365,17.12,No alert
+7366,14.9,No alert
+7367,16.67,No alert
+7368,17.77,No alert
+7369,26.18,No alert
+7370,24.43,No alert
+7371,13.67,No alert
+7372,18.0,No alert
+7373,14.08,No alert
+7374,19.1,No alert
+7375,25.09,No alert
+7376,13.67,No alert
+7377,86.81,Alert
+7378,26.22,No alert
+7379,18.06,No alert
+7380,38.13,Alert
+7381,11.41,No alert
+7382,8.49,No alert
+7383,17.3,No alert
+7384,16.35,No alert
+7385,61.32,Alert
+7386,18.06,No alert
+7387,57.68,Alert
+7388,64.71,Alert
+7389,86.17,Alert
+7390,19.37,No alert
+7391,15.33,No alert
+7392,55.32,Alert
+7393,35.99,Alert
+7394,83.01,Alert
+7395,59.35,Alert
+7396,16.22,No alert
+7397,37.7,Alert
+7398,9.59,No alert
+7399,31.42,No alert
+7400,80.64,Alert
+7401,7.58,No alert
+7402,40.56,Alert
+7403,21.31,No alert
+7404,53.15,Alert
+7405,88.51,Alert
+7406,18.67,No alert
+7407,14.54,No alert
+7408,84.79,Alert
+7409,17.41,No alert
+7410,93.86,Alert
+7411,11.73,No alert
+7412,73.15,Alert
+7413,25.73,No alert
+7414,14.01,No alert
+7415,94.28,Alert
+7416,80.21,Alert
+7417,21.56,No alert
+7418,19.48,No alert
+7419,17.74,No alert
+7420,15.7,No alert
+7421,11.13,No alert
+7422,83.14,Alert
+7423,17.79,No alert
+7424,59.45,Alert
+7425,79.77,Alert
+7426,70.39,Alert
+7427,19.24,No alert
+7428,70.42,Alert
+7429,15.92,No alert
+7430,17.36,No alert
+7431,14.67,No alert
+7432,85.51,Alert
+7433,65.71,Alert
+7434,86.22,Alert
+7435,10.18,No alert
+7436,14.08,No alert
+7437,30.51,No alert
+7438,14.7,No alert
+7439,19.37,No alert
+7440,42.07,Alert
+7441,93.97,Alert
+7442,75.23,Alert
+7443,17.67,No alert
+7444,19.46,No alert
+7445,57.63,Alert
+7446,20.01,No alert
+7447,70.18,Alert
+7448,22.12,No alert
+7449,5.57,No alert
+7450,28.15,No alert
+7451,56.34,Alert
+7452,67.4,Alert
+7453,20.86,No alert
+7454,73.47,Alert
+7455,16.22,No alert
+7456,15.7,No alert
+7457,26.63,No alert
+7458,72.18,Alert
+7459,14.59,No alert
+7460,35.96,Alert
+7461,53.15,Alert
+7462,69.98,Alert
+7463,10.28,No alert
+7464,93.98,Alert
+7465,69.01,Alert
+7466,16.35,No alert
+7467,87.41,Alert
+7468,69.11,Alert
+7469,15.33,No alert
+7470,10.36,No alert
+7471,30.39,No alert
+7472,20.01,No alert
+7473,54.41,Alert
+7474,16.63,No alert
+7475,17.17,No alert
+7476,16.63,No alert
+7477,14.57,No alert
+7478,45.17,Alert
+7479,15.47,No alert
+7480,8.31,No alert
+7481,14.57,No alert
+7482,16.38,No alert
+7483,70.4,Alert
+7484,10.36,No alert
+7485,17.82,No alert
+7486,15.78,No alert
+7487,15.24,No alert
+7488,14.9,No alert
+7489,16.49,No alert
+7490,30.82,No alert
+7491,82.9,Alert
+7492,14.57,No alert
+7493,10.36,No alert
+7494,22.41,No alert
+7495,38.86,Alert
+7496,93.96,Alert
+7497,60.91,Alert
+7498,15.43,No alert
+7499,8.46,No alert
+7500,17.09,No alert
+7501,18.1,No alert
+7502,5.37,No alert
+7503,17.42,No alert
+7504,82.12,Alert
+7505,82.12,Alert
+7506,94.27,Alert
+7507,11.75,No alert
+7508,50.75,Alert
+7509,12.63,No alert
+7510,55.52,Alert
+7511,63.86,Alert
+7512,19.02,No alert
+7513,19.04,No alert
+7514,14.49,No alert
+7515,89.91,Alert
+7516,34.14,No alert
+7517,16.67,No alert
+7518,94.66,Alert
+7519,11.62,No alert
+7520,17.37,No alert
+7521,62.07,Alert
+7522,11.76,No alert
+7523,21.02,No alert
+7524,53.15,Alert
+7525,22.78,No alert
+7526,20.01,No alert
+7527,59.4,Alert
+7528,16.57,No alert
+7529,10.22,No alert
+7530,75.95,Alert
+7531,29.54,No alert
+7532,18.47,No alert
+7533,69.23,Alert
+7534,52.54,Alert
+7535,13.25,No alert
+7536,14.67,No alert
+7537,14.47,No alert
+7538,21.5,No alert
+7539,12.16,No alert
+7540,50.11,Alert
+7541,52.54,Alert
+7542,84.78,Alert
+7543,15.61,No alert
+7544,76.55,Alert
+7545,10.54,No alert
+7546,14.1,No alert
+7547,16.35,No alert
+7548,72.5,Alert
+7549,59.62,Alert
+7550,23.24,No alert
+7551,13.67,No alert
+7552,14.3,No alert
+7553,21.02,No alert
+7554,27.17,No alert
+7555,93.36,Alert
+7556,80.51,Alert
+7557,26.04,No alert
+7558,44.43,Alert
+7559,14.9,No alert
+7560,80.37,Alert
+7561,69.18,Alert
+7562,16.22,No alert
+7563,16.63,No alert
+7564,15.67,No alert
+7565,93.33,Alert
+7566,19.1,No alert
+7567,85.47,Alert
+7568,74.78,Alert
+7569,22.4,No alert
+7570,55.49,Alert
+7571,32.83,No alert
+7572,10.05,No alert
+7573,14.7,No alert
+7574,51.07,Alert
+7575,24.35,No alert
+7576,20.91,No alert
+7577,76.94,Alert
+7578,14.85,No alert
+7579,33.96,No alert
+7580,17.31,No alert
+7581,94.12,Alert
+7582,16.02,No alert
+7583,54.7,Alert
+7584,19.47,No alert
+7585,9.99,No alert
+7586,15.7,No alert
+7587,17.53,No alert
+7588,81.44,Alert
+7589,24.94,No alert
+7590,32.67,No alert
+7591,16.61,No alert
+7592,14.47,No alert
+7593,19.37,No alert
+7594,14.54,No alert
+7595,83.2,Alert
+7596,93.1,Alert
+7597,15.27,No alert
+7598,14.54,No alert
+7599,77.32,Alert
+7600,17.03,No alert
+7601,25.72,No alert
+7602,83.89,Alert
+7603,13.55,No alert
+7604,52.94,Alert
+7605,80.25,Alert
+7606,86.92,Alert
+7607,86.26,Alert
+7608,10.21,No alert
+7609,84.23,Alert
+7610,19.49,No alert
+7611,54.14,Alert
+7612,74.05,Alert
+7613,56.16,Alert
+7614,19.37,No alert
+7615,89.96,Alert
+7616,14.81,No alert
+7617,27.3,No alert
+7618,20.35,No alert
+7619,25.96,No alert
+7620,84.65,Alert
+7621,93.41,Alert
+7622,14.1,No alert
+7623,90.96,Alert
+7624,14.1,No alert
+7625,58.82,Alert
+7626,72.95,Alert
+7627,94.66,Alert
+7628,14.77,No alert
+7629,20.68,No alert
+7630,15.7,No alert
+7631,30.88,No alert
+7632,6.09,No alert
+7633,18.47,No alert
+7634,16.35,No alert
+7635,17.03,No alert
+7636,16.35,No alert
+7637,52.41,Alert
+7638,94.01,Alert
+7639,82.38,Alert
+7640,31.69,No alert
+7641,14.3,No alert
+7642,17.29,No alert
+7643,31.22,No alert
+7644,48.87,Alert
+7645,17.07,No alert
+7646,15.85,No alert
+7647,10.21,No alert
+7648,11.21,No alert
+7649,18.63,No alert
+7650,76.75,Alert
+7651,19.1,No alert
+7652,58.48,Alert
+7653,56.98,Alert
+7654,10.21,No alert
+7655,25.95,No alert
+7656,11.62,No alert
+7657,91.03,Alert
+7658,89.68,Alert
+7659,44.94,Alert
+7660,14.57,No alert
+7661,14.67,No alert
+7662,18.76,No alert
+7663,59.81,Alert
+7664,16.67,No alert
+7665,16.67,No alert
+7666,49.02,Alert
+7667,11.76,No alert
+7668,11.31,No alert
+7669,14.77,No alert
+7670,9.99,No alert
+7671,87.16,Alert
+7672,26.18,No alert
+7673,60.85,Alert
+7674,20.01,No alert
+7675,83.14,Alert
+7676,94.01,Alert
+7677,26.67,No alert
+7678,17.66,No alert
+7679,86.59,Alert
+7680,14.57,No alert
+7681,37.68,Alert
+7682,56.98,Alert
+7683,18.46,No alert
+7684,88.46,Alert
+7685,15.92,No alert
+7686,91.14,Alert
+7687,78.82,Alert
+7688,41.62,Alert
+7689,14.57,No alert
+7690,81.51,Alert
+7691,78.38,Alert
+7692,20.82,No alert
+7693,30.51,No alert
+7694,19.04,No alert
+7695,33.24,No alert
+7696,52.24,Alert
+7697,8.39,No alert
+7698,20.01,No alert
+7699,26.61,No alert
+7700,87.04,Alert
+7701,18.27,No alert
+7702,14.01,No alert
+7703,15.33,No alert
+7704,56.18,Alert
+7705,63.42,Alert
+7706,17.81,No alert
+7707,89.92,Alert
+7708,12.63,No alert
+7709,87.27,Alert
+7710,14.47,No alert
+7711,17.74,No alert
+7712,11.76,No alert
+7713,22.62,No alert
+7714,10.72,No alert
+7715,92.48,Alert
+7716,12.53,No alert
+7717,12.15,No alert
+7718,17.85,No alert
+7719,54.84,Alert
+7720,81.1,Alert
+7721,71.62,Alert
+7722,16.32,No alert
+7723,13.12,No alert
+7724,9.24,No alert
+7725,13.37,No alert
+7726,56.34,Alert
+7727,14.47,No alert
+7728,18.03,No alert
+7729,15.24,No alert
+7730,16.43,No alert
+7731,14.67,No alert
+7732,75.16,Alert
+7733,93.18,Alert
+7734,15.7,No alert
+7735,26.28,No alert
+7736,83.18,Alert
+7737,17.37,No alert
+7738,16.63,No alert
+7739,65.35,Alert
+7740,16.16,No alert
+7741,13.67,No alert
+7742,16.62,No alert
+7743,17.56,No alert
+7744,29.3,No alert
+7745,15.77,No alert
+7746,64.47,Alert
+7747,33.4,No alert
+7748,10.36,No alert
+7749,19.73,No alert
+7750,93.66,Alert
+7751,10.09,No alert
+7752,16.63,No alert
+7753,23.5,No alert
+7754,15.64,No alert
+7755,15.79,No alert
+7756,69.26,Alert
+7757,29.41,No alert
+7758,72.86,Alert
+7759,21.54,No alert
+7760,92.82,Alert
+7761,17.13,No alert
+7762,16.29,No alert
+7763,14.3,No alert
+7764,64.22,Alert
+7765,16.1,No alert
+7766,14.62,No alert
+7767,14.9,No alert
+7768,79.76,Alert
+7769,6.1,No alert
+7770,94.11,Alert
+7771,60.65,Alert
+7772,36.53,Alert
+7773,18.47,No alert
+7774,87.33,Alert
+7775,75.68,Alert
+7776,45.58,Alert
+7777,82.31,Alert
+7778,12.86,No alert
+7779,14.1,No alert
+7780,83.38,Alert
+7781,15.64,No alert
+7782,14.08,No alert
+7783,88.69,Alert
+7784,52.6,Alert
+7785,94.22,Alert
+7786,15.57,No alert
+7787,5.35,No alert
+7788,5.41,No alert
+7789,28.15,No alert
+7790,16.1,No alert
+7791,22.3,No alert
+7792,14.57,No alert
+7793,57.18,Alert
+7794,89.38,Alert
+7795,5.43,No alert
+7796,94.15,Alert
+7797,82.77,Alert
+7798,21.54,No alert
+7799,57.67,Alert
+7800,19.49,No alert
+7801,16.49,No alert
+7802,16.1,No alert
+7803,14.1,No alert
+7804,18.06,No alert
+7805,28.1,No alert
+7806,58.58,Alert
+7807,13.37,No alert
+7808,72.84,Alert
+7809,30.57,No alert
+7810,51.24,Alert
+7811,15.64,No alert
+7812,88.46,Alert
+7813,19.02,No alert
+7814,20.62,No alert
+7815,21.37,No alert
+7816,18.47,No alert
+7817,18.1,No alert
+7818,82.9,Alert
+7819,46.61,Alert
+7820,26.75,No alert
+7821,14.47,No alert
+7822,64.16,Alert
+7823,14.67,No alert
+7824,17.35,No alert
+7825,19.49,No alert
+7826,50.31,Alert
+7827,6.01,No alert
+7828,44.4,Alert
+7829,38.91,Alert
+7830,16.57,No alert
+7831,18.34,No alert
+7832,78.33,Alert
+7833,13.99,No alert
+7834,13.88,No alert
+7835,57.63,Alert
+7836,54.7,Alert
+7837,82.98,Alert
+7838,83.02,Alert
+7839,80.47,Alert
+7840,57.55,Alert
+7841,30.81,No alert
+7842,17.29,No alert
+7843,65.57,Alert
+7844,77.87,Alert
+7845,90.23,Alert
+7846,47.52,Alert
+7847,21.23,No alert
+7848,19.38,No alert
+7849,90.31,Alert
+7850,15.7,No alert
+7851,18.35,No alert
+7852,26.18,No alert
+7853,78.63,Alert
+7854,92.85,Alert
+7855,16.15,No alert
+7856,87.94,Alert
+7857,44.23,Alert
+7858,83.75,Alert
+7859,84.82,Alert
+7860,21.16,No alert
+7861,67.57,Alert
+7862,76.78,Alert
+7863,86.69,Alert
+7864,82.12,Alert
+7865,84.84,Alert
+7866,69.72,Alert
+7867,14.17,No alert
+7868,13.3,No alert
+7869,68.13,Alert
+7870,19.1,No alert
+7871,94.49,Alert
+7872,13.37,No alert
+7873,15.7,No alert
+7874,14.06,No alert
+7875,16.22,No alert
+7876,14.9,No alert
+7877,13.67,No alert
+7878,94.44,Alert
+7879,27.16,No alert
+7880,53.18,Alert
+7881,15.7,No alert
+7882,79.28,Alert
+7883,89.79,Alert
+7884,5.56,No alert
+7885,48.5,Alert
+7886,37.68,Alert
+7887,20.5,No alert
+7888,16.49,No alert
+7889,21.02,No alert
+7890,22.4,No alert
+7891,66.23,Alert
+7892,19.49,No alert
+7893,22.21,No alert
+7894,75.15,Alert
+7895,17.56,No alert
+7896,16.05,No alert
+7897,17.74,No alert
+7898,26.67,No alert
+7899,24.84,No alert
+7900,17.37,No alert
+7901,5.34,No alert
+7902,16.49,No alert
+7903,93.96,Alert
+7904,10.56,No alert
+7905,14.57,No alert
+7906,5.68,No alert
+7907,76.58,Alert
+7908,66.84,Alert
+7909,14.47,No alert
+7910,47.67,Alert
+7911,79.41,Alert
+7912,84.48,Alert
+7913,94.66,Alert
+7914,27.52,No alert
+7915,15.92,No alert
+7916,32.95,No alert
+7917,17.17,No alert
+7918,83.48,Alert
+7919,5.78,No alert
+7920,54.3,Alert
+7921,22.34,No alert
+7922,93.31,Alert
+7923,50.58,Alert
+7924,5.57,No alert
+7925,16.34,No alert
+7926,17.29,No alert
+7927,15.24,No alert
+7928,83.36,Alert
+7929,26.66,No alert
+7930,6.1,No alert
+7931,81.3,Alert
+7932,16.43,No alert
+7933,78.24,Alert
+7934,12.49,No alert
+7935,91.31,Alert
+7936,29.91,No alert
+7937,5.43,No alert
+7938,80.64,Alert
+7939,78.36,Alert
+7940,18.66,No alert
+7941,34.2,No alert
+7942,56.04,Alert
+7943,84.73,Alert
+7944,55.46,Alert
+7945,50.79,Alert
+7946,84.35,Alert
+7947,17.73,No alert
+7948,56.83,Alert
+7949,16.63,No alert
+7950,72.9,Alert
+7951,22.4,No alert
+7952,13.3,No alert
+7953,14.52,No alert
+7954,89.22,Alert
+7955,17.85,No alert
+7956,12.73,No alert
+7957,7.34,No alert
+7958,14.77,No alert
+7959,20.18,No alert
+7960,16.67,No alert
+7961,16.9,No alert
+7962,83.74,Alert
+7963,57.18,Alert
+7964,58.82,Alert
+7965,16.43,No alert
+7966,22.4,No alert
+7967,16.32,No alert
+7968,12.28,No alert
+7969,16.49,No alert
+7970,19.46,No alert
+7971,6.25,No alert
+7972,51.43,Alert
+7973,57.04,Alert
+7974,11.62,No alert
+7975,93.91,Alert
+7976,42.15,Alert
+7977,16.57,No alert
+7978,57.91,Alert
+7979,30.57,No alert
+7980,22.21,No alert
+7981,18.76,No alert
+7982,84.99,Alert
+7983,70.35,Alert
+7984,59.43,Alert
+7985,61.02,Alert
+7986,16.38,No alert
+7987,16.27,No alert
+7988,72.95,Alert
+7989,92.81,Alert
+7990,58.03,Alert
+7991,29.57,No alert
+7992,15.33,No alert
+7993,15.64,No alert
+7994,16.62,No alert
+7995,15.63,No alert
+7996,13.55,No alert
+7997,26.43,No alert
+7998,26.29,No alert
+7999,18.0,No alert
+8000,86.31,Alert
+8001,22.62,No alert
+8002,56.95,Alert
+8003,25.04,No alert
+8004,30.51,No alert
+8005,80.62,Alert
+8006,18.0,No alert
+8007,26.22,No alert
+8008,80.42,Alert
+8009,16.43,No alert
+8010,82.76,Alert
+8011,56.71,Alert
+8012,14.1,No alert
+8013,17.67,No alert
+8014,17.09,No alert
+8015,11.76,No alert
+8016,83.31,Alert
+8017,26.35,No alert
+8018,62.6,Alert
+8019,16.62,No alert
+8020,32.16,No alert
+8021,8.68,No alert
+8022,77.62,Alert
+8023,25.73,No alert
+8024,14.8,No alert
+8025,17.5,No alert
+8026,6.29,No alert
+8027,15.7,No alert
+8028,15.38,No alert
+8029,5.43,No alert
+8030,32.29,No alert
+8031,22.56,No alert
+8032,73.2,Alert
+8033,68.87,Alert
+8034,61.55,Alert
+8035,14.79,No alert
+8036,20.63,No alert
+8037,19.12,No alert
+8038,83.41,Alert
+8039,87.17,Alert
+8040,63.61,Alert
+8041,29.29,No alert
+8042,21.02,No alert
+8043,15.77,No alert
+8044,11.31,No alert
+8045,16.15,No alert
+8046,14.9,No alert
+8047,86.87,Alert
+8048,48.3,Alert
+8049,37.91,Alert
+8050,15.3,No alert
+8051,16.63,No alert
+8052,18.35,No alert
+8053,59.84,Alert
+8054,15.27,No alert
+8055,13.85,No alert
+8056,11.79,No alert
+8057,17.85,No alert
+8058,18.61,No alert
+8059,87.69,Alert
+8060,82.28,Alert
+8061,46.89,Alert
+8062,13.88,No alert
+8063,10.06,No alert
+8064,15.3,No alert
+8065,16.01,No alert
+8066,79.9,Alert
+8067,59.38,Alert
+8068,85.57,Alert
+8069,14.32,No alert
+8070,18.0,No alert
+8071,35.73,Alert
+8072,9.19,No alert
+8073,26.04,No alert
+8074,77.59,Alert
+8075,56.98,Alert
+8076,27.18,No alert
+8077,52.43,Alert
+8078,10.36,No alert
+8079,43.26,Alert
+8080,70.35,Alert
+8081,37.62,Alert
+8082,70.42,Alert
+8083,30.56,No alert
+8084,5.8,No alert
+8085,26.61,No alert
+8086,19.04,No alert
+8087,88.52,Alert
+8088,57.63,Alert
+8089,17.06,No alert
+8090,83.16,Alert
+8091,18.83,No alert
+8092,17.74,No alert
+8093,90.56,Alert
+8094,84.25,Alert
+8095,11.41,No alert
+8096,19.01,No alert
+8097,91.9,Alert
+8098,18.06,No alert
+8099,13.85,No alert
+8100,11.41,No alert
+8101,17.59,No alert
+8102,87.26,Alert
+8103,14.1,No alert
+8104,88.7,Alert
+8105,13.67,No alert
+8106,16.81,No alert
+8107,14.01,No alert
+8108,58.91,Alert
+8109,83.2,Alert
+8110,70.18,Alert
+8111,81.7,Alert
+8112,25.13,No alert
+8113,22.69,No alert
+8114,59.18,Alert
+8115,14.47,No alert
+8116,88.29,Alert
+8117,67.28,Alert
+8118,17.74,No alert
+8119,16.63,No alert
+8120,74.67,Alert
+8121,15.7,No alert
+8122,20.1,No alert
+8123,19.71,No alert
+8124,10.21,No alert
+8125,15.64,No alert
+8126,5.45,No alert
+8127,12.49,No alert
+8128,43.64,Alert
+8129,94.11,Alert
+8130,8.9,No alert
+8131,58.9,Alert
+8132,40.56,Alert
+8133,14.2,No alert
+8134,18.35,No alert
+8135,15.98,No alert
+8136,90.09,Alert
+8137,14.08,No alert
+8138,64.67,Alert
+8139,39.83,Alert
+8140,13.32,No alert
+8141,86.51,Alert
+8142,18.76,No alert
+8143,82.29,Alert
+8144,14.67,No alert
+8145,85.14,Alert
+8146,75.52,Alert
+8147,19.49,No alert
+8148,92.59,Alert
+8149,45.96,Alert
+8150,14.79,No alert
+8151,13.93,No alert
+8152,14.44,No alert
+8153,14.47,No alert
+8154,5.35,No alert
+8155,15.7,No alert
+8156,16.38,No alert
+8157,5.48,No alert
+8158,72.76,Alert
+8159,86.9,Alert
+8160,16.32,No alert
+8161,17.17,No alert
+8162,15.66,No alert
+8163,22.05,No alert
+8164,40.96,Alert
+8165,18.64,No alert
+8166,61.03,Alert
+8167,9.72,No alert
+8168,5.97,No alert
+8169,28.24,No alert
+8170,14.11,No alert
+8171,17.92,No alert
+8172,10.04,No alert
+8173,20.75,No alert
+8174,35.28,Alert
+8175,10.91,No alert
+8176,18.98,No alert
+8177,25.84,No alert
+8178,90.96,Alert
+8179,88.83,Alert
+8180,93.08,Alert
+8181,35.37,Alert
+8182,63.18,Alert
+8183,55.65,Alert
+8184,90.25,Alert
+8185,20.18,No alert
+8186,81.55,Alert
+8187,13.28,No alert
+8188,17.07,No alert
+8189,12.51,No alert
+8190,16.01,No alert
+8191,18.45,No alert
+8192,20.23,No alert
+8193,5.56,No alert
+8194,57.67,Alert
+8195,17.74,No alert
+8196,55.46,Alert
+8197,72.07,Alert
+8198,12.97,No alert
+8199,48.63,Alert
+8200,80.26,Alert
+8201,77.16,Alert
+8202,80.15,Alert
+8203,15.92,No alert
+8204,8.15,No alert
+8205,22.4,No alert
+8206,16.28,No alert
+8207,83.82,Alert
+8208,85.2,Alert
+8209,8.11,No alert
+8210,18.24,No alert
+8211,57.05,Alert
+8212,13.88,No alert
+8213,83.03,Alert
+8214,57.63,Alert
+8215,5.58,No alert
+8216,19.1,No alert
+8217,51.76,Alert
+8218,83.85,Alert
+8219,16.15,No alert
+8220,54.72,Alert
+8221,16.01,No alert
+8222,13.71,No alert
+8223,15.92,No alert
+8224,17.29,No alert
+8225,16.0,No alert
+8226,75.0,Alert
+8227,27.06,No alert
+8228,92.24,Alert
+8229,94.09,Alert
+8230,54.38,Alert
+8231,24.43,No alert
+8232,14.47,No alert
+8233,16.1,No alert
+8234,71.11,Alert
+8235,70.35,Alert
+8236,18.04,No alert
+8237,13.88,No alert
+8238,62.09,Alert
+8239,19.02,No alert
+8240,64.61,Alert
+8241,16.22,No alert
+8242,16.63,No alert
+8243,18.0,No alert
+8244,14.62,No alert
+8245,60.44,Alert
+8246,14.57,No alert
+8247,9.99,No alert
+8248,15.47,No alert
+8249,34.64,No alert
+8250,82.12,Alert
+8251,83.8,Alert
+8252,17.48,No alert
+8253,74.43,Alert
+8254,14.23,No alert
+8255,18.87,No alert
+8256,74.44,Alert
+8257,74.4,Alert
+8258,17.17,No alert
+8259,61.56,Alert
+8260,18.76,No alert
+8261,56.02,Alert
+8262,16.67,No alert
+8263,83.56,Alert
+8264,20.64,No alert
+8265,93.03,Alert
+8266,8.58,No alert
+8267,88.9,Alert
+8268,17.85,No alert
+8269,30.71,No alert
+8270,19.37,No alert
+8271,9.17,No alert
+8272,20.74,No alert
+8273,17.85,No alert
+8274,93.85,Alert
+8275,18.47,No alert
+8276,19.47,No alert
+8277,86.4,Alert
+8278,9.85,No alert
+8279,18.27,No alert
+8280,17.97,No alert
+8281,15.91,No alert
+8282,18.92,No alert
+8283,16.96,No alert
+8284,48.34,Alert
+8285,85.01,Alert
+8286,84.79,Alert
+8287,16.32,No alert
+8288,14.67,No alert
+8289,13.3,No alert
+8290,16.67,No alert
+8291,6.16,No alert
+8292,18.37,No alert
+8293,17.17,No alert
+8294,17.49,No alert
+8295,58.29,Alert
+8296,15.29,No alert
+8297,5.95,No alert
+8298,16.49,No alert
+8299,78.0,Alert
+8300,6.65,No alert
+8301,10.21,No alert
+8302,19.04,No alert
+8303,43.3,Alert
+8304,15.2,No alert
+8305,16.33,No alert
+8306,80.21,Alert
+8307,54.42,Alert
+8308,57.62,Alert
+8309,85.97,Alert
+8310,36.16,Alert
+8311,17.46,No alert
+8312,59.38,Alert
+8313,16.22,No alert
+8314,16.53,No alert
+8315,15.27,No alert
+8316,16.43,No alert
+8317,6.18,No alert
+8318,13.94,No alert
+8319,81.25,Alert
+8320,71.99,Alert
+8321,57.25,Alert
+8322,94.07,Alert
+8323,52.1,Alert
+8324,56.02,Alert
+8325,13.67,No alert
+8326,19.61,No alert
+8327,64.68,Alert
+8328,54.42,Alert
+8329,18.67,No alert
+8330,17.29,No alert
+8331,15.49,No alert
+8332,14.47,No alert
+8333,17.74,No alert
+8334,13.95,No alert
+8335,34.54,No alert
+8336,13.85,No alert
+8337,15.53,No alert
+8338,56.17,Alert
+8339,18.82,No alert
+8340,87.08,Alert
+8341,71.66,Alert
+8342,17.43,No alert
+8343,14.44,No alert
+8344,17.74,No alert
+8345,14.99,No alert
+8346,80.3,Alert
+8347,94.53,Alert
+8348,16.57,No alert
+8349,53.17,Alert
+8350,14.67,No alert
+8351,15.37,No alert
+8352,68.26,Alert
+8353,17.46,No alert
+8354,17.3,No alert
+8355,59.88,Alert
+8356,29.36,No alert
+8357,70.78,Alert
+8358,65.11,Alert
+8359,79.05,Alert
+8360,15.27,No alert
+8361,86.87,Alert
+8362,92.46,Alert
+8363,87.16,Alert
+8364,76.79,Alert
+8365,14.67,No alert
+8366,13.45,No alert
+8367,19.01,No alert
+8368,52.45,Alert
+8369,14.43,No alert
+8370,18.52,No alert
+8371,78.76,Alert
+8372,13.59,No alert
+8373,72.79,Alert
+8374,49.89,Alert
+8375,15.94,No alert
+8376,17.38,No alert
+8377,87.67,Alert
+8378,61.72,Alert
+8379,86.24,Alert
+8380,90.31,Alert
+8381,66.56,Alert
+8382,19.49,No alert
+8383,19.38,No alert
+8384,64.87,Alert
+8385,16.54,No alert
+8386,7.34,No alert
+8387,55.18,Alert
+8388,25.84,No alert
+8389,58.94,Alert
+8390,79.21,Alert
+8391,69.11,Alert
+8392,78.1,Alert
+8393,50.33,Alert
+8394,63.66,Alert
+8395,15.61,No alert
+8396,43.07,Alert
+8397,14.57,No alert
+8398,11.41,No alert
+8399,8.8,No alert
+8400,83.57,Alert
+8401,20.5,No alert
+8402,21.0,No alert
+8403,16.14,No alert
+8404,25.93,No alert
+8405,76.13,Alert
+8406,17.17,No alert
+8407,65.05,Alert
+8408,9.99,No alert
+8409,16.32,No alert
+8410,75.91,Alert
+8411,16.67,No alert
+8412,14.47,No alert
+8413,90.05,Alert
+8414,93.69,Alert
+8415,66.74,Alert
+8416,56.53,Alert
+8417,63.83,Alert
+8418,84.34,Alert
+8419,24.41,No alert
+8420,86.69,Alert
+8421,26.04,No alert
+8422,13.88,No alert
+8423,80.21,Alert
+8424,55.11,Alert
+8425,13.93,No alert
+8426,44.2,Alert
+8427,16.57,No alert
+8428,17.69,No alert
+8429,84.13,Alert
+8430,74.81,Alert
+8431,80.51,Alert
+8432,14.97,No alert
+8433,15.39,No alert
+8434,19.04,No alert
+8435,14.9,No alert
+8436,15.85,No alert
+8437,16.96,No alert
+8438,15.74,No alert
+8439,21.18,No alert
+8440,12.86,No alert
+8441,53.44,Alert
+8442,72.95,Alert
+8443,16.22,No alert
+8444,6.25,No alert
+8445,87.54,Alert
+8446,14.54,No alert
+8447,22.4,No alert
+8448,72.95,Alert
+8449,35.99,Alert
+8450,30.08,No alert
+8451,83.46,Alert
+8452,70.14,Alert
+8453,73.02,Alert
+8454,5.37,No alert
+8455,36.95,Alert
+8456,81.84,Alert
+8457,57.02,Alert
+8458,19.59,No alert
+8459,81.45,Alert
+8460,13.2,No alert
+8461,16.63,No alert
+8462,12.16,No alert
+8463,84.17,Alert
+8464,30.56,No alert
+8465,20.01,No alert
+8466,81.45,Alert
+8467,12.49,No alert
+8468,14.67,No alert
+8469,58.85,Alert
+8470,60.39,Alert
+8471,15.69,No alert
+8472,46.31,Alert
+8473,15.64,No alert
+8474,15.29,No alert
+8475,43.07,Alert
+8476,60.65,Alert
+8477,28.15,No alert
+8478,14.17,No alert
+8479,25.7,No alert
+8480,19.04,No alert
+8481,13.51,No alert
+8482,17.09,No alert
+8483,82.31,Alert
+8484,78.71,Alert
+8485,15.15,No alert
+8486,51.84,Alert
+8487,14.23,No alert
+8488,82.35,Alert
+8489,14.47,No alert
+8490,14.77,No alert
+8491,87.85,Alert
+8492,19.02,No alert
+8493,14.77,No alert
+8494,22.4,No alert
+8495,22.3,No alert
+8496,58.9,Alert
+8497,16.22,No alert
+8498,70.18,Alert
+8499,16.15,No alert
+8500,66.64,Alert
+8501,14.3,No alert
+8502,15.85,No alert
+8503,31.72,No alert
+8504,19.23,No alert
+8505,16.59,No alert
+8506,60.51,Alert
+8507,82.33,Alert
+8508,16.22,No alert
+8509,17.17,No alert
+8510,33.33,No alert
+8511,21.78,No alert
+8512,14.47,No alert
+8513,17.57,No alert
+8514,12.63,No alert
+8515,10.85,No alert
+8516,8.04,No alert
+8517,40.33,Alert
+8518,8.95,No alert
+8519,94.31,Alert
+8520,16.15,No alert
+8521,86.38,Alert
+8522,14.67,No alert
+8523,51.87,Alert
+8524,15.08,No alert
+8525,17.4,No alert
+8526,19.1,No alert
+8527,84.77,Alert
+8528,70.83,Alert
+8529,18.47,No alert
+8530,17.74,No alert
+8531,80.93,Alert
+8532,79.77,Alert
+8533,18.35,No alert
+8534,14.77,No alert
+8535,56.78,Alert
+8536,57.62,Alert
+8537,15.64,No alert
+8538,76.65,Alert
+8539,59.29,Alert
+8540,81.98,Alert
+8541,94.28,Alert
+8542,14.47,No alert
+8543,27.64,No alert
+8544,10.21,No alert
+8545,25.94,No alert
+8546,35.59,Alert
+8547,16.01,No alert
+8548,45.09,Alert
+8549,16.43,No alert
+8550,77.07,Alert
+8551,14.52,No alert
+8552,88.22,Alert
+8553,61.97,Alert
+8554,18.53,No alert
+8555,13.33,No alert
+8556,55.63,Alert
+8557,32.05,No alert
+8558,67.57,Alert
+8559,18.67,No alert
+8560,19.0,No alert
+8561,94.07,Alert
+8562,83.22,Alert
+8563,15.33,No alert
+8564,17.29,No alert
+8565,17.46,No alert
+8566,10.36,No alert
+8567,14.68,No alert
+8568,14.83,No alert
+8569,28.62,No alert
+8570,19.93,No alert
+8571,17.74,No alert
+8572,28.71,No alert
+8573,8.56,No alert
+8574,14.57,No alert
+8575,25.18,No alert
+8576,10.65,No alert
+8577,59.38,Alert
+8578,13.29,No alert
+8579,84.09,Alert
+8580,94.1,Alert
+8581,14.47,No alert
+8582,83.77,Alert
+8583,47.64,Alert
+8584,15.47,No alert
+8585,15.92,No alert
+8586,8.9,No alert
+8587,19.1,No alert
+8588,50.4,Alert
+8589,17.79,No alert
+8590,16.22,No alert
+8591,67.96,Alert
+8592,73.47,Alert
+8593,17.23,No alert
+8594,67.41,Alert
+8595,59.79,Alert
+8596,70.35,Alert
+8597,51.24,Alert
+8598,78.33,Alert
+8599,5.65,No alert
+8600,79.77,Alert
+8601,77.29,Alert
+8602,14.67,No alert
+8603,7.72,No alert
+8604,6.29,No alert
+8605,81.1,Alert
+8606,93.64,Alert
+8607,28.42,No alert
+8608,88.43,Alert
+8609,14.01,No alert
+8610,80.64,Alert
+8611,15.38,No alert
+8612,14.9,No alert
+8613,82.54,Alert
+8614,13.88,No alert
+8615,12.98,No alert
+8616,75.21,Alert
+8617,16.1,No alert
+8618,12.97,No alert
+8619,19.68,No alert
+8620,48.35,Alert
+8621,84.46,Alert
+8622,13.85,No alert
+8623,22.3,No alert
+8624,81.05,Alert
+8625,14.67,No alert
+8626,16.59,No alert
+8627,84.92,Alert
+8628,79.45,Alert
+8629,35.28,Alert
+8630,19.31,No alert
+8631,90.59,Alert
+8632,22.55,No alert
+8633,75.4,Alert
+8634,89.51,Alert
+8635,46.71,Alert
+8636,52.94,Alert
+8637,10.69,No alert
+8638,12.16,No alert
+8639,19.04,No alert
+8640,86.65,Alert
+8641,68.52,Alert
+8642,13.0,No alert
+8643,15.61,No alert
+8644,50.33,Alert
+8645,93.95,Alert
+8646,16.43,No alert
+8647,24.41,No alert
+8648,16.49,No alert
+8649,14.31,No alert
+8650,67.36,Alert
+8651,19.04,No alert
+8652,17.37,No alert
+8653,77.68,Alert
+8654,26.67,No alert
+8655,52.75,Alert
+8656,16.67,No alert
+8657,14.23,No alert
+8658,17.07,No alert
+8659,6.01,No alert
+8660,18.47,No alert
+8661,55.46,Alert
+8662,16.62,No alert
+8663,55.48,Alert
+8664,84.35,Alert
+8665,16.43,No alert
+8666,56.3,Alert
+8667,34.93,Alert
+8668,16.1,No alert
+8669,89.97,Alert
+8670,13.27,No alert
+8671,14.57,No alert
+8672,21.02,No alert
+8673,49.51,Alert
+8674,14.52,No alert
+8675,57.68,Alert
+8676,18.04,No alert
+8677,85.12,Alert
+8678,16.35,No alert
+8679,37.04,Alert
+8680,27.64,No alert
+8681,74.44,Alert
+8682,71.01,Alert
+8683,14.57,No alert
+8684,6.25,No alert
+8685,57.85,Alert
+8686,59.47,Alert
+8687,17.74,No alert
+8688,19.37,No alert
+8689,24.61,No alert
+8690,49.22,Alert
+8691,42.34,Alert
+8692,61.09,Alert
+8693,52.43,Alert
+8694,72.84,Alert
+8695,94.11,Alert
+8696,12.71,No alert
+8697,88.6,Alert
+8698,22.32,No alert
+8699,59.79,Alert
+8700,19.38,No alert
+8701,13.3,No alert
+8702,18.66,No alert
+8703,14.67,No alert
+8704,18.76,No alert
+8705,52.89,Alert
+8706,88.15,Alert
+8707,87.77,Alert
+8708,15.24,No alert
+8709,76.65,Alert
+8710,90.05,Alert
+8711,45.56,Alert
+8712,64.12,Alert
+8713,79.77,Alert
+8714,15.64,No alert
+8715,15.47,No alert
+8716,16.67,No alert
+8717,84.92,Alert
+8718,68.07,Alert
+8719,94.14,Alert
+8720,72.86,Alert
+8721,16.61,No alert
+8722,83.85,Alert
+8723,15.33,No alert
+8724,20.01,No alert
+8725,58.69,Alert
+8726,16.63,No alert
+8727,10.69,No alert
+8728,5.73,No alert
+8729,76.95,Alert
+8730,25.73,No alert
+8731,82.55,Alert
+8732,71.1,Alert
+8733,73.59,Alert
+8734,54.96,Alert
+8735,57.91,Alert
+8736,23.5,No alert
+8737,41.5,Alert
+8738,24.75,No alert
+8739,20.01,No alert
+8740,17.74,No alert
+8741,16.57,No alert
+8742,15.7,No alert
+8743,17.61,No alert
+8744,11.41,No alert
+8745,91.06,Alert
+8746,93.11,Alert
+8747,9.55,No alert
+8748,77.96,Alert
+8749,12.16,No alert
+8750,55.46,Alert
+8751,19.37,No alert
+8752,50.9,Alert
+8753,86.01,Alert
+8754,18.35,No alert
+8755,6.01,No alert
+8756,52.97,Alert
+8757,17.74,No alert
+8758,34.6,No alert
+8759,17.07,No alert
+8760,11.76,No alert
+8761,17.29,No alert
+8762,59.6,Alert
+8763,13.67,No alert
+8764,16.89,No alert
+8765,76.79,Alert
+8766,15.47,No alert
+8767,18.79,No alert
+8768,17.85,No alert
+8769,31.73,No alert
+8770,78.38,Alert
+8771,16.01,No alert
+8772,15.91,No alert
+8773,85.71,Alert
+8774,81.3,Alert
+8775,81.98,Alert
+8776,64.61,Alert
+8777,15.64,No alert
+8778,17.74,No alert
+8779,83.2,Alert
+8780,16.22,No alert
+8781,83.3,Alert
+8782,51.44,Alert
+8783,13.67,No alert
+8784,79.76,Alert
+8785,29.43,No alert
+8786,88.42,Alert
+8787,28.96,No alert
+8788,13.43,No alert
+8789,9.99,No alert
+8790,93.86,Alert
+8791,19.75,No alert
+8792,14.23,No alert
+8793,17.92,No alert
+8794,17.81,No alert
+8795,18.41,No alert
+8796,22.15,No alert
+8797,13.3,No alert
+8798,77.16,Alert
+8799,8.6,No alert
+8800,16.96,No alert
+8801,76.36,Alert
+8802,16.69,No alert
+8803,9.55,No alert
+8804,13.88,No alert
+8805,16.32,No alert
+8806,14.54,No alert
+8807,13.88,No alert
+8808,88.0,Alert
+8809,17.74,No alert
+8810,17.74,No alert
+8811,14.54,No alert
+8812,57.05,Alert
+8813,6.16,No alert
+8814,25.85,No alert
+8815,16.63,No alert
+8816,81.47,Alert
+8817,21.94,No alert
+8818,74.44,Alert
+8819,16.22,No alert
+8820,17.0,No alert
+8821,17.13,No alert
+8822,58.58,Alert
+8823,81.27,Alert
+8824,64.61,Alert
+8825,16.15,No alert
+8826,16.72,No alert
+8827,11.76,No alert
+8828,51.84,Alert
+8829,15.38,No alert
+8830,9.99,No alert
+8831,74.48,Alert
+8832,16.75,No alert
+8833,16.1,No alert
+8834,46.76,Alert
+8835,17.74,No alert
+8836,89.07,Alert
+8837,94.38,Alert
+8838,85.69,Alert
+8839,79.67,Alert
+8840,30.51,No alert
+8841,68.07,Alert
+8842,88.49,Alert
+8843,9.94,No alert
+8844,17.29,No alert
+8845,26.43,No alert
+8846,18.28,No alert
+8847,16.61,No alert
+8848,27.8,No alert
+8849,18.0,No alert
+8850,18.69,No alert
+8851,93.84,Alert
+8852,16.6,No alert
+8853,76.02,Alert
+8854,12.98,No alert
+8855,86.6,Alert
+8856,91.14,Alert
+8857,93.91,Alert
+8858,18.0,No alert
+8859,93.82,Alert
+8860,80.23,Alert
+8861,82.02,Alert
+8862,90.19,Alert
+8863,11.76,No alert
+8864,11.38,No alert
+8865,21.02,No alert
+8866,18.0,No alert
+8867,19.02,No alert
+8868,81.98,Alert
+8869,5.58,No alert
+8870,83.09,Alert
+8871,59.15,Alert
+8872,36.47,Alert
+8873,14.23,No alert
+8874,93.77,Alert
+8875,16.22,No alert
+8876,86.89,Alert
+8877,22.4,No alert
+8878,16.35,No alert
+8879,16.61,No alert
+8880,18.47,No alert
+8881,19.04,No alert
+8882,94.0,Alert
+8883,26.43,No alert
+8884,12.49,No alert
+8885,55.21,Alert
+8886,16.57,No alert
+8887,18.06,No alert
+8888,16.63,No alert
+8889,35.28,Alert
+8890,42.79,Alert
+8891,94.09,Alert
+8892,5.97,No alert
+8893,74.05,Alert
+8894,6.01,No alert
+8895,14.77,No alert
+8896,85.6,Alert
+8897,80.5,Alert
+8898,12.63,No alert
+8899,15.79,No alert
+8900,16.35,No alert
+8901,12.98,No alert
+8902,85.74,Alert
+8903,21.02,No alert
+8904,81.2,Alert
+8905,77.71,Alert
+8906,74.32,Alert
+8907,16.61,No alert
+8908,86.13,Alert
+8909,14.67,No alert
+8910,45.8,Alert
+8911,74.13,Alert
+8912,27.5,No alert
+8913,19.49,No alert
+8914,46.93,Alert
+8915,10.21,No alert
+8916,26.61,No alert
+8917,71.11,Alert
+8918,16.15,No alert
+8919,54.96,Alert
+8920,82.46,Alert
+8921,8.98,No alert
+8922,16.15,No alert
+8923,17.98,No alert
+8924,15.33,No alert
+8925,15.24,No alert
+8926,82.54,Alert
+8927,24.05,No alert
+8928,28.82,No alert
+8929,15.33,No alert
+8930,47.75,Alert
+8931,19.49,No alert
+8932,94.52,Alert
+8933,13.3,No alert
+8934,28.67,No alert
+8935,14.67,No alert
+8936,22.58,No alert
+8937,13.67,No alert
+8938,9.73,No alert
+8939,15.47,No alert
+8940,11.16,No alert
+8941,13.63,No alert
+8942,26.83,No alert
+8943,55.54,Alert
+8944,62.27,Alert
+8945,19.04,No alert
+8946,81.53,Alert
+8947,22.4,No alert
+8948,15.27,No alert
+8949,86.13,Alert
+8950,53.66,Alert
+8951,8.98,No alert
+8952,82.38,Alert
+8953,54.21,Alert
+8954,91.1,Alert
+8955,15.65,No alert
+8956,15.27,No alert
+8957,16.72,No alert
+8958,13.88,No alert
+8959,81.51,Alert
+8960,74.26,Alert
+8961,14.17,No alert
+8962,16.37,No alert
+8963,5.37,No alert
+8964,18.48,No alert
+8965,26.93,No alert
+8966,86.69,Alert
+8967,18.35,No alert
+8968,17.98,No alert
+8969,14.47,No alert
+8970,31.62,No alert
+8971,13.94,No alert
+8972,15.01,No alert
+8973,15.27,No alert
+8974,17.17,No alert
+8975,67.95,Alert
+8976,64.68,Alert
+8977,64.81,Alert
+8978,19.38,No alert
+8979,14.07,No alert
+8980,71.92,Alert
+8981,16.49,No alert
+8982,69.84,Alert
+8983,58.94,Alert
+8984,89.18,Alert
+8985,86.78,Alert
+8986,16.22,No alert
+8987,12.98,No alert
+8988,13.88,No alert
+8989,84.15,Alert
+8990,22.01,No alert
+8991,80.01,Alert
+8992,23.68,No alert
+8993,10.46,No alert
+8994,30.34,No alert
+8995,13.46,No alert
+8996,58.4,Alert
+8997,75.19,Alert
+8998,28.77,No alert
+8999,92.31,Alert
+9000,65.22,Alert
+9001,70.42,Alert
+9002,18.76,No alert
+9003,6.01,No alert
+9004,17.91,No alert
+9005,11.78,No alert
+9006,10.36,No alert
+9007,26.08,No alert
+9008,94.1,Alert
+9009,65.56,Alert
+9010,64.22,Alert
+9011,53.33,Alert
+9012,19.04,No alert
+9013,5.73,No alert
+9014,16.75,No alert
+9015,14.87,No alert
+9016,56.83,Alert
+9017,5.76,No alert
+9018,18.06,No alert
+9019,57.55,Alert
+9020,87.6,Alert
+9021,19.1,No alert
+9022,63.84,Alert
+9023,27.73,No alert
+9024,26.63,No alert
+9025,5.56,No alert
+9026,14.54,No alert
+9027,92.91,Alert
+9028,17.17,No alert
+9029,66.51,Alert
+9030,79.15,Alert
+9031,80.01,Alert
+9032,81.48,Alert
+9033,16.63,No alert
+9034,16.1,No alert
+9035,15.27,No alert
+9036,70.78,Alert
+9037,70.51,Alert
+9038,22.4,No alert
+9039,27.9,No alert
+9040,55.6,Alert
+9041,79.46,Alert
+9042,27.16,No alert
+9043,9.32,No alert
+9044,89.59,Alert
+9045,20.83,No alert
+9046,17.92,No alert
+9047,14.57,No alert
+9048,16.22,No alert
+9049,14.67,No alert
+9050,19.1,No alert
+9051,37.54,Alert
+9052,13.59,No alert
+9053,94.27,Alert
+9054,19.02,No alert
+9055,81.48,Alert
+9056,72.69,Alert
+9057,12.35,No alert
+9058,16.1,No alert
+9059,15.92,No alert
+9060,62.43,Alert
+9061,37.72,Alert
+9062,29.56,No alert
+9063,93.61,Alert
+9064,18.0,No alert
+9065,30.92,No alert
+9066,16.67,No alert
+9067,15.47,No alert
+9068,87.9,Alert
+9069,74.73,Alert
+9070,19.06,No alert
+9071,11.22,No alert
+9072,24.13,No alert
+9073,72.68,Alert
+9074,90.89,Alert
+9075,35.35,Alert
+9076,16.49,No alert
+9077,57.55,Alert
+9078,81.54,Alert
+9079,61.52,Alert
+9080,19.49,No alert
+9081,14.63,No alert
+9082,94.09,Alert
+9083,16.85,No alert
+9084,12.63,No alert
+9085,12.65,No alert
+9086,19.53,No alert
+9087,16.32,No alert
+9088,65.13,Alert
+9089,14.47,No alert
+9090,90.59,Alert
+9091,64.22,Alert
+9092,70.18,Alert
+9093,16.67,No alert
+9094,94.06,Alert
+9095,15.37,No alert
+9096,13.67,No alert
+9097,80.85,Alert
+9098,19.04,No alert
+9099,16.62,No alert
+9100,35.28,Alert
+9101,6.01,No alert
+9102,13.89,No alert
+9103,93.29,Alert
+9104,83.62,Alert
+9105,83.05,Alert
+9106,16.32,No alert
+9107,60.91,Alert
+9108,77.62,Alert
+9109,19.59,No alert
+9110,14.1,No alert
+9111,14.3,No alert
+9112,14.1,No alert
+9113,81.23,Alert
+9114,17.74,No alert
+9115,84.69,Alert
+9116,79.88,Alert
+9117,89.28,Alert
+9118,81.03,Alert
+9119,27.46,No alert
+9120,75.66,Alert
+9121,16.62,No alert
+9122,8.58,No alert
+9123,18.02,No alert
+9124,20.18,No alert
+9125,84.77,Alert
+9126,9.56,No alert
+9127,13.34,No alert
+9128,84.39,Alert
+9129,52.6,Alert
+9130,16.71,No alert
+9131,17.85,No alert
+9132,88.03,Alert
+9133,57.05,Alert
+9134,19.01,No alert
+9135,18.06,No alert
+9136,93.9,Alert
+9137,19.04,No alert
+9138,22.27,No alert
+9139,65.53,Alert
+9140,29.13,No alert
+9141,21.57,No alert
+9142,74.63,Alert
+9143,70.1,Alert
+9144,20.35,No alert
+9145,80.94,Alert
+9146,32.33,No alert
+9147,15.33,No alert
+9148,27.64,No alert
+9149,84.79,Alert
+9150,58.65,Alert
+9151,13.17,No alert
+9152,19.02,No alert
+9153,91.63,Alert
+9154,16.1,No alert
+9155,70.44,Alert
+9156,91.41,Alert
+9157,19.49,No alert
+9158,5.9,No alert
+9159,12.99,No alert
+9160,31.87,No alert
+9161,23.16,No alert
+9162,14.08,No alert
+9163,54.32,Alert
+9164,23.43,No alert
+9165,60.39,Alert
+9166,81.81,Alert
+9167,85.6,Alert
+9168,20.07,No alert
+9169,15.12,No alert
+9170,81.98,Alert
+9171,17.14,No alert
+9172,88.27,Alert
+9173,82.44,Alert
+9174,72.09,Alert
+9175,78.11,Alert
+9176,16.81,No alert
+9177,15.7,No alert
+9178,15.35,No alert
+9179,59.79,Alert
+9180,70.35,Alert
+9181,11.21,No alert
+9182,17.29,No alert
+9183,82.12,Alert
+9184,81.51,Alert
+9185,83.91,Alert
+9186,27.69,No alert
+9187,76.05,Alert
+9188,13.13,No alert
+9189,84.92,Alert
+9190,22.4,No alert
+9191,18.1,No alert
+9192,45.17,Alert
+9193,29.74,No alert
+9194,17.67,No alert
+9195,10.57,No alert
+9196,94.01,Alert
+9197,72.66,Alert
+9198,85.38,Alert
+9199,55.46,Alert
+9200,59.56,Alert
+9201,80.67,Alert
+9202,12.98,No alert
+9203,86.24,Alert
+9204,90.19,Alert
+9205,82.58,Alert
+9206,84.96,Alert
+9207,16.71,No alert
+9208,13.3,No alert
+9209,23.94,No alert
+9210,33.45,No alert
+9211,69.64,Alert
+9212,29.42,No alert
+9213,27.44,No alert
+9214,17.74,No alert
+9215,16.35,No alert
+9216,19.4,No alert
+9217,79.53,Alert
+9218,62.44,Alert
+9219,18.1,No alert
+9220,19.49,No alert
+9221,10.84,No alert
+9222,13.3,No alert
+9223,14.57,No alert
+9224,94.65,Alert
+9225,16.25,No alert
+9226,28.67,No alert
+9227,73.8,Alert
+9228,19.1,No alert
+9229,13.67,No alert
+9230,58.85,Alert
+9231,42.67,Alert
+9232,5.43,No alert
+9233,86.84,Alert
+9234,75.23,Alert
+9235,38.7,Alert
+9236,81.3,Alert
+9237,19.37,No alert
+9238,18.66,No alert
+9239,61.47,Alert
+9240,14.54,No alert
+9241,17.67,No alert
+9242,50.33,Alert
+9243,32.5,No alert
+9244,53.67,Alert
+9245,50.11,Alert
+9246,93.96,Alert
+9247,48.76,Alert
+9248,90.71,Alert
+9249,18.45,No alert
+9250,31.84,No alert
+9251,54.32,Alert
+9252,15.96,No alert
+9253,14.67,No alert
+9254,67.36,Alert
+9255,14.67,No alert
+9256,25.84,No alert
+9257,14.61,No alert
+9258,13.59,No alert
+9259,93.93,Alert
+9260,20.9,No alert
+9261,14.7,No alert
+9262,16.22,No alert
+9263,22.4,No alert
+9264,94.04,Alert
+9265,19.37,No alert
+9266,43.45,Alert
+9267,87.41,Alert
+9268,14.59,No alert
+9269,18.44,No alert
+9270,17.99,No alert
+9271,16.38,No alert
+9272,27.3,No alert
+9273,17.12,No alert
+9274,10.36,No alert
+9275,15.9,No alert
+9276,86.22,Alert
+9277,13.85,No alert
+9278,15.2,No alert
+9279,9.15,No alert
+9280,70.39,Alert
+9281,54.37,Alert
+9282,87.05,Alert
+9283,11.45,No alert
+9284,71.92,Alert
+9285,18.06,No alert
+9286,41.31,Alert
+9287,58.9,Alert
+9288,61.03,Alert
+9289,19.49,No alert
+9290,31.92,No alert
+9291,21.2,No alert
+9292,39.4,Alert
+9293,75.43,Alert
+9294,71.92,Alert
+9295,73.43,Alert
+9296,20.75,No alert
+9297,16.49,No alert
+9298,16.9,No alert
+9299,58.58,Alert
+9300,14.36,No alert
+9301,16.74,No alert
+9302,18.05,No alert
+9303,65.3,Alert
+9304,14.7,No alert
+9305,23.74,No alert
+9306,14.54,No alert
+9307,16.63,No alert
+9308,14.9,No alert
+9309,57.77,Alert
+9310,19.22,No alert
+9311,19.02,No alert
+9312,51.51,Alert
+9313,22.39,No alert
+9314,40.33,Alert
+9315,57.42,Alert
+9316,8.63,No alert
+9317,83.9,Alert
+9318,56.29,Alert
+9319,55.93,Alert
+9320,65.3,Alert
+9321,75.76,Alert
+9322,88.65,Alert
+9323,14.27,No alert
+9324,44.44,Alert
+9325,82.38,Alert
+9326,74.44,Alert
+9327,16.49,No alert
+9328,15.64,No alert
+9329,12.9,No alert
+9330,20.25,No alert
+9331,17.29,No alert
+9332,93.37,Alert
+9333,16.1,No alert
+9334,17.74,No alert
+9335,55.47,Alert
+9336,16.83,No alert
+9337,10.28,No alert
+9338,22.66,No alert
+9339,93.32,Alert
+9340,81.98,Alert
+9341,60.14,Alert
+9342,75.52,Alert
+9343,18.35,No alert
+9344,20.57,No alert
+9345,48.88,Alert
+9346,88.45,Alert
+9347,51.35,Alert
+9348,59.56,Alert
+9349,26.77,No alert
+9350,18.47,No alert
+9351,59.9,Alert
+9352,93.7,Alert
+9353,70.79,Alert
+9354,29.71,No alert
+9355,83.87,Alert
+9356,14.9,No alert
+9357,14.08,No alert
+9358,87.84,Alert
+9359,16.55,No alert
+9360,24.1,No alert
+9361,16.63,No alert
+9362,16.22,No alert
+9363,43.07,Alert
+9364,7.1,No alert
+9365,5.43,No alert
+9366,34.44,No alert
+9367,65.96,Alert
+9368,21.02,No alert
+9369,15.92,No alert
+9370,14.1,No alert
+9371,46.14,Alert
+9372,17.69,No alert
+9373,13.3,No alert
+9374,14.18,No alert
+9375,75.28,Alert
+9376,79.52,Alert
+9377,16.49,No alert
+9378,57.33,Alert
+9379,94.44,Alert
+9380,13.88,No alert
+9381,16.32,No alert
+9382,17.92,No alert
+9383,10.36,No alert
+9384,22.14,No alert
+9385,17.17,No alert
+9386,88.07,Alert
+9387,14.47,No alert
+9388,93.3,Alert
+9389,87.98,Alert
+9390,35.7,Alert
+9391,17.85,No alert
+9392,59.84,Alert
+9393,94.11,Alert
+9394,32.82,No alert
+9395,67.42,Alert
+9396,66.56,Alert
+9397,18.63,No alert
+9398,83.59,Alert
+9399,14.08,No alert
+9400,42.78,Alert
+9401,17.3,No alert
+9402,19.01,No alert
+9403,11.62,No alert
+9404,72.63,Alert
+9405,58.89,Alert
+9406,16.49,No alert
+9407,16.35,No alert
+9408,74.86,Alert
+9409,21.16,No alert
+9410,91.41,Alert
+9411,24.86,No alert
+9412,64.33,Alert
+9413,14.8,No alert
+9414,11.41,No alert
+9415,16.67,No alert
+9416,14.43,No alert
+9417,14.67,No alert
+9418,11.76,No alert
+9419,52.6,Alert
+9420,61.72,Alert
+9421,17.04,No alert
+9422,36.47,Alert
+9423,79.11,Alert
+9424,93.84,Alert
+9425,14.67,No alert
+9426,18.47,No alert
+9427,81.45,Alert
+9428,16.67,No alert
+9429,94.09,Alert
+9430,17.74,No alert
+9431,68.52,Alert
+9432,26.43,No alert
+9433,13.61,No alert
+9434,16.71,No alert
+9435,16.57,No alert
+9436,12.98,No alert
+9437,79.21,Alert
+9438,5.79,No alert
+9439,14.54,No alert
+9440,16.78,No alert
+9441,68.7,Alert
+9442,11.83,No alert
+9443,23.94,No alert
+9444,59.89,Alert
+9445,71.08,Alert
+9446,14.47,No alert
+9447,59.15,Alert
+9448,75.43,Alert
+9449,91.06,Alert
+9450,52.6,Alert
+9451,27.69,No alert
+9452,17.56,No alert
+9453,15.7,No alert
+9454,87.04,Alert
+9455,90.11,Alert
+9456,60.07,Alert
+9457,5.68,No alert
+9458,18.1,No alert
+9459,19.04,No alert
+9460,15.91,No alert
+9461,17.74,No alert
+9462,64.93,Alert
+9463,84.13,Alert
+9464,15.3,No alert
+9465,17.29,No alert
+9466,18.51,No alert
+9467,14.82,No alert
+9468,82.12,Alert
+9469,24.84,No alert
+9470,12.87,No alert
+9471,37.98,Alert
+9472,14.02,No alert
+9473,16.43,No alert
+9474,51.13,Alert
+9475,15.2,No alert
+9476,13.3,No alert
+9477,13.67,No alert
+9478,22.4,No alert
+9479,64.82,Alert
+9480,15.61,No alert
+9481,14.69,No alert
+9482,13.27,No alert
+9483,71.62,Alert
+9484,77.48,Alert
+9485,18.06,No alert
+9486,17.74,No alert
+9487,20.01,No alert
+9488,21.84,No alert
+9489,22.4,No alert
+9490,16.62,No alert
+9491,72.81,Alert
+9492,44.72,Alert
+9493,88.53,Alert
+9494,86.76,Alert
+9495,38.87,Alert
+9496,65.48,Alert
+9497,81.59,Alert
+9498,16.89,No alert
+9499,18.97,No alert
+9500,90.47,Alert
+9501,19.37,No alert
+9502,14.1,No alert
+9503,74.93,Alert
+9504,16.97,No alert
+9505,19.32,No alert
+9506,84.4,Alert
+9507,89.96,Alert
+9508,5.56,No alert
+9509,16.3,No alert
+9510,14.89,No alert
+9511,18.35,No alert
+9512,14.08,No alert
+9513,43.7,Alert
+9514,87.91,Alert
+9515,17.29,No alert
+9516,18.06,No alert
+9517,83.44,Alert
+9518,58.86,Alert
+9519,51.24,Alert
+9520,42.12,Alert
+9521,12.16,No alert
+9522,79.8,Alert
+9523,37.54,Alert
+9524,11.83,No alert
+9525,17.36,No alert
+9526,91.03,Alert
+9527,80.37,Alert
+9528,69.58,Alert
+9529,22.05,No alert
+9530,43.91,Alert
+9531,20.01,No alert
+9532,11.0,No alert
+9533,12.98,No alert
+9534,13.3,No alert
+9535,94.01,Alert
+9536,15.64,No alert
+9537,93.81,Alert
+9538,11.83,No alert
+9539,85.27,Alert
+9540,37.54,Alert
+9541,23.49,No alert
+9542,92.83,Alert
+9543,61.69,Alert
+9544,94.51,Alert
+9545,18.1,No alert
+9546,15.7,No alert
+9547,14.8,No alert
+9548,60.51,Alert
+9549,56.78,Alert
+9550,93.3,Alert
+9551,18.94,No alert
+9552,5.81,No alert
+9553,51.14,Alert
+9554,13.67,No alert
+9555,12.63,No alert
+9556,85.74,Alert
+9557,87.24,Alert
+9558,93.2,Alert
+9559,74.88,Alert
+9560,68.41,Alert
+9561,22.1,No alert
+9562,58.12,Alert
+9563,29.36,No alert
+9564,16.4,No alert
+9565,13.37,No alert
+9566,17.33,No alert
+9567,5.06,No alert
+9568,13.88,No alert
+9569,92.99,Alert
+9570,85.51,Alert
+9571,12.16,No alert
+9572,16.62,No alert
+9573,17.74,No alert
+9574,80.77,Alert
+9575,29.3,No alert
+9576,21.53,No alert
+9577,18.86,No alert
+9578,14.08,No alert
+9579,6.03,No alert
+9580,56.3,Alert
+9581,16.62,No alert
+9582,18.47,No alert
+9583,13.13,No alert
+9584,18.27,No alert
+9585,18.0,No alert
+9586,17.17,No alert
+9587,19.28,No alert
+9588,33.89,No alert
+9589,93.49,Alert
+9590,20.73,No alert
+9591,16.22,No alert
+9592,52.75,Alert
+9593,6.16,No alert
+9594,19.54,No alert
+9595,17.03,No alert
+9596,16.97,No alert
+9597,72.24,Alert
+9598,11.62,No alert
+9599,17.29,No alert
+9600,18.63,No alert
+9601,86.48,Alert
+9602,14.9,No alert
+9603,20.22,No alert
+9604,5.79,No alert
+9605,14.08,No alert
+9606,14.67,No alert
+9607,23.25,No alert
+9608,52.75,Alert
+9609,17.35,No alert
+9610,90.87,Alert
+9611,16.57,No alert
+9612,19.93,No alert
+9613,21.02,No alert
+9614,20.83,No alert
+9615,14.9,No alert
+9616,79.6,Alert
+9617,93.16,Alert
+9618,12.63,No alert
+9619,80.9,Alert
+9620,16.1,No alert
+9621,82.2,Alert
+9622,52.6,Alert
+9623,9.71,No alert
+9624,15.98,No alert
+9625,28.42,No alert
+9626,15.24,No alert
+9627,14.5,No alert
+9628,10.0,No alert
+9629,27.16,No alert
+9630,90.82,Alert
+9631,12.47,No alert
+9632,31.26,No alert
+9633,73.15,Alert
+9634,20.01,No alert
+9635,27.69,No alert
+9636,13.59,No alert
+9637,82.78,Alert
+9638,15.4,No alert
+9639,55.65,Alert
+9640,94.64,Alert
+9641,12.98,No alert
+9642,14.67,No alert
+9643,84.97,Alert
+9644,78.72,Alert
+9645,57.02,Alert
+9646,93.99,Alert
+9647,17.73,No alert
+9648,21.08,No alert
+9649,17.07,No alert
+9650,70.98,Alert
+9651,94.09,Alert
+9652,72.62,Alert
+9653,67.03,Alert
+9654,87.28,Alert
+9655,90.52,Alert
+9656,15.92,No alert
+9657,76.3,Alert
+9658,16.01,No alert
+9659,55.63,Alert
+9660,74.4,Alert
+9661,76.67,Alert
+9662,64.38,Alert
+9663,18.0,No alert
+9664,85.75,Alert
+9665,55.65,Alert
+9666,45.73,Alert
+9667,16.67,No alert
+9668,80.93,Alert
+9669,29.71,No alert
+9670,15.27,No alert
+9671,60.36,Alert
+9672,15.27,No alert
+9673,17.83,No alert
+9674,22.22,No alert
+9675,77.62,Alert
+9676,57.81,Alert
+9677,16.22,No alert
+9678,19.04,No alert
+9679,14.7,No alert
+9680,58.11,Alert
+9681,10.71,No alert

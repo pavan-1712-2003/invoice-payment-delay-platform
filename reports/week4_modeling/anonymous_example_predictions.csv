@@ -1,0 +1,26 @@
+test_record_number,actual_late_payment,predicted_late_probability_percent,late_payment_alert
+1,0,17.69,No alert
+2,0,17.39,No alert
+3,0,17.94,No alert
+4,0,61.67,Alert
+5,1,69.56,Alert
+6,0,6.08,No alert
+7,0,47.5,Alert
+8,0,59.07,Alert
+9,0,16.76,No alert
+10,0,51.45,Alert
+11,1,26.03,No alert
+12,1,18.97,No alert
+13,0,18.43,No alert
+14,0,16.02,No alert
+15,0,91.56,Alert
+16,0,18.2,No alert
+17,0,18.01,No alert
+18,0,51.97,Alert
+19,0,27.19,No alert
+20,1,59.21,Alert
+21,1,9.76,No alert
+22,0,22.9,No alert
+23,0,56.46,Alert
+24,1,25.96,No alert
+25,0,61.63,Alert

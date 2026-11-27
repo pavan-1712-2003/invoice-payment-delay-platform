@@ -1,0 +1,3 @@
+model,brier_score,log_loss,test_rows
+Uncalibrated Random Forest,0.15876429820830637,0.4875121109819225,2359
+Sigmoid Calibrated Random Forest,0.1550725554775495,0.4778829576558168,2359

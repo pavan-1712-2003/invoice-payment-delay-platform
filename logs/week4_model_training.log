@@ -1,0 +1,9 @@
+2026-11-27 16:35:41,984 - INFO - Training Logistic Regression
+2026-11-27 16:35:42,472 - INFO - Logistic Regression evaluation completed
+2026-11-27 16:35:42,473 - INFO - Training Random Forest
+2026-11-27 16:35:53,242 - INFO - Random Forest evaluation completed
+2026-11-27 16:35:53,242 - INFO - Training XGBoost unweighted
+2026-11-27 16:35:55,633 - INFO - XGBoost unweighted evaluation completed
+2026-11-27 16:35:55,633 - INFO - Training XGBoost weighted
+2026-11-27 16:35:56,934 - INFO - XGBoost weighted evaluation completed
+2026-11-27 16:35:57,141 - INFO - All baseline model experiments completed.

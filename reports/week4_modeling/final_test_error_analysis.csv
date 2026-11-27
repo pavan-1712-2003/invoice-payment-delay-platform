@@ -1,0 +1,5 @@
+error_type,count,meaning
+False positives,353,On-time invoices incorrectly flagged as late
+False negatives,211,Late invoices missed by the model
+True positives,734,Late invoices correctly identified
+True negatives,1061,On-time invoices correctly identified

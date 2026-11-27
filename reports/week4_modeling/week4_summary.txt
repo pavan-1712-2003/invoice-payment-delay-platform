@@ -1,0 +1,160 @@
+WEEK 4 - CLASSIFICATION MODELING SUMMARY
+=========================================
+
+OBJECTIVE
+Predict the probability that a settled invoice will be paid late.
+
+MODEL COMPARISON
+----------------
+All initial model comparisons used the September-November 2019
+validation period.
+
+              model        imbalance_method  accuracy  precision  recall     f1  roc_auc  pr_auc
+  Majority baseline                    None    0.5814     0.0000  0.0000 0.0000      NaN     NaN
+Logistic Regression                    None    0.7458     0.7305  0.6224 0.6721   0.8101  0.7631
+      Random Forest   class_weight=balanced    0.7942     0.7577  0.7473 0.7525   0.8504  0.8252
+            XGBoost              Unweighted    0.7981     0.7905  0.7044 0.7450   0.8544  0.8350
+            XGBoost scale_pos_weight=1.3386    0.7968     0.7716  0.7308 0.7506   0.8549  0.8349
+
+MODEL SELECTION
+---------------
+Random Forest with balanced class weights produced the highest
+validation F1 score among the tested models at the default 0.50
+threshold.
+
+XGBoost produced slightly stronger ROC-AUC and PR-AUC results.
+Therefore, Random Forest is selected for the calibrated pipeline
+based on its validation F1 and recall, not because it wins every
+metric.
+
+THRESHOLD ANALYSIS
+------------------
+The highest validation F1 among the tested Random Forest thresholds
+was at 0.40:
+
+Precision: 72.02%
+Recall:    79.36%
+F1:        75.51%
+
+The 0.40 threshold is a provisional operating choice. Business costs
+for false alerts and missed late payments have not been established.
+
+PROBABILITY CALIBRATION
+-----------------------
+Calibration method: Sigmoid
+Calibration period: December 2019-January 2020
+
+Uncalibrated Brier score: 0.158764
+Calibrated Brier score:   0.155073
+
+Uncalibrated log loss: 0.487512
+Calibrated log loss:   0.477883
+
+FINAL TEST
+----------
+Final test period: February 1-27, 2020
+Test invoices: 2359
+
+Accuracy:  76.0916%
+Precision: 67.5253%
+Recall:    77.6720%
+F1 score:  72.2441%
+ROC-AUC:   0.838856
+PR-AUC:    0.805223
+
+CONFUSION MATRIX
+----------------
+True negatives:  1061
+False positives: 353
+False negatives: 211
+True positives:  734
+
+INTERPRETATION
+--------------
+The model identified approximately 77.67% of late invoices in the
+final test period.
+
+There were 353 false positive alerts and 211 missed late invoices.
+Approximately 32.5% of predicted late alerts were false positives.
+
+Calibration improved Brier score and log loss. The calibrated
+classification threshold was mapped from the original 0.40
+Random Forest threshold to approximately 0.34915. The final test
+classification metrics remained unchanged after this mapping.
+
+FEATURES AND DATA CONTROL
+------------------------
+- 17 approved model features were used.
+- total_open_amount was excluded because its business meaning
+  remains unconfirmed.
+- Outcome fields and invoice/customer identifiers were excluded.
+- Customer history features use only payment outcomes available
+  before each invoice's posting date.
+- Open invoices without known outcomes were not used as labelled
+  training examples.
+
+LIMITATIONS
+-----------
+1. Evaluation covers historical settled invoices, not all future
+   open invoices. Selection bias is possible.
+2. The dataset covers a limited historical period.
+3. The business meaning of total_open_amount is unconfirmed.
+4. The threshold has not been optimized against actual business
+   costs.
+5. Calibration improvement is modest and needs monitoring on new data.
+6. Validation class-imbalance methods differed across models:
+   Random Forest used balanced class weights, weighted XGBoost used
+   scale_pos_weight, and Logistic Regression and unweighted XGBoost
+   did not use class weighting.
+
+FINAL DECISION
+--------------
+Use the sigmoid-calibrated Random Forest as the current Week 4
+candidate model. Treat the 0.34915 calibrated threshold as a
+provisional alert threshold pending business cost validation.
+
+This is a historical evaluation, not evidence of production
+performance.
+
+
+
+TIME-AWARE CROSS-VALIDATION
+----------------------------
+Method: Five-fold expanding-window TimeSeriesSplit
+Data: Historical invoices through 2019-08-31
+Splitting: Unique posting dates; same-day invoices kept together
+Preprocessing: Fitted independently inside each fold
+Classification threshold: 0.50
+
+              model  folds  accuracy_mean  accuracy_std  precision_mean  precision_std  recall_mean  recall_std  f1_mean   f1_std  roc_auc_mean  roc_auc_std  pr_auc_mean  pr_auc_std
+      Random Forest      5       0.778869      0.020487        0.742981       0.035537     0.734570    0.028940 0.738231 0.023545      0.833175     0.024404     0.806162    0.038538
+   XGBoost weighted      5       0.778025      0.023425        0.754981       0.045291     0.709968    0.037347 0.730784 0.027319      0.833780     0.026577     0.808749    0.043253
+ XGBoost unweighted      5       0.782383      0.025104        0.779962       0.046409     0.682024    0.038568 0.726779 0.029950      0.834730     0.024271     0.809798    0.042206
+Logistic Regression      5       0.740269      0.017365        0.744942       0.035784     0.593667    0.049872 0.659196 0.029334      0.802100     0.018460     0.759145    0.027726
+  Majority baseline      5       0.575361      0.011647        0.000000       0.000000     0.000000    0.000000 0.000000 0.000000           NaN          NaN          NaN         NaN
+
+CROSS-VALIDATION INTERPRETATION
+-------------------------------
+Random Forest achieved the highest mean F1 and recall across
+the five folds. Unweighted XGBoost achieved the highest mean
+ROC-AUC and PR-AUC.
+
+Random Forest remains the selected candidate because late-invoice
+detection and F1/recall are important objectives. It does not
+dominate every evaluation metric.
+
+Fold-level results are available in time_cv_fold_results.csv.
+Mean and standard deviation are available in time_cv_summary.csv.
+
+
+OPEN INVOICE RISK PREDICTIONS
+-----------------------------
+Open invoices scored: 9681
+Late-payment alerts: 4132
+No-alert predictions: 5549
+Alert percentage: 42.68%
+
+These are model-generated predictions. Actual payment outcomes
+are unknown and must not be interpreted as confirmed late payments.
+
+Prediction file: open_invoice_risk_predictions.csv

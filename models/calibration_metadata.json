@@ -1,0 +1,31 @@
+{
+    "model": "RandomForestClassifier",
+    "n_estimators": 150,
+    "min_samples_leaf": 5,
+    "class_weight": "balanced",
+    "random_state": 42,
+    "calibration": "sigmoid",
+    "training_period": "Through 2019-08-31",
+    "calibration_period": "2019-12-01 to 2020-01-31",
+    "final_test_period": "2020-02-01 to 2020-02-27",
+    "features": [
+        "business_code",
+        "invoice_currency",
+        "document_type",
+        "cust_payment_terms",
+        "has_customer_payment_history",
+        "invoice_year",
+        "invoice_month",
+        "invoice_day",
+        "invoice_day_of_week",
+        "payment_term_days",
+        "posting_to_due_days",
+        "is_due_date_anomaly",
+        "customer_previous_invoice_count",
+        "customer_previous_cleared_count",
+        "customer_previous_late_rate",
+        "customer_previous_avg_delay",
+        "customer_previous_median_delay"
+    ],
+    "total_open_amount_excluded": true
+}

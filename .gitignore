@@ -1,8 +1,7 @@
-@"
-__pycache__/
+﻿__pycache__/
 *.pyc
 .venv/
 venv/
 .env
 .ipynb_checkpoints/
-"@ | Set-Content .gitignore
+models/random_forest_uncalibrated.joblib

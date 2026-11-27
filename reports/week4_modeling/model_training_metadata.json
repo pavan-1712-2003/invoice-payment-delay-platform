@@ -1,0 +1,29 @@
+{
+    "training_period": "Through 2019-08-31",
+    "validation_period": "2019-09-01 to 2019-11-30",
+    "training_rows": 23716,
+    "validation_rows": 8679,
+    "feature_count": 17,
+    "features": [
+        "business_code",
+        "invoice_currency",
+        "document_type",
+        "cust_payment_terms",
+        "has_customer_payment_history",
+        "invoice_year",
+        "invoice_month",
+        "invoice_day",
+        "invoice_day_of_week",
+        "payment_term_days",
+        "posting_to_due_days",
+        "is_due_date_anomaly",
+        "customer_previous_invoice_count",
+        "customer_previous_cleared_count",
+        "customer_previous_late_rate",
+        "customer_previous_avg_delay",
+        "customer_previous_median_delay"
+    ],
+    "classification_threshold": 0.5,
+    "xgboost_scale_pos_weight": 1.3386253821122178,
+    "random_state": 42
+}
